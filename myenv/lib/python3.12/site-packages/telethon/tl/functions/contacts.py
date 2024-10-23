@@ -493,7 +493,7 @@ class GetTopPeersRequest(TLRequest):
     CONSTRUCTOR_ID = 0x973478b6
     SUBCLASS_OF_ID = 0x9ee8bb88
 
-    def __init__(self, offset: int, limit: int, hash: int, correspondents: Optional[bool]=None, bots_pm: Optional[bool]=None, bots_inline: Optional[bool]=None, phone_calls: Optional[bool]=None, forward_users: Optional[bool]=None, forward_chats: Optional[bool]=None, groups: Optional[bool]=None, channels: Optional[bool]=None):
+    def __init__(self, offset: int, limit: int, hash: int, correspondents: Optional[bool]=None, bots_pm: Optional[bool]=None, bots_inline: Optional[bool]=None, phone_calls: Optional[bool]=None, forward_users: Optional[bool]=None, forward_chats: Optional[bool]=None, groups: Optional[bool]=None, channels: Optional[bool]=None, bots_app: Optional[bool]=None):
         """
         :returns contacts.TopPeers: Instance of either TopPeersNotModified, TopPeers, TopPeersDisabled.
         """
@@ -508,6 +508,7 @@ class GetTopPeersRequest(TLRequest):
         self.forward_chats = forward_chats
         self.groups = groups
         self.channels = channels
+        self.bots_app = bots_app
 
     def to_dict(self):
         return {
@@ -522,13 +523,14 @@ class GetTopPeersRequest(TLRequest):
             'forward_users': self.forward_users,
             'forward_chats': self.forward_chats,
             'groups': self.groups,
-            'channels': self.channels
+            'channels': self.channels,
+            'bots_app': self.bots_app
         }
 
     def _bytes(self):
         return b''.join((
             b'\xb6x4\x97',
-            struct.pack('<I', (0 if self.correspondents is None or self.correspondents is False else 1) | (0 if self.bots_pm is None or self.bots_pm is False else 2) | (0 if self.bots_inline is None or self.bots_inline is False else 4) | (0 if self.phone_calls is None or self.phone_calls is False else 8) | (0 if self.forward_users is None or self.forward_users is False else 16) | (0 if self.forward_chats is None or self.forward_chats is False else 32) | (0 if self.groups is None or self.groups is False else 1024) | (0 if self.channels is None or self.channels is False else 32768)),
+            struct.pack('<I', (0 if self.correspondents is None or self.correspondents is False else 1) | (0 if self.bots_pm is None or self.bots_pm is False else 2) | (0 if self.bots_inline is None or self.bots_inline is False else 4) | (0 if self.phone_calls is None or self.phone_calls is False else 8) | (0 if self.forward_users is None or self.forward_users is False else 16) | (0 if self.forward_chats is None or self.forward_chats is False else 32) | (0 if self.groups is None or self.groups is False else 1024) | (0 if self.channels is None or self.channels is False else 32768) | (0 if self.bots_app is None or self.bots_app is False else 65536)),
             struct.pack('<i', self.offset),
             struct.pack('<i', self.limit),
             struct.pack('<q', self.hash),
@@ -546,10 +548,11 @@ class GetTopPeersRequest(TLRequest):
         _forward_chats = bool(flags & 32)
         _groups = bool(flags & 1024)
         _channels = bool(flags & 32768)
+        _bots_app = bool(flags & 65536)
         _offset = reader.read_int()
         _limit = reader.read_int()
         _hash = reader.read_long()
-        return cls(offset=_offset, limit=_limit, hash=_hash, correspondents=_correspondents, bots_pm=_bots_pm, bots_inline=_bots_inline, phone_calls=_phone_calls, forward_users=_forward_users, forward_chats=_forward_chats, groups=_groups, channels=_channels)
+        return cls(offset=_offset, limit=_limit, hash=_hash, correspondents=_correspondents, bots_pm=_bots_pm, bots_inline=_bots_inline, phone_calls=_phone_calls, forward_users=_forward_users, forward_chats=_forward_chats, groups=_groups, channels=_channels, bots_app=_bots_app)
 
 
 class ImportContactTokenRequest(TLRequest):

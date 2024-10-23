@@ -571,15 +571,16 @@ class SentCodeTypeEmailCode(TLObject):
 
 
 class SentCodeTypeFirebaseSms(TLObject):
-    CONSTRUCTOR_ID = 0x13c90f17
+    CONSTRUCTOR_ID = 0x9fd736
     SUBCLASS_OF_ID = 0xff5b158e
 
-    def __init__(self, length: int, nonce: Optional[bytes]=None, play_integrity_nonce: Optional[bytes]=None, receipt: Optional[str]=None, push_timeout: Optional[int]=None):
+    def __init__(self, length: int, nonce: Optional[bytes]=None, play_integrity_project_id: Optional[int]=None, play_integrity_nonce: Optional[bytes]=None, receipt: Optional[str]=None, push_timeout: Optional[int]=None):
         """
         Constructor for auth.SentCodeType: Instance of either SentCodeTypeApp, SentCodeTypeSms, SentCodeTypeCall, SentCodeTypeFlashCall, SentCodeTypeMissedCall, SentCodeTypeEmailCode, SentCodeTypeSetUpEmailRequired, SentCodeTypeFragmentSms, SentCodeTypeFirebaseSms, SentCodeTypeSmsWord, SentCodeTypeSmsPhrase.
         """
         self.length = length
         self.nonce = nonce
+        self.play_integrity_project_id = play_integrity_project_id
         self.play_integrity_nonce = play_integrity_nonce
         self.receipt = receipt
         self.push_timeout = push_timeout
@@ -589,17 +590,20 @@ class SentCodeTypeFirebaseSms(TLObject):
             '_': 'SentCodeTypeFirebaseSms',
             'length': self.length,
             'nonce': self.nonce,
+            'play_integrity_project_id': self.play_integrity_project_id,
             'play_integrity_nonce': self.play_integrity_nonce,
             'receipt': self.receipt,
             'push_timeout': self.push_timeout
         }
 
     def _bytes(self):
+        assert ((self.play_integrity_project_id or self.play_integrity_project_id is not None) and (self.play_integrity_nonce or self.play_integrity_nonce is not None)) or ((self.play_integrity_project_id is None or self.play_integrity_project_id is False) and (self.play_integrity_nonce is None or self.play_integrity_nonce is False)), 'play_integrity_project_id, play_integrity_nonce parameters must all be False-y (like None) or all me True-y'
         assert ((self.receipt or self.receipt is not None) and (self.push_timeout or self.push_timeout is not None)) or ((self.receipt is None or self.receipt is False) and (self.push_timeout is None or self.push_timeout is False)), 'receipt, push_timeout parameters must all be False-y (like None) or all me True-y'
         return b''.join((
-            b'\x17\x0f\xc9\x13',
-            struct.pack('<I', (0 if self.nonce is None or self.nonce is False else 1) | (0 if self.play_integrity_nonce is None or self.play_integrity_nonce is False else 4) | (0 if self.receipt is None or self.receipt is False else 2) | (0 if self.push_timeout is None or self.push_timeout is False else 2)),
+            b'6\xd7\x9f\x00',
+            struct.pack('<I', (0 if self.nonce is None or self.nonce is False else 1) | (0 if self.play_integrity_project_id is None or self.play_integrity_project_id is False else 4) | (0 if self.play_integrity_nonce is None or self.play_integrity_nonce is False else 4) | (0 if self.receipt is None or self.receipt is False else 2) | (0 if self.push_timeout is None or self.push_timeout is False else 2)),
             b'' if self.nonce is None or self.nonce is False else (self.serialize_bytes(self.nonce)),
+            b'' if self.play_integrity_project_id is None or self.play_integrity_project_id is False else (struct.pack('<q', self.play_integrity_project_id)),
             b'' if self.play_integrity_nonce is None or self.play_integrity_nonce is False else (self.serialize_bytes(self.play_integrity_nonce)),
             b'' if self.receipt is None or self.receipt is False else (self.serialize_bytes(self.receipt)),
             b'' if self.push_timeout is None or self.push_timeout is False else (struct.pack('<i', self.push_timeout)),
@@ -615,6 +619,10 @@ class SentCodeTypeFirebaseSms(TLObject):
         else:
             _nonce = None
         if flags & 4:
+            _play_integrity_project_id = reader.read_long()
+        else:
+            _play_integrity_project_id = None
+        if flags & 4:
             _play_integrity_nonce = reader.tgread_bytes()
         else:
             _play_integrity_nonce = None
@@ -627,7 +635,7 @@ class SentCodeTypeFirebaseSms(TLObject):
         else:
             _push_timeout = None
         _length = reader.read_int()
-        return cls(length=_length, nonce=_nonce, play_integrity_nonce=_play_integrity_nonce, receipt=_receipt, push_timeout=_push_timeout)
+        return cls(length=_length, nonce=_nonce, play_integrity_project_id=_play_integrity_project_id, play_integrity_nonce=_play_integrity_nonce, receipt=_receipt, push_timeout=_push_timeout)
 
 
 class SentCodeTypeFlashCall(TLObject):

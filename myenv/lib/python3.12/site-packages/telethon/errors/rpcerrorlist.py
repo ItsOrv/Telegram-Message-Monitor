@@ -1627,6 +1627,16 @@ class FloodWaitError(FloodError):
         return type(self), (self.request, self.seconds)
 
 
+class FloodPremiumWaitError(FloodError):
+    def __init__(self, request, capture=0):
+        self.request = request
+        self.seconds = int(capture)
+        super(Exception, self).__init__('A wait of {seconds} seconds is required in non-premium accounts'.format(seconds=self.seconds) + self._fmt_request(self.request))
+
+    def __reduce__(self):
+        return type(self), (self.request, self.seconds)
+
+
 class FolderIdEmptyError(BadRequestError):
     def __init__(self, request):
         self.request = request
@@ -5261,6 +5271,7 @@ rpc_errors_re = (
     ('FILE_PART_(\\d+)_MISSING', FilePartMissingError),
     ('FLOOD_TEST_PHONE_WAIT_(\\d+)', FloodTestPhoneWaitError),
     ('FLOOD_WAIT_(\\d+)', FloodWaitError),
+    ('FLOOD_PREMIUM_WAIT_(\\d+)', FloodPremiumWaitError),
     ('INTERDC_(\\d+)_CALL_ERROR', InterdcCallErrorError),
     ('INTERDC_(\\d+)_CALL_RICH_ERROR', InterdcCallRichErrorError),
     ('NETWORK_MIGRATE_(\\d+)', NetworkMigrateError),
