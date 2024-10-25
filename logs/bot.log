@@ -2070,3 +2070,2563 @@ TypeError: ConfigManager.__init__() takes from 1 to 2 positional arguments but 3
 2024-10-25 19:01:38,968 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
 2024-10-25 19:01:38,973 [INFO] Not disconnecting (already have no connection)
 2024-10-25 19:01:38,977 [INFO] Bot stopped by user
+2024-10-25 19:04:05,020 [INFO] load_config in ConfigManager
+2024-10-25 19:04:05,020 [INFO] Config file found!
+2024-10-25 19:04:05,022 [INFO] load_config in ConfigManager
+2024-10-25 19:04:05,022 [INFO] Config file found!
+2024-10-25 19:04:05,023 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 19:04:05,126 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 19:04:05,714 [INFO] No new sessions detected.
+2024-10-25 19:04:05,716 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 19:04:05,725 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 19:04:05,802 [INFO] Started client: 258833982548.session
+2024-10-25 19:04:05,802 [INFO] Bot started successfully
+2024-10-25 19:04:05,803 [INFO] Bot is running...
+2024-10-25 19:04:14,666 [INFO] callback_handler in CallbackHandler
+2024-10-25 19:04:14,667 [INFO] add_keyword in callback_handler in CallbackHandler
+2024-10-25 19:04:14,667 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 19:04:17,792 [INFO] message_handler in MessageHandler
+2024-10-25 19:04:17,792 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 19:04:17,792 [INFO] save_config in ConfigManager
+2024-10-25 19:04:17,793 [INFO] JSON file saved successfully
+2024-10-25 19:11:08,761 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 19:11:08,761 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 19:11:08,774 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 19:11:08,775 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 19:11:08,781 [INFO] Not disconnecting (already have no connection)
+2024-10-25 19:11:08,787 [INFO] Bot stopped by user
+2024-10-25 19:11:10,898 [INFO] load_config in ConfigManager
+2024-10-25 19:11:10,899 [INFO] Config file found!
+2024-10-25 19:11:10,900 [INFO] load_config in ConfigManager
+2024-10-25 19:11:10,901 [INFO] Config file found!
+2024-10-25 19:11:10,901 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 19:11:11,004 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 19:11:11,609 [INFO] No new sessions detected.
+2024-10-25 19:11:11,610 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 19:11:11,618 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 19:11:11,703 [INFO] Started client: 258833982548.session
+2024-10-25 19:11:11,703 [INFO] Bot started successfully
+2024-10-25 19:11:11,704 [INFO] Bot is running...
+2024-10-25 19:11:18,039 [INFO] start command in CommandHandler
+2024-10-25 19:11:18,157 [INFO] message_handler in MessageHandler
+2024-10-25 19:11:20,687 [INFO] callback_handler in CallbackHandler
+2024-10-25 19:11:20,687 [INFO] add_keyword in callback_handler in CallbackHandler
+2024-10-25 19:11:20,687 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 19:11:26,900 [INFO] message_handler in MessageHandler
+2024-10-25 19:11:26,901 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 19:11:26,901 [INFO] save_config in ConfigManager
+2024-10-25 19:11:26,901 [INFO] Merging new configuration with existing configuration
+2024-10-25 19:11:26,901 [INFO] JSON file saved successfully
+2024-10-25 19:11:35,839 [INFO] callback_handler in CallbackHandler
+2024-10-25 19:11:35,840 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 19:11:35,840 [INFO] update_groups in AccountHandler
+2024-10-25 19:11:35,840 [INFO] No new sessions detected.
+2024-10-25 19:11:36,138 [ERROR] Error updating groups for 258833982548.session: 'Chat' object has no attribute 'broadcast'
+2024-10-25 19:11:36,138 [INFO] save_config in ConfigManager
+2024-10-25 19:11:36,138 [INFO] JSON file saved successfully
+2024-10-25 19:11:36,510 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:11:36,545 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:11:46,405 [INFO] callback_handler in CallbackHandler
+2024-10-25 19:11:46,405 [INFO] add_keyword in callback_handler in CallbackHandler
+2024-10-25 19:11:46,405 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 19:11:49,699 [INFO] message_handler in MessageHandler
+2024-10-25 19:11:49,699 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 19:11:49,699 [INFO] save_config in ConfigManager
+2024-10-25 19:11:49,699 [INFO] Merging new configuration with existing configuration
+2024-10-25 19:11:49,699 [INFO] JSON file saved successfully
+2024-10-25 19:12:12,255 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:12:12,285 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:12:12,328 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:13:12,511 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:13:12,691 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:13:12,828 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:14:12,296 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:14:12,312 [INFO] Got difference for channel 2061929473 updates
+2024-10-25 19:14:12,342 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 19:14:12,384 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:14:12,418 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:14:21,980 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:14:22,000 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:15:12,298 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:15:12,327 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 19:15:12,368 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 19:15:12,398 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:15:12,439 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:15:29,962 [INFO] callback_handler in CallbackHandler
+2024-10-25 19:16:12,292 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 19:16:12,325 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:16:12,368 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:16:17,703 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:16:17,974 [INFO] Got difference for channel 1378628998 updates
+2024-10-25 19:16:27,439 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:16:27,470 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:16:32,540 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:16:32,557 [INFO] Got difference for channel 1784572641 updates
+2024-10-25 19:17:12,333 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:17:12,398 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:17:12,434 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 19:17:12,463 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 19:17:12,507 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:17:18,955 [INFO] Got difference for channel 1225660675 updates
+2024-10-25 19:17:24,854 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:18:12,376 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:18:12,433 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:18:12,480 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 19:18:12,518 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:18:38,814 [INFO] Got difference for channel 1784572641 updates
+2024-10-25 19:18:38,865 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:18:38,891 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:18:38,923 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 19:18:38,947 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:18:48,614 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:18:48,652 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:19:02,346 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:19:12,339 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 19:19:12,367 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:19:12,402 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:19:24,494 [INFO] start command in CommandHandler
+2024-10-25 19:19:24,613 [INFO] message_handler in MessageHandler
+2024-10-25 19:19:24,613 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 19:19:24,613 [INFO] save_config in ConfigManager
+2024-10-25 19:19:24,613 [INFO] Merging new configuration with existing configuration
+2024-10-25 19:19:24,614 [INFO] JSON file saved successfully
+2024-10-25 19:19:36,549 [INFO] callback_handler in CallbackHandler
+2024-10-25 19:19:36,550 [INFO] remove_keyword in callback_handler in CallbackHandler
+2024-10-25 19:19:36,550 [INFO] remove_keyword_handler in KeywordHandler
+2024-10-25 19:19:38,906 [INFO] start command in CommandHandler
+2024-10-25 19:19:39,027 [INFO] message_handler in MessageHandler
+2024-10-25 19:19:39,027 [INFO] remove_keyword_handler in KeywordHandler
+2024-10-25 19:19:39,027 [INFO] save_config in ConfigManager
+2024-10-25 19:19:39,027 [INFO] JSON file saved successfully
+2024-10-25 19:19:44,801 [INFO] start command in CommandHandler
+2024-10-25 19:19:44,921 [INFO] message_handler in MessageHandler
+2024-10-25 19:19:44,922 [INFO] remove_keyword_handler in KeywordHandler
+2024-10-25 19:19:48,794 [INFO] start command in CommandHandler
+2024-10-25 19:19:48,906 [INFO] message_handler in MessageHandler
+2024-10-25 19:19:48,906 [INFO] remove_keyword_handler in KeywordHandler
+2024-10-25 19:19:58,839 [INFO] callback_handler in CallbackHandler
+2024-10-25 19:20:12,413 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:20:12,456 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:20:12,496 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 19:20:12,553 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:20:14,618 [INFO] callback_handler in CallbackHandler
+2024-10-25 19:20:14,618 [INFO] remove_keyword in callback_handler in CallbackHandler
+2024-10-25 19:20:14,618 [INFO] remove_keyword_handler in KeywordHandler
+2024-10-25 19:20:18,080 [INFO] start command in CommandHandler
+2024-10-25 19:20:18,259 [INFO] message_handler in MessageHandler
+2024-10-25 19:20:18,259 [INFO] remove_keyword_handler in KeywordHandler
+2024-10-25 19:21:12,439 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:21:12,519 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:21:12,573 [INFO] Got difference for channel 1225660675 updates
+2024-10-25 19:21:12,633 [INFO] Got difference for channel 1378628998 updates
+2024-10-25 19:21:12,687 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:21:12,743 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 19:21:54,356 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:21:54,397 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:21:54,426 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:23:12,435 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:23:12,486 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:23:12,586 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 19:23:12,752 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:24:12,456 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 19:24:12,500 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:24:12,551 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:24:12,586 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:24:29,403 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 19:24:29,403 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 19:24:29,409 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 19:24:29,410 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 19:24:29,419 [INFO] Not disconnecting (already have no connection)
+2024-10-25 19:24:29,425 [INFO] Bot stopped by user
+2024-10-25 19:24:31,518 [INFO] load_config in ConfigManager
+2024-10-25 19:24:31,518 [INFO] Config file found!
+2024-10-25 19:24:31,520 [INFO] load_config in ConfigManager
+2024-10-25 19:24:31,520 [INFO] Config file found!
+2024-10-25 19:24:31,520 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 19:24:31,622 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 19:24:32,205 [INFO] No new sessions detected.
+2024-10-25 19:24:32,206 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 19:24:32,215 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 19:24:32,289 [INFO] Started client: 258833982548.session
+2024-10-25 19:24:32,290 [INFO] Bot started successfully
+2024-10-25 19:24:32,290 [INFO] Bot is running...
+2024-10-25 19:24:35,943 [INFO] start command in CommandHandler
+2024-10-25 19:24:36,074 [INFO] message_handler in MessageHandler
+2024-10-25 19:24:40,362 [INFO] callback_handler in CallbackHandler
+2024-10-25 19:24:40,362 [INFO] add_keyword in callback_handler in CallbackHandler
+2024-10-25 19:24:40,362 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 19:24:46,729 [INFO] message_handler in MessageHandler
+2024-10-25 19:24:46,730 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 19:24:46,730 [INFO] save_config in ConfigManager
+2024-10-25 19:24:46,730 [INFO] Merging new configuration with existing configuration
+2024-10-25 19:24:46,730 [INFO] JSON file saved successfully
+2024-10-25 19:24:49,846 [INFO] callback_handler in CallbackHandler
+2024-10-25 19:24:49,846 [INFO] remove_keyword in callback_handler in CallbackHandler
+2024-10-25 19:24:49,846 [INFO] remove_keyword_handler in KeywordHandler
+2024-10-25 19:24:53,396 [INFO] start command in CommandHandler
+2024-10-25 19:24:53,512 [INFO] message_handler in MessageHandler
+2024-10-25 19:24:53,512 [INFO] remove_keyword_handler in KeywordHandler
+2024-10-25 19:24:53,512 [INFO] save_config in ConfigManager
+2024-10-25 19:24:53,512 [INFO] Merging new configuration with existing configuration
+2024-10-25 19:24:53,513 [INFO] JSON file saved successfully
+2024-10-25 19:24:56,478 [INFO] callback_handler in CallbackHandler
+2024-10-25 19:24:56,478 [INFO] add_keyword in callback_handler in CallbackHandler
+2024-10-25 19:24:56,478 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 19:24:59,736 [INFO] message_handler in MessageHandler
+2024-10-25 19:24:59,736 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 19:24:59,736 [INFO] save_config in ConfigManager
+2024-10-25 19:24:59,736 [INFO] Merging new configuration with existing configuration
+2024-10-25 19:24:59,737 [INFO] JSON file saved successfully
+2024-10-25 19:25:03,655 [INFO] callback_handler in CallbackHandler
+2024-10-25 19:25:03,657 [INFO] remove_keyword in callback_handler in CallbackHandler
+2024-10-25 19:25:03,657 [INFO] remove_keyword_handler in KeywordHandler
+2024-10-25 19:25:06,146 [INFO] message_handler in MessageHandler
+2024-10-25 19:25:06,146 [INFO] remove_keyword_handler in KeywordHandler
+2024-10-25 19:25:06,146 [INFO] save_config in ConfigManager
+2024-10-25 19:25:06,146 [INFO] Merging new configuration with existing configuration
+2024-10-25 19:25:06,146 [INFO] JSON file saved successfully
+2024-10-25 19:25:08,386 [INFO] callback_handler in CallbackHandler
+2024-10-25 19:25:08,386 [INFO] remove_keyword in callback_handler in CallbackHandler
+2024-10-25 19:25:08,386 [INFO] remove_keyword_handler in KeywordHandler
+2024-10-25 19:25:10,719 [INFO] message_handler in MessageHandler
+2024-10-25 19:25:10,719 [INFO] remove_keyword_handler in KeywordHandler
+2024-10-25 19:25:10,719 [INFO] save_config in ConfigManager
+2024-10-25 19:25:10,719 [INFO] Merging new configuration with existing configuration
+2024-10-25 19:25:10,720 [INFO] JSON file saved successfully
+2024-10-25 19:26:01,717 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 19:26:01,717 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 19:26:01,725 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 19:26:01,726 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 19:26:01,738 [INFO] Not disconnecting (already have no connection)
+2024-10-25 19:26:01,745 [INFO] Bot stopped by user
+2024-10-25 19:26:06,913 [INFO] load_config in ConfigManager
+2024-10-25 19:26:06,913 [INFO] Config file found!
+2024-10-25 19:26:06,915 [INFO] load_config in ConfigManager
+2024-10-25 19:26:06,915 [INFO] Config file found!
+2024-10-25 19:26:06,915 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 19:26:07,018 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 19:26:07,613 [INFO] No new sessions detected.
+2024-10-25 19:26:07,614 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 19:26:07,621 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 19:26:07,873 [INFO] Started client: 258833982548.session
+2024-10-25 19:26:07,873 [INFO] Bot started successfully
+2024-10-25 19:26:07,873 [INFO] Bot is running...
+2024-10-25 19:26:22,455 [INFO] start command in CommandHandler
+2024-10-25 19:26:22,592 [INFO] message_handler in MessageHandler
+2024-10-25 19:26:26,511 [INFO] callback_handler in CallbackHandler
+2024-10-25 19:26:26,511 [INFO] remove_keyword in callback_handler in CallbackHandler
+2024-10-25 19:26:26,511 [INFO] remove_keyword_handler in KeywordHandler
+2024-10-25 19:26:29,007 [INFO] message_handler in MessageHandler
+2024-10-25 19:26:29,007 [INFO] remove_keyword_handler in KeywordHandler
+2024-10-25 19:26:29,007 [INFO] save_config in ConfigManager
+2024-10-25 19:26:29,007 [INFO] Merging new configuration with existing configuration
+2024-10-25 19:26:29,007 [INFO] JSON file saved successfully
+2024-10-25 19:26:34,272 [INFO] callback_handler in CallbackHandler
+2024-10-25 19:26:34,273 [INFO] add_keyword in callback_handler in CallbackHandler
+2024-10-25 19:26:34,273 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 19:26:37,771 [INFO] message_handler in MessageHandler
+2024-10-25 19:26:37,771 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 19:26:37,771 [INFO] save_config in ConfigManager
+2024-10-25 19:26:37,772 [INFO] Merging new configuration with existing configuration
+2024-10-25 19:26:37,772 [INFO] JSON file saved successfully
+2024-10-25 19:29:34,815 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 19:29:34,816 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 19:29:34,825 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 19:29:34,825 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 19:29:34,832 [INFO] Not disconnecting (already have no connection)
+2024-10-25 19:29:34,839 [INFO] Bot stopped by user
+2024-10-25 19:29:36,167 [INFO] load_config in ConfigManager
+2024-10-25 19:29:36,167 [INFO] Config file found!
+2024-10-25 19:29:36,169 [INFO] load_config in ConfigManager
+2024-10-25 19:29:36,169 [INFO] Config file found!
+2024-10-25 19:29:36,169 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 19:29:36,272 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 19:29:36,852 [INFO] No new sessions detected.
+2024-10-25 19:29:36,853 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 19:29:36,862 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 19:29:36,960 [INFO] Started client: 258833982548.session
+2024-10-25 19:29:36,960 [INFO] Bot started successfully
+2024-10-25 19:29:36,960 [INFO] Bot is running...
+2024-10-25 19:29:49,724 [INFO] callback_handler in CallbackHandler
+2024-10-25 19:29:49,724 [INFO] remove_keyword in callback_handler in CallbackHandler
+2024-10-25 19:29:49,724 [INFO] remove_keyword_handler in KeywordHandler
+2024-10-25 19:29:53,068 [INFO] message_handler in MessageHandler
+2024-10-25 19:29:53,068 [INFO] remove_keyword_handler in KeywordHandler
+2024-10-25 19:29:53,069 [INFO] save_config in ConfigManager
+2024-10-25 19:29:53,069 [INFO] Merging new configuration with existing configuration
+2024-10-25 19:29:53,072 [INFO] JSON file saved successfully
+2024-10-25 19:30:00,688 [INFO] callback_handler in CallbackHandler
+2024-10-25 19:30:00,688 [INFO] remove_keyword in callback_handler in CallbackHandler
+2024-10-25 19:30:00,688 [INFO] remove_keyword_handler in KeywordHandler
+2024-10-25 19:30:03,822 [INFO] start command in CommandHandler
+2024-10-25 19:30:03,937 [INFO] message_handler in MessageHandler
+2024-10-25 19:30:03,937 [INFO] remove_keyword_handler in KeywordHandler
+2024-10-25 19:30:03,937 [INFO] save_config in ConfigManager
+2024-10-25 19:30:03,937 [INFO] Merging new configuration with existing configuration
+2024-10-25 19:30:03,938 [INFO] JSON file saved successfully
+2024-10-25 19:30:05,584 [INFO] callback_handler in CallbackHandler
+2024-10-25 19:30:05,585 [INFO] add_keyword in callback_handler in CallbackHandler
+2024-10-25 19:30:05,585 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 19:30:08,043 [INFO] message_handler in MessageHandler
+2024-10-25 19:30:08,043 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 19:30:08,043 [INFO] save_config in ConfigManager
+2024-10-25 19:30:08,043 [INFO] Merging new configuration with existing configuration
+2024-10-25 19:30:08,044 [INFO] JSON file saved successfully
+2024-10-25 19:30:09,737 [INFO] callback_handler in CallbackHandler
+2024-10-25 19:30:09,738 [INFO] remove_keyword in callback_handler in CallbackHandler
+2024-10-25 19:30:09,738 [INFO] remove_keyword_handler in KeywordHandler
+2024-10-25 19:30:12,219 [INFO] message_handler in MessageHandler
+2024-10-25 19:30:12,219 [INFO] remove_keyword_handler in KeywordHandler
+2024-10-25 19:30:12,219 [INFO] save_config in ConfigManager
+2024-10-25 19:30:12,219 [INFO] Merging new configuration with existing configuration
+2024-10-25 19:30:12,220 [INFO] JSON file saved successfully
+2024-10-25 19:33:25,748 [INFO] callback_handler in CallbackHandler
+2024-10-25 19:33:25,749 [INFO] show_accounts in callback_handler in CallbackHandler
+2024-10-25 19:33:25,749 [INFO] show_accounts in AccountHandler
+2024-10-25 19:33:25,749 [ERROR] Error in show_accounts: string indices must be integers, not 'str'
+2024-10-25 19:35:28,377 [INFO] callback_handler in CallbackHandler
+2024-10-25 19:35:28,378 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 19:35:28,378 [INFO] update_groups in AccountHandler
+2024-10-25 19:35:28,378 [INFO] No new sessions detected.
+2024-10-25 19:35:28,615 [ERROR] Error updating groups for 258833982548.session: 'Chat' object has no attribute 'broadcast'
+2024-10-25 19:35:28,615 [INFO] save_config in ConfigManager
+2024-10-25 19:35:28,615 [INFO] JSON file saved successfully
+2024-10-25 19:35:37,548 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:36:06,524 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:36:06,548 [INFO] Got difference for channel 1912337026 updates
+2024-10-25 19:36:06,576 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:36:06,619 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 19:36:28,650 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:36:28,686 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:36:28,715 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:36:37,557 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:36:56,492 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:36:56,523 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:37:10,697 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:37:10,771 [INFO] Got difference for channel 1378628998 updates
+2024-10-25 19:37:37,563 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:37:37,590 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:37:37,614 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:37:47,595 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:37:47,631 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:38:37,848 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:38:38,000 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:38:38,122 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 19:38:38,224 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 19:38:38,317 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:38:56,561 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:38:56,593 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:38:56,622 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 19:38:56,646 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:39:37,640 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:39:37,699 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:39:37,728 [INFO] Got difference for channel 1912337026 updates
+2024-10-25 19:39:37,754 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:39:37,779 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 19:39:52,247 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:39:52,430 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 19:39:52,530 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 19:40:21,493 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:40:21,525 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:40:21,583 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:40:29,800 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:40:37,686 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:40:37,819 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:40:41,790 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:40:41,854 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:40:43,697 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:40:50,615 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:41:01,048 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:41:04,627 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 19:41:04,627 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 19:41:04,634 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 19:41:04,635 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 19:41:04,642 [INFO] Not disconnecting (already have no connection)
+2024-10-25 19:41:04,650 [INFO] Bot stopped by user
+2024-10-25 19:41:06,353 [INFO] load_config in ConfigManager
+2024-10-25 19:41:06,354 [INFO] Config file found!
+2024-10-25 19:41:06,355 [INFO] load_config in ConfigManager
+2024-10-25 19:41:06,355 [INFO] Config file found!
+2024-10-25 19:41:06,356 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 19:41:06,460 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 19:41:07,072 [INFO] No new sessions detected.
+2024-10-25 19:41:07,073 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 19:41:07,079 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 19:41:07,147 [INFO] Started client: 258833982548.session
+2024-10-25 19:41:07,148 [INFO] Bot started successfully
+2024-10-25 19:41:07,148 [INFO] Bot is running...
+2024-10-25 19:41:22,882 [INFO] start command in CommandHandler
+2024-10-25 19:41:23,002 [INFO] message_handler in MessageHandler
+2024-10-25 19:41:24,530 [INFO] callback_handler in CallbackHandler
+2024-10-25 19:41:24,531 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 19:41:24,531 [INFO] update_groups in AccountHandler
+2024-10-25 19:41:24,531 [INFO] No new sessions detected.
+2024-10-25 19:41:24,762 [ERROR] Error updating groups for 258833982548.session: string indices must be integers, not 'str'
+2024-10-25 19:41:24,762 [INFO] save_config in ConfigManager
+2024-10-25 19:41:24,763 [INFO] JSON file saved successfully
+2024-10-25 19:41:25,184 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:41:25,230 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:41:36,377 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:41:36,404 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:41:36,428 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:41:48,770 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:41:51,898 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:42:01,698 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:42:01,728 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:42:49,271 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:42:49,331 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:42:49,440 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:43:06,898 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:43:21,382 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:43:26,511 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:43:54,245 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 19:43:54,344 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:43:54,427 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:43:54,522 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:44:07,770 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:44:12,437 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:44:12,546 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 19:44:49,077 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:44:49,102 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:44:49,133 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:44:49,172 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 19:44:59,159 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 19:44:59,160 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 19:44:59,166 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 19:44:59,166 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 19:44:59,174 [INFO] Not disconnecting (already have no connection)
+2024-10-25 19:44:59,179 [INFO] Bot stopped by user
+2024-10-25 19:47:29,566 [INFO] load_config in ConfigManager
+2024-10-25 19:47:29,566 [INFO] Config file found!
+2024-10-25 19:47:29,568 [INFO] load_config in ConfigManager
+2024-10-25 19:47:29,568 [INFO] Config file found!
+2024-10-25 19:47:29,569 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 19:47:29,676 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 19:47:30,271 [INFO] No new sessions detected.
+2024-10-25 19:47:30,272 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 19:47:30,281 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 19:47:30,383 [INFO] Started client: 258833982548.session
+2024-10-25 19:47:30,384 [INFO] Bot started successfully
+2024-10-25 19:47:30,384 [INFO] Bot is running...
+2024-10-25 19:47:31,373 [INFO] callback_handler in CallbackHandler
+2024-10-25 19:47:31,373 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 19:47:31,373 [INFO] update_groups in AccountHandler
+2024-10-25 19:47:31,374 [INFO] No new sessions detected.
+2024-10-25 19:47:31,656 [ERROR] Error updating groups for 258833982548.session: string indices must be integers, not 'str'
+2024-10-25 19:47:31,656 [INFO] save_config in ConfigManager
+2024-10-25 19:47:31,656 [INFO] JSON file saved successfully
+2024-10-25 19:47:37,706 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:47:40,335 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:47:45,170 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:47:45,198 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:47:45,722 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:47:55,384 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:47:55,458 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:47:56,013 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:48:00,607 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:48:02,810 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:48:10,408 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:48:10,477 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 19:48:17,381 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:48:20,757 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:48:29,320 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:48:29,413 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:48:36,111 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:48:36,147 [INFO] Got difference for channel 1261819760 updates
+2024-10-25 19:48:41,211 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:48:50,280 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:48:53,648 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:49:30,815 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:49:30,841 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 19:49:30,881 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 19:49:30,917 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:50:10,382 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:50:10,486 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:50:10,554 [INFO] Got difference for channel 2061929473 updates
+2024-10-25 19:50:10,646 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:50:10,732 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 19:50:16,794 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:50:25,537 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:50:30,528 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:50:30,565 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:50:30,598 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:50:41,369 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:50:47,907 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:50:57,712 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:51:15,734 [INFO] callback_handler in CallbackHandler
+2024-10-25 19:51:15,734 [INFO] show_accounts in callback_handler in CallbackHandler
+2024-10-25 19:51:15,734 [INFO] show_accounts in AccountHandler
+2024-10-25 19:51:15,734 [ERROR] Error in show_accounts: string indices must be integers, not 'str'
+2024-10-25 19:51:17,565 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:51:17,591 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 19:51:17,642 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:51:17,673 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:51:30,974 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:52:05,471 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 19:52:05,517 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:52:05,552 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 19:52:05,584 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:52:05,614 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:52:30,993 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:52:31,058 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 19:52:31,132 [INFO] Got difference for channel 1225660675 updates
+2024-10-25 19:52:31,210 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:52:31,294 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:52:44,221 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:52:44,244 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:52:51,270 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:52:56,369 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:53:04,691 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:53:04,723 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:53:08,157 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:53:20,979 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:53:21,046 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:53:21,102 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:53:28,819 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:53:28,851 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:53:39,284 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:53:39,319 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:53:48,418 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:54:03,586 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 19:54:03,630 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:54:03,659 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:54:13,989 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 19:54:14,027 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:54:17,051 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:54:17,076 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:54:31,043 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:54:31,089 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 19:54:31,164 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:54:46,327 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:54:46,409 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:54:52,830 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 19:54:52,831 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 19:54:52,836 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 19:54:52,836 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 19:54:52,844 [INFO] Not disconnecting (already have no connection)
+2024-10-25 19:54:52,850 [INFO] Bot stopped by user
+2024-10-25 19:54:54,470 [INFO] load_config in ConfigManager
+2024-10-25 19:54:54,470 [INFO] Config file found!
+2024-10-25 19:54:54,471 [INFO] load_config in ConfigManager
+2024-10-25 19:54:54,472 [INFO] Config file found!
+2024-10-25 19:54:54,472 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 19:54:54,577 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 19:54:55,188 [INFO] No new sessions detected.
+2024-10-25 19:54:55,189 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 19:54:55,196 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 19:54:55,270 [INFO] Started client: 258833982548.session
+2024-10-25 19:54:55,270 [INFO] Bot started successfully
+2024-10-25 19:54:55,270 [INFO] Bot is running...
+2024-10-25 19:54:57,803 [INFO] callback_handler in CallbackHandler
+2024-10-25 19:54:57,804 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 19:54:57,804 [INFO] update_groups in AccountHandler
+2024-10-25 19:54:57,804 [INFO] No new sessions detected.
+2024-10-25 19:55:00,551 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:55:04,700 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:55:07,747 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:55:14,722 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:55:16,725 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:55:17,816 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:55:20,754 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:55:21,755 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 19:55:21,831 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:55:37,758 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:55:39,768 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 19:55:42,767 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:55:44,870 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:55:50,773 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:55:52,813 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:55:55,204 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 19:55:55,204 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 19:55:55,210 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 19:55:55,211 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 19:55:55,219 [INFO] Not disconnecting (already have no connection)
+2024-10-25 19:55:55,224 [INFO] Bot stopped by user
+2024-10-25 19:57:46,589 [INFO] load_config in ConfigManager
+2024-10-25 19:57:46,589 [INFO] Config file found!
+2024-10-25 19:57:46,590 [INFO] load_config in ConfigManager
+2024-10-25 19:57:46,591 [INFO] Config file found!
+2024-10-25 19:57:46,591 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 19:57:46,695 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 19:57:47,370 [INFO] No new sessions detected.
+2024-10-25 19:57:47,371 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 19:57:47,380 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 19:57:47,497 [INFO] Started client: 258833982548.session
+2024-10-25 19:57:47,497 [INFO] Bot started successfully
+2024-10-25 19:57:47,497 [INFO] Bot is running...
+2024-10-25 19:57:52,659 [INFO] callback_handler in CallbackHandler
+2024-10-25 19:57:52,659 [INFO] show_accounts in callback_handler in CallbackHandler
+2024-10-25 19:57:52,660 [INFO] show_accounts in AccountHandler
+2024-10-25 19:57:52,660 [ERROR] Error in show_accounts: string indices must be integers, not 'str'
+2024-10-25 19:57:54,813 [INFO] callback_handler in CallbackHandler
+2024-10-25 19:57:54,813 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 19:57:54,813 [INFO] update_groups in AccountHandler
+2024-10-25 19:57:54,814 [INFO] No new sessions detected.
+2024-10-25 19:57:55,122 [ERROR] Error updating groups for 258833982548.session: string indices must be integers, not 'str'
+2024-10-25 19:57:55,122 [INFO] save_config in ConfigManager
+2024-10-25 19:57:55,123 [INFO] JSON file saved successfully
+2024-10-25 19:58:10,525 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:58:17,936 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:58:17,968 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:58:18,042 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:58:30,349 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:58:30,372 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:58:43,986 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:58:47,229 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:58:55,307 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:59:00,441 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:59:20,032 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 19:59:20,084 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:59:20,122 [INFO] Got difference for channel 2061929473 updates
+2024-10-25 19:59:20,173 [INFO] Got difference for channel 1378628998 updates
+2024-10-25 19:59:20,215 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:59:20,241 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:59:35,948 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:59:35,977 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 19:59:36,034 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:59:36,068 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:59:48,071 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:59:57,685 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:59:57,781 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:00:12,856 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:00:19,699 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:00:23,610 [INFO] Got difference for channel 2061929473 updates
+2024-10-25 20:00:28,837 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:00:36,977 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 20:00:37,030 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:00:37,067 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 20:00:42,075 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:00:48,131 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:00:48,250 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:01:09,555 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 20:01:09,731 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:01:09,867 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:01:15,231 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:01:15,273 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:01:42,214 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 20:01:42,313 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:01:42,423 [INFO] Got difference for channel 1912337026 updates
+2024-10-25 20:01:42,510 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 20:01:42,653 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:01:51,547 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:01:51,666 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:02:10,533 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:02:10,616 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:02:25,464 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 20:02:25,465 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 20:02:25,471 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 20:02:25,472 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 20:02:25,480 [INFO] Not disconnecting (already have no connection)
+2024-10-25 20:02:25,484 [INFO] Bot stopped by user
+2024-10-25 20:03:09,090 [INFO] load_config in ConfigManager
+2024-10-25 20:03:09,091 [INFO] Config file found!
+2024-10-25 20:03:09,092 [INFO] load_config in ConfigManager
+2024-10-25 20:03:09,092 [INFO] Config file found!
+2024-10-25 20:03:09,092 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 20:03:09,195 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 20:03:09,901 [INFO] No new sessions detected.
+2024-10-25 20:03:09,902 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 20:03:09,910 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 20:03:10,328 [INFO] Started client: 258833982548.session
+2024-10-25 20:03:10,328 [INFO] Bot started successfully
+2024-10-25 20:03:10,328 [INFO] Bot is running...
+2024-10-25 20:03:23,552 [INFO] callback_handler in CallbackHandler
+2024-10-25 20:03:23,552 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 20:03:23,553 [ERROR] Error in callback_handler: 'AccountHandler' object has no attribute 'update_groups'
+2024-10-25 20:04:17,127 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 20:04:17,128 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 20:04:17,135 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 20:04:17,136 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 20:04:17,142 [INFO] Not disconnecting (already have no connection)
+2024-10-25 20:04:17,148 [INFO] Bot stopped by user
+2024-10-25 20:04:20,289 [INFO] load_config in ConfigManager
+2024-10-25 20:04:20,289 [INFO] Config file found!
+2024-10-25 20:04:20,291 [INFO] load_config in ConfigManager
+2024-10-25 20:04:20,291 [INFO] Config file found!
+2024-10-25 20:04:20,291 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 20:04:20,396 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 20:04:20,982 [INFO] No new sessions detected.
+2024-10-25 20:04:20,983 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 20:04:20,991 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 20:04:21,120 [INFO] Started client: 258833982548.session
+2024-10-25 20:04:21,120 [INFO] Bot started successfully
+2024-10-25 20:04:21,120 [INFO] Bot is running...
+2024-10-25 20:04:33,032 [INFO] callback_handler in CallbackHandler
+2024-10-25 20:04:33,032 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 20:04:33,032 [INFO] update_and_process_groups in AccountHandler
+2024-10-25 20:04:33,032 [INFO] No new sessions detected.
+2024-10-25 20:04:33,624 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:33,626 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:33,627 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:33,628 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:33,629 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:33,707 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:04:34,601 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:35,088 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:04:35,615 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:35,616 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:35,617 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:36,636 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:36,640 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:36,642 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:37,126 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:04:38,651 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:38,652 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:39,662 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:39,663 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:39,665 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:40,628 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:40,629 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:40,629 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:40,630 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:40,631 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:40,632 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:40,633 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:40,633 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:40,634 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:40,635 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:41,718 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:41,719 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:41,720 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:41,721 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:41,722 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:41,723 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:41,724 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:43,669 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:43,671 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:43,672 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:43,672 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:43,673 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:44,646 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:44,647 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:45,139 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:04:45,648 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:45,649 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:45,650 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:45,651 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:45,652 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:45,653 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:46,727 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:47,132 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:04:47,647 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:47,648 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:47,649 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:47,650 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:47,661 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:04:48,657 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:48,658 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:48,659 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:49,684 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:49,685 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:49,686 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:49,686 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:49,687 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:50,120 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:04:50,678 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:51,637 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:53,123 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:04:53,666 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:53,667 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:53,668 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:54,668 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:54,669 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:55,676 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:55,678 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:55,681 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:55,682 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:56,655 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:56,657 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:56,658 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:56,659 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:56,661 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:56,662 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:57,654 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:57,658 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:58,150 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:04:58,691 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:58,692 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:58,693 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:58,694 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:58,694 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:59,696 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:04:59,697 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:05:00,656 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:05:00,657 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:05:00,658 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:05:01,123 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:05:01,687 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:05:01,688 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:05:01,689 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:05:01,690 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:05:01,691 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:05:01,692 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:05:01,693 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:05:02,698 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:05:02,699 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:05:02,714 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:05:03,759 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:05:03,760 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:05:03,761 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:05:03,762 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:05:03,763 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:05:04,664 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:05:04,666 [ERROR] Error processing message: Cannot cast NoneType to any kind of Peer.
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/handlers/account_handler.py", line 227, in process_message
+    await self.bot.bot.send_message(
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/messages.py", line 840, in send_message
+    entity = await self.get_input_entity(entity)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 446, in get_input_entity
+    peer = utils.get_peer(peer)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 987, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/utils.py", line 131, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast NoneType to any kind of Peer.
+2024-10-25 20:05:05,127 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:05:05,166 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 20:05:05,167 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 20:05:05,174 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 20:05:05,175 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 20:05:05,187 [INFO] Not disconnecting (already have no connection)
+2024-10-25 20:05:05,195 [INFO] Bot stopped by user
+2024-10-25 20:06:37,521 [INFO] load_config in ConfigManager
+2024-10-25 20:06:37,522 [INFO] Config file found!
+2024-10-25 20:06:37,524 [INFO] load_config in ConfigManager
+2024-10-25 20:06:37,524 [INFO] Config file found!
+2024-10-25 20:06:37,525 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 20:06:37,629 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 20:06:38,212 [INFO] No new sessions detected.
+2024-10-25 20:06:38,213 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 20:06:38,222 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 20:06:38,296 [INFO] Started client: 258833982548.session
+2024-10-25 20:06:38,296 [INFO] Bot started successfully
+2024-10-25 20:06:38,296 [INFO] Bot is running...
+2024-10-25 20:06:52,644 [INFO] callback_handler in CallbackHandler
+2024-10-25 20:06:52,644 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 20:06:52,644 [INFO] update_and_process_groups in AccountHandler
+2024-10-25 20:06:52,645 [INFO] No new sessions detected.
+2024-10-25 20:06:52,922 [INFO] start command in CommandHandler
+2024-10-25 20:06:53,042 [INFO] message_handler in MessageHandler
+2024-10-25 20:06:54,334 [ERROR] Error updating groups or processing messages for 258833982548.session: 'AccountHandler' object has no attribute 'forward_message'
+2024-10-25 20:06:58,459 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:07:06,252 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 20:07:06,282 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:07:16,574 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 20:07:22,173 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:07:35,219 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:07:38,838 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:08:12,249 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:08:12,280 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 20:08:12,325 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:08:25,674 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:08:32,001 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:08:38,857 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:08:39,088 [INFO] callback_handler in CallbackHandler
+2024-10-25 20:08:39,088 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 20:08:39,088 [INFO] update_and_process_groups in AccountHandler
+2024-10-25 20:08:39,089 [INFO] No new sessions detected.
+2024-10-25 20:08:40,323 [ERROR] Error updating groups or processing messages for 258833982548.session: 'AccountHandler' object has no attribute 'forward_message'
+2024-10-25 20:08:49,016 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:08:55,557 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:08:55,594 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:09:12,431 [INFO] callback_handler in CallbackHandler
+2024-10-25 20:09:12,431 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 20:09:12,431 [INFO] update_and_process_groups in AccountHandler
+2024-10-25 20:09:12,432 [INFO] No new sessions detected.
+2024-10-25 20:09:12,680 [INFO] callback_handler in CallbackHandler
+2024-10-25 20:09:12,680 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 20:09:12,680 [INFO] update_and_process_groups in AccountHandler
+2024-10-25 20:09:12,680 [INFO] No new sessions detected.
+2024-10-25 20:09:12,855 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 20:09:12,886 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 20:09:12,920 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:09:13,290 [INFO] callback_handler in CallbackHandler
+2024-10-25 20:09:13,290 [INFO] remove_keyword in callback_handler in CallbackHandler
+2024-10-25 20:09:13,290 [INFO] remove_keyword_handler in KeywordHandler
+2024-10-25 20:09:13,474 [ERROR] Error updating groups or processing messages for 258833982548.session: 'AccountHandler' object has no attribute 'forward_message'
+2024-10-25 20:09:13,783 [ERROR] Error updating groups or processing messages for 258833982548.session: 'AccountHandler' object has no attribute 'forward_message'
+2024-10-25 20:09:21,025 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:09:21,064 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 20:09:21,112 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:09:27,597 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:09:33,866 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:09:43,117 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:09:43,146 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:09:50,497 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:09:50,540 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 20:10:03,905 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:10:14,209 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:10:14,273 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:10:14,339 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 20:10:14,868 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 20:10:20,378 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:10:20,500 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:10:31,185 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:10:31,230 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:10:31,253 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 20:10:33,890 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:10:33,917 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:10:38,875 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 20:10:44,819 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:10:44,861 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:10:44,886 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 20:11:00,486 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:11:05,552 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:11:05,586 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:11:12,192 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:11:12,262 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:11:19,234 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 20:11:19,260 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:11:24,754 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 20:11:29,416 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:11:38,125 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:12:04,814 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:12:04,859 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 20:12:04,902 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:12:08,079 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:12:13,001 [INFO] Got difference for channel 1261819760 updates
+2024-10-25 20:12:13,067 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:12:23,689 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:12:32,372 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:12:32,396 [INFO] Got difference for channel 1261819760 updates
+2024-10-25 20:12:38,918 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 20:12:38,955 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:12:38,981 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:12:39,043 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 20:12:40,512 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:12:42,847 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:12:49,429 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:12:51,797 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:12:57,351 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:12:59,950 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:13:02,487 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:13:06,601 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:13:20,142 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:13:20,166 [INFO] Got difference for channel 1261819760 updates
+2024-10-25 20:13:20,209 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 20:13:27,310 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 20:13:29,528 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:13:32,087 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:13:38,904 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 20:13:38,936 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:13:42,298 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:13:44,004 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:13:44,120 [INFO] Got difference for channel 1784572641 updates
+2024-10-25 20:13:44,651 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 20:13:47,104 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:13:53,147 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:14:05,599 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:14:05,630 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 20:14:11,410 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:14:11,506 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 20:14:15,139 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:14:34,563 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:14:34,589 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:14:34,615 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 20:14:38,931 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 20:14:46,717 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:14:46,962 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:14:56,199 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:14:56,226 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:15:04,208 [INFO] Got difference for channel 1378628998 updates
+2024-10-25 20:15:04,235 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:15:04,278 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 20:15:09,931 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:15:09,955 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 20:15:09,976 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 20:15:15,652 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:15:21,114 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:15:30,339 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:15:38,943 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 20:15:48,490 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 20:15:52,218 [INFO] Got difference for channel 1784572641 updates
+2024-10-25 20:15:59,874 [INFO] Got difference for channel 1912337026 updates
+2024-10-25 20:15:59,900 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:15:59,921 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 20:16:04,380 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:16:04,408 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:16:09,043 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 20:16:12,298 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 20:16:16,865 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:16:32,053 [INFO] Got difference for channel 2061929473 updates
+2024-10-25 20:16:32,075 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:16:32,102 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 20:16:46,285 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:16:46,302 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 20:17:12,268 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:17:12,295 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 20:17:12,314 [INFO] Got difference for channel 2061929473 updates
+2024-10-25 20:17:39,050 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:17:39,175 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:17:39,270 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 20:17:54,721 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 20:17:54,747 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:18:00,437 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:18:19,410 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:18:19,490 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:18:26,774 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:18:26,811 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 20:18:33,749 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 20:18:33,750 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 20:18:33,755 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 20:18:33,755 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 20:18:33,762 [INFO] Not disconnecting (already have no connection)
+2024-10-25 20:18:33,767 [INFO] Bot stopped by user
+2024-10-25 20:18:37,064 [INFO] load_config in ConfigManager
+2024-10-25 20:18:37,065 [INFO] Config file found!
+2024-10-25 20:18:37,066 [INFO] load_config in ConfigManager
+2024-10-25 20:18:37,066 [INFO] Config file found!
+2024-10-25 20:18:37,067 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 20:18:37,205 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 20:18:37,794 [INFO] No new sessions detected.
+2024-10-25 20:18:37,795 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 20:18:37,803 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 20:18:37,887 [INFO] Started client: 258833982548.session
+2024-10-25 20:18:37,887 [INFO] Bot started successfully
+2024-10-25 20:18:37,887 [INFO] Bot is running...
+2024-10-25 20:18:45,832 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-10-25 20:18:45,832 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-10-25 20:18:45,833 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-10-25 20:18:45,835 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-10-25 20:18:45,837 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-10-25 20:18:45,838 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-10-25 20:18:45,839 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-10-25 20:18:45,842 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-10-25 20:18:45,843 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-10-25 20:18:45,844 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-10-25 20:18:46,327 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:18:52,444 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:18:52,571 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 20:18:53,438 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 20:18:53,439 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 20:18:53,445 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 20:18:53,445 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 20:18:53,452 [INFO] Not disconnecting (already have no connection)
+2024-10-25 20:18:53,459 [INFO] Bot stopped by user
+2024-10-25 20:22:44,858 [INFO] load_config in ConfigManager
+2024-10-25 20:22:44,858 [INFO] Config file found!
+2024-10-25 20:22:44,860 [INFO] load_config in ConfigManager
+2024-10-25 20:22:44,860 [INFO] Config file found!
+2024-10-25 20:22:44,861 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 20:22:44,967 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 20:22:45,553 [INFO] No new sessions detected.
+2024-10-25 20:22:45,554 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 20:22:45,564 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 20:22:45,777 [INFO] Started client: 258833982548.session
+2024-10-25 20:22:45,777 [INFO] Bot started successfully
+2024-10-25 20:22:45,777 [INFO] Bot is running...
+2024-10-25 20:22:48,707 [INFO] Sleeping for 4s (0:00:04) on SendMessageRequest flood wait
+2024-10-25 20:22:51,167 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 20:22:51,167 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 20:22:51,173 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 20:22:51,174 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 20:22:51,179 [INFO] Not disconnecting (already have no connection)
+2024-10-25 20:22:51,184 [INFO] Bot stopped by user
+2024-10-25 20:23:51,504 [INFO] load_config in ConfigManager
+2024-10-25 20:23:51,504 [INFO] Config file found!
+2024-10-25 20:23:51,506 [INFO] load_config in ConfigManager
+2024-10-25 20:23:51,506 [INFO] Config file found!
+2024-10-25 20:23:51,507 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 20:23:51,610 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 20:23:52,202 [INFO] No new sessions detected.
+2024-10-25 20:23:52,203 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 20:23:52,211 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 20:23:52,356 [INFO] Started client: 258833982548.session
+2024-10-25 20:23:52,356 [INFO] Bot started successfully
+2024-10-25 20:23:52,356 [INFO] Bot is running...
+2024-10-25 20:24:03,306 [INFO] callback_handler in CallbackHandler
+2024-10-25 20:24:03,306 [INFO] add_keyword in callback_handler in CallbackHandler
+2024-10-25 20:24:03,306 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 20:24:07,848 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-10-25 20:24:07,849 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-10-25 20:24:07,850 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-10-25 20:24:07,851 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-10-25 20:24:07,851 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-10-25 20:24:07,855 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-10-25 20:24:07,856 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-10-25 20:24:07,856 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-10-25 20:24:07,857 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-10-25 20:24:07,858 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-10-25 20:24:07,863 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-10-25 20:24:08,335 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 20:24:08,418 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 20:24:10,756 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 20:24:12,738 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 20:24:12,738 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 20:24:12,743 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 20:24:12,744 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 20:24:12,750 [INFO] Not disconnecting (already have no connection)
+2024-10-25 20:24:12,756 [INFO] Bot stopped by user
