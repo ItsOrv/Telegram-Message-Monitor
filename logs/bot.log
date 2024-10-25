@@ -261,3 +261,1812 @@ AttributeError: 'AccountHandler' object has no attribute 'two_step_auth_handler'
 2024-10-25 11:51:09,160 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
 2024-10-25 11:51:09,166 [INFO] Not disconnecting (already have no connection)
 2024-10-25 11:51:09,171 [INFO] Bot stopped by user
+2024-10-25 12:40:32,997 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 12:40:33,103 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 12:40:33,712 [INFO] Bot started successfully
+2024-10-25 12:40:33,712 [INFO] Bot is running...
+2024-10-25 12:42:45,816 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 12:42:45,817 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 12:42:45,832 [INFO] Not disconnecting (already have no connection)
+2024-10-25 12:42:45,844 [INFO] Bot stopped by user
+2024-10-25 12:47:38,418 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 12:47:38,526 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 12:47:39,122 [INFO] Bot started successfully
+2024-10-25 12:47:39,123 [INFO] Bot is running...
+2024-10-25 12:49:00,073 [INFO] Connecting to 149.154.167.51:443/TcpFull...
+2024-10-25 12:49:01,347 [INFO] Connection to 149.154.167.51:443/TcpFull complete!
+2024-10-25 12:49:01,570 [INFO] Phone migrated to 4
+2024-10-25 12:49:01,570 [INFO] Reconnecting to new data center 4
+2024-10-25 12:49:01,594 [INFO] Disconnecting from 149.154.167.51:443/TcpFull...
+2024-10-25 12:49:01,595 [INFO] Disconnection from 149.154.167.51:443/TcpFull complete!
+2024-10-25 12:49:01,595 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 12:49:02,988 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 12:49:49,554 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-10-25 12:49:59,848 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 12:50:03,675 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 12:50:08,395 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 12:50:08,396 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 12:50:08,406 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 12:50:08,407 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 12:50:08,415 [INFO] Not disconnecting (already have no connection)
+2024-10-25 12:50:08,421 [INFO] Bot stopped by user
+2024-10-25 12:52:18,752 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 12:52:18,856 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 12:52:19,447 [INFO] Bot started successfully
+2024-10-25 12:52:19,448 [INFO] Bot is running...
+2024-10-25 12:53:01,160 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 12:53:01,161 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 12:53:01,170 [INFO] Not disconnecting (already have no connection)
+2024-10-25 12:53:01,178 [INFO] Bot stopped by user
+2024-10-25 13:35:10,411 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 13:35:10,516 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 13:35:11,184 [INFO] Bot started successfully
+2024-10-25 13:35:11,184 [INFO] Bot is running...
+2024-10-25 13:37:23,572 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 13:37:23,573 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 13:37:23,578 [INFO] Not disconnecting (already have no connection)
+2024-10-25 13:37:23,584 [INFO] Bot stopped by user
+2024-10-25 13:37:26,830 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 13:37:26,935 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 13:37:27,534 [ERROR] Error running bot: 'int' object is not subscriptable
+2024-10-25 13:37:27,534 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 13:37:27,535 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 13:37:35,545 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 13:37:35,649 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 13:37:36,552 [ERROR] Error running bot: 'int' object is not subscriptable
+2024-10-25 13:37:36,552 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 13:37:36,553 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 13:37:45,952 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 13:37:46,056 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 13:37:46,666 [INFO] Bot started successfully
+2024-10-25 13:37:46,666 [INFO] Bot is running...
+2024-10-25 13:46:38,905 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 13:46:38,905 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 13:46:38,911 [INFO] Not disconnecting (already have no connection)
+2024-10-25 13:46:38,916 [INFO] Bot stopped by user
+2024-10-25 13:49:26,104 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 13:49:26,209 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 13:49:26,797 [INFO] Bot started successfully
+2024-10-25 13:49:26,797 [INFO] Bot is running...
+2024-10-25 14:05:05,216 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 14:05:05,217 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 14:05:05,226 [INFO] Not disconnecting (already have no connection)
+2024-10-25 14:05:05,234 [INFO] Bot stopped by user
+2024-10-25 14:09:30,593 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 14:09:30,696 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 14:09:31,453 [ERROR] Error running bot: 'ClientManager' object has no attribute 'save_config'
+2024-10-25 14:09:31,453 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 14:09:31,454 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 14:09:49,062 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 14:09:49,166 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 14:09:49,746 [ERROR] Error running bot: 'ClientManager' object has no attribute 'save_config'
+2024-10-25 14:09:49,746 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 14:09:49,747 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 14:12:51,303 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 14:12:51,409 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 14:12:51,998 [INFO] Bot started successfully
+2024-10-25 14:12:51,998 [INFO] Bot is running...
+2024-10-25 14:22:10,932 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 14:22:10,932 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 14:22:10,954 [INFO] Not disconnecting (already have no connection)
+2024-10-25 14:22:10,959 [INFO] Bot stopped by user
+2024-10-25 14:22:13,329 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 14:22:13,440 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 14:22:14,078 [INFO] Bot started successfully
+2024-10-25 14:22:14,078 [INFO] Bot is running...
+2024-10-25 14:22:26,222 [INFO] message_handler in MessageHandler
+2024-10-25 14:23:25,957 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 14:23:25,957 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 14:23:25,965 [INFO] Not disconnecting (already have no connection)
+2024-10-25 14:23:25,976 [INFO] Bot stopped by user
+2024-10-25 14:23:28,934 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 14:23:29,037 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 14:23:29,623 [INFO] Bot started successfully
+2024-10-25 14:23:29,623 [INFO] Bot is running...
+2024-10-25 14:23:29,834 [INFO] start command in CommandHandler
+2024-10-25 14:23:29,949 [INFO] message_handler in MessageHandler
+2024-10-25 14:23:32,153 [INFO] add_account in AccountHandler
+2024-10-25 14:24:12,859 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 14:24:12,860 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 14:24:12,866 [INFO] Not disconnecting (already have no connection)
+2024-10-25 14:24:12,917 [INFO] Bot stopped by user
+2024-10-25 14:24:16,858 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 14:24:16,957 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 14:24:17,528 [INFO] Bot started successfully
+2024-10-25 14:24:17,528 [INFO] Bot is running...
+2024-10-25 14:24:20,396 [INFO] start command in CommandHandler
+2024-10-25 14:24:20,520 [INFO] message_handler in MessageHandler
+2024-10-25 14:24:41,850 [INFO] callback_handler in CallbackHandler
+2024-10-25 14:24:41,850 [INFO] add_account in callback_handler in CallbackHandler
+2024-10-25 14:24:41,850 [INFO] add_account in AccountHandler
+2024-10-25 14:24:46,741 [INFO] start command in CommandHandler
+2024-10-25 14:24:46,852 [INFO] message_handler in MessageHandler
+2024-10-25 14:24:46,852 [INFO] phone_number_handler in AccountHandler
+2024-10-25 14:24:46,889 [INFO] Connecting to 149.154.167.51:443/TcpFull...
+2024-10-25 14:24:47,852 [INFO] Connection to 149.154.167.51:443/TcpFull complete!
+2024-10-25 14:24:48,189 [ERROR] Error in phone_number_handler: bytes or str expected, not <class 'NoneType'>
+2024-10-25 14:24:54,667 [INFO] start command in CommandHandler
+2024-10-25 14:24:54,779 [INFO] message_handler in MessageHandler
+2024-10-25 14:25:28,347 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 14:25:28,348 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 14:25:28,357 [INFO] Not disconnecting (already have no connection)
+2024-10-25 14:25:28,369 [INFO] Bot stopped by user
+2024-10-25 14:36:02,419 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 14:36:02,523 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 14:36:03,124 [INFO] Bot started successfully
+2024-10-25 14:36:03,125 [INFO] Bot is running...
+2024-10-25 14:36:06,176 [INFO] callback_handler in CallbackHandler
+2024-10-25 14:36:06,176 [INFO] show_accounts in callback_handler in CallbackHandler
+2024-10-25 14:36:06,177 [INFO] show_accounts in AccountHandler
+2024-10-25 14:36:09,429 [INFO] callback_handler in CallbackHandler
+2024-10-25 14:36:09,429 [INFO] add_account in callback_handler in CallbackHandler
+2024-10-25 14:36:09,429 [INFO] add_account in AccountHandler
+2024-10-25 14:36:11,447 [INFO] start command in CommandHandler
+2024-10-25 14:36:11,568 [INFO] message_handler in MessageHandler
+2024-10-25 14:36:11,568 [INFO] phone_number_handler in AccountHandler
+2024-10-25 14:36:11,569 [INFO] Connecting to 149.154.167.51:443/TcpFull...
+2024-10-25 14:36:11,579 [INFO] Connection to 149.154.167.51:443/TcpFull complete!
+2024-10-25 14:36:11,794 [ERROR] Error in phone_number_handler: bytes or str expected, not <class 'NoneType'>
+2024-10-25 14:36:14,860 [INFO] callback_handler in CallbackHandler
+2024-10-25 14:36:14,861 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 14:36:14,861 [INFO] update_groups in AccountHandler
+2024-10-25 14:36:41,614 [INFO] callback_handler in CallbackHandler
+2024-10-25 14:36:41,614 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 14:36:41,614 [INFO] update_groups in AccountHandler
+2024-10-25 14:37:05,837 [INFO] callback_handler in CallbackHandler
+2024-10-25 14:37:05,837 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 14:37:05,837 [INFO] update_groups in AccountHandler
+2024-10-25 14:37:23,858 [INFO] callback_handler in CallbackHandler
+2024-10-25 14:37:23,858 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 14:37:23,858 [INFO] update_groups in AccountHandler
+2024-10-25 14:37:37,133 [INFO] callback_handler in CallbackHandler
+2024-10-25 14:37:37,133 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 14:37:37,133 [INFO] update_groups in AccountHandler
+2024-10-25 14:38:29,813 [INFO] callback_handler in CallbackHandler
+2024-10-25 14:38:29,813 [INFO] show_accounts in callback_handler in CallbackHandler
+2024-10-25 14:38:29,813 [INFO] show_accounts in AccountHandler
+2024-10-25 14:38:32,185 [INFO] callback_handler in CallbackHandler
+2024-10-25 14:38:32,186 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 14:38:32,186 [INFO] update_groups in AccountHandler
+2024-10-25 14:38:34,313 [INFO] callback_handler in CallbackHandler
+2024-10-25 14:38:34,313 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 14:38:34,313 [INFO] update_groups in AccountHandler
+2024-10-25 14:38:41,525 [INFO] callback_handler in CallbackHandler
+2024-10-25 14:38:41,525 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 14:38:41,525 [INFO] update_groups in AccountHandler
+2024-10-25 14:38:41,713 [INFO] callback_handler in CallbackHandler
+2024-10-25 14:38:41,716 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 14:38:41,716 [INFO] update_groups in AccountHandler
+2024-10-25 14:38:41,904 [INFO] callback_handler in CallbackHandler
+2024-10-25 14:38:41,904 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 14:38:41,904 [INFO] update_groups in AccountHandler
+2024-10-25 14:38:42,010 [INFO] callback_handler in CallbackHandler
+2024-10-25 14:38:42,010 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 14:38:42,010 [INFO] update_groups in AccountHandler
+2024-10-25 14:38:45,750 [INFO] callback_handler in CallbackHandler
+2024-10-25 14:38:45,750 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 14:38:45,750 [INFO] update_groups in AccountHandler
+2024-10-25 14:38:46,724 [INFO] callback_handler in CallbackHandler
+2024-10-25 14:38:46,724 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 14:38:46,725 [INFO] update_groups in AccountHandler
+2024-10-25 14:38:46,876 [INFO] callback_handler in CallbackHandler
+2024-10-25 14:38:46,876 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 14:38:46,876 [INFO] update_groups in AccountHandler
+2024-10-25 14:38:47,008 [INFO] callback_handler in CallbackHandler
+2024-10-25 14:38:47,009 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 14:38:47,009 [INFO] update_groups in AccountHandler
+2024-10-25 14:38:47,194 [INFO] callback_handler in CallbackHandler
+2024-10-25 14:38:47,194 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 14:38:47,194 [INFO] update_groups in AccountHandler
+2024-10-25 14:38:47,354 [INFO] callback_handler in CallbackHandler
+2024-10-25 14:38:47,355 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 14:38:47,355 [INFO] update_groups in AccountHandler
+2024-10-25 14:38:56,330 [INFO] callback_handler in CallbackHandler
+2024-10-25 14:38:56,331 [INFO] show_accounts in callback_handler in CallbackHandler
+2024-10-25 14:38:56,331 [INFO] show_accounts in AccountHandler
+2024-10-25 14:38:56,415 [INFO] callback_handler in CallbackHandler
+2024-10-25 14:38:56,415 [INFO] show_accounts in callback_handler in CallbackHandler
+2024-10-25 14:38:56,415 [INFO] show_accounts in AccountHandler
+2024-10-25 14:39:56,476 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 14:39:56,477 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 14:39:56,486 [INFO] Not disconnecting (already have no connection)
+2024-10-25 14:39:56,492 [INFO] Bot stopped by user
+2024-10-25 14:39:58,709 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 14:39:58,813 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 14:39:59,400 [INFO] Bot started successfully
+2024-10-25 14:39:59,400 [INFO] Bot is running...
+2024-10-25 14:40:02,673 [INFO] callback_handler in CallbackHandler
+2024-10-25 14:40:02,673 [INFO] show_accounts in callback_handler in CallbackHandler
+2024-10-25 14:40:02,673 [INFO] show_accounts in AccountHandler
+2024-10-25 14:40:04,199 [INFO] callback_handler in CallbackHandler
+2024-10-25 14:40:04,199 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 14:40:04,199 [INFO] update_groups in AccountHandler
+2024-10-25 14:43:26,945 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 14:43:26,946 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 14:43:26,963 [INFO] Not disconnecting (already have no connection)
+2024-10-25 14:43:26,969 [INFO] Bot stopped by user
+2024-10-25 14:43:30,645 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 14:43:30,742 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 14:43:31,281 [INFO] Bot started successfully
+2024-10-25 14:43:31,283 [INFO] Bot is running...
+2024-10-25 14:43:34,401 [INFO] start command in CommandHandler
+2024-10-25 14:43:34,510 [INFO] message_handler in MessageHandler
+2024-10-25 14:43:39,568 [INFO] callback_handler in CallbackHandler
+2024-10-25 14:43:39,568 [INFO] show_accounts in callback_handler in CallbackHandler
+2024-10-25 14:43:39,568 [INFO] show_accounts in AccountHandler
+2024-10-25 14:49:11,943 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 14:49:11,944 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 14:49:11,956 [INFO] Not disconnecting (already have no connection)
+2024-10-25 14:49:11,962 [INFO] Bot stopped by user
+2024-10-25 14:49:14,787 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 14:49:14,892 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 14:49:15,489 [INFO] Bot started successfully
+2024-10-25 14:49:15,489 [INFO] Bot is running...
+2024-10-25 14:49:25,214 [INFO] start command in CommandHandler
+2024-10-25 14:49:25,330 [INFO] message_handler in MessageHandler
+2024-10-25 14:49:27,706 [INFO] callback_handler in CallbackHandler
+2024-10-25 14:49:27,706 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 14:49:27,706 [INFO] update_groups in AccountHandler
+2024-10-25 14:53:31,198 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 14:53:31,199 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 14:53:31,204 [INFO] Not disconnecting (already have no connection)
+2024-10-25 14:53:31,209 [INFO] Bot stopped by user
+2024-10-25 14:53:32,895 [INFO] load_config in ConfigManager
+2024-10-25 14:53:32,900 [INFO] load_config in ConfigManager
+2024-10-25 14:53:32,900 [INFO] load_config in ConfigManager
+2024-10-25 14:53:32,901 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 14:53:32,998 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 14:53:33,560 [INFO] Bot started successfully
+2024-10-25 14:53:33,560 [INFO] Bot is running...
+2024-10-25 14:53:39,502 [INFO] start command in CommandHandler
+2024-10-25 14:53:39,610 [INFO] message_handler in MessageHandler
+2024-10-25 14:53:41,469 [INFO] callback_handler in CallbackHandler
+2024-10-25 14:53:41,469 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 14:53:41,469 [INFO] update_groups in AccountHandler
+2024-10-25 14:53:41,469 [INFO] save_config in ConfigManager
+2024-10-25 14:53:41,470 [INFO] Detected sessions: ['bot2.session', '258833982548.session']
+2024-10-25 14:53:41,578 [INFO] save_config in ConfigManager
+2024-10-25 14:53:49,647 [INFO] callback_handler in CallbackHandler
+2024-10-25 14:53:49,647 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 14:53:49,647 [INFO] update_groups in AccountHandler
+2024-10-25 14:53:49,647 [INFO] No new sessions detected.
+2024-10-25 14:53:49,755 [INFO] save_config in ConfigManager
+2024-10-25 14:53:59,782 [INFO] callback_handler in CallbackHandler
+2024-10-25 14:53:59,783 [INFO] show_accounts in callback_handler in CallbackHandler
+2024-10-25 14:53:59,783 [INFO] show_accounts in AccountHandler
+2024-10-25 14:53:59,783 [ERROR] Error in show_accounts: string indices must be integers, not 'str'
+2024-10-25 14:54:05,291 [INFO] callback_handler in CallbackHandler
+2024-10-25 14:54:05,291 [INFO] show_accounts in callback_handler in CallbackHandler
+2024-10-25 14:54:05,291 [INFO] show_accounts in AccountHandler
+2024-10-25 14:54:05,291 [ERROR] Error in show_accounts: string indices must be integers, not 'str'
+2024-10-25 14:54:07,096 [INFO] callback_handler in CallbackHandler
+2024-10-25 14:54:07,096 [INFO] show_stats in callback_handler in CallbackHandler
+2024-10-25 14:54:07,096 [INFO] show_stats in StatsHandler
+2024-10-25 14:54:50,920 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 14:54:50,920 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 14:54:50,925 [INFO] Not disconnecting (already have no connection)
+2024-10-25 14:54:50,931 [INFO] Bot stopped by user
+2024-10-25 14:54:53,096 [INFO] load_config in ConfigManager
+2024-10-25 14:54:53,098 [INFO] load_config in ConfigManager
+2024-10-25 14:54:53,098 [INFO] load_config in ConfigManager
+2024-10-25 14:54:53,099 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 14:54:53,201 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 14:54:53,784 [INFO] Bot started successfully
+2024-10-25 14:54:53,784 [INFO] Bot is running...
+2024-10-25 14:57:03,513 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 14:57:03,514 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 14:57:03,521 [INFO] Not disconnecting (already have no connection)
+2024-10-25 14:57:03,528 [INFO] Bot stopped by user
+2024-10-25 14:57:07,475 [INFO] load_config in ConfigManager
+2024-10-25 14:57:07,477 [INFO] load_config in ConfigManager
+2024-10-25 14:57:07,478 [INFO] load_config in ConfigManager
+2024-10-25 14:57:07,478 [CRITICAL] Critical error in main: 'TelegramBot' object has no attribute 'ClientManager'
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/main.py", line 8, in main
+    bot = TelegramBot()
+          ^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/src/bot.py", line 26, in __init__
+    self.ClientManager.detect_sessions()
+    ^^^^^^^^^^^^^^^^^^
+AttributeError: 'TelegramBot' object has no attribute 'ClientManager'. Did you mean: 'client_manager'?
+2024-10-25 14:58:53,267 [INFO] load_config in ConfigManager
+2024-10-25 14:58:53,269 [INFO] load_config in ConfigManager
+2024-10-25 14:58:53,269 [INFO] load_config in ConfigManager
+2024-10-25 14:58:53,269 [ERROR] Error running bot: 'TelegramBot' object has no attribute 'ClientManager'
+2024-10-25 14:58:53,270 [INFO] Not disconnecting (already have no connection)
+2024-10-25 15:00:25,489 [INFO] load_config in ConfigManager
+2024-10-25 15:00:25,491 [INFO] load_config in ConfigManager
+2024-10-25 15:00:25,491 [INFO] load_config in ConfigManager
+2024-10-25 15:00:25,491 [ERROR] Error running bot: 'TelegramBot' object has no attribute 'ClientManager'
+2024-10-25 15:00:25,491 [INFO] Not disconnecting (already have no connection)
+2024-10-25 15:00:39,618 [INFO] load_config in ConfigManager
+2024-10-25 15:00:39,620 [INFO] load_config in ConfigManager
+2024-10-25 15:00:39,620 [INFO] load_config in ConfigManager
+2024-10-25 15:00:39,621 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 15:00:39,727 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 15:00:40,395 [INFO] Bot started successfully
+2024-10-25 15:00:40,395 [INFO] Bot is running...
+2024-10-25 15:01:01,778 [INFO] start command in CommandHandler
+2024-10-25 15:01:01,898 [INFO] message_handler in MessageHandler
+2024-10-25 15:01:24,700 [INFO] callback_handler in CallbackHandler
+2024-10-25 15:01:24,701 [INFO] show_accounts in callback_handler in CallbackHandler
+2024-10-25 15:01:24,701 [INFO] show_accounts in AccountHandler
+2024-10-25 15:01:26,694 [INFO] callback_handler in CallbackHandler
+2024-10-25 15:01:26,695 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 15:01:26,695 [INFO] update_groups in AccountHandler
+2024-10-25 15:01:26,695 [INFO] save_config in ConfigManager
+2024-10-25 15:01:26,695 [INFO] Detected sessions: ['bot2.session', '258833982548.session']
+2024-10-25 15:01:26,814 [INFO] save_config in ConfigManager
+2024-10-25 15:01:29,580 [INFO] callback_handler in CallbackHandler
+2024-10-25 15:01:29,580 [INFO] show_accounts in callback_handler in CallbackHandler
+2024-10-25 15:01:29,580 [INFO] show_accounts in AccountHandler
+2024-10-25 15:01:29,581 [ERROR] Error in show_accounts: string indices must be integers, not 'str'
+2024-10-25 15:02:24,761 [INFO] callback_handler in CallbackHandler
+2024-10-25 15:02:24,761 [INFO] show_stats in callback_handler in CallbackHandler
+2024-10-25 15:02:24,761 [INFO] show_stats in StatsHandler
+2024-10-25 15:04:16,528 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 15:04:16,529 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 15:04:16,540 [INFO] Not disconnecting (already have no connection)
+2024-10-25 15:04:16,547 [INFO] Bot stopped by user
+2024-10-25 15:04:19,933 [INFO] load_config in ConfigManager
+2024-10-25 15:04:19,937 [INFO] load_config in ConfigManager
+2024-10-25 15:04:19,937 [INFO] load_config in ConfigManager
+2024-10-25 15:04:19,938 [ERROR] Error running bot: 'TelegramBot' object has no attribute 'ClientManager'
+2024-10-25 15:04:19,938 [INFO] Not disconnecting (already have no connection)
+2024-10-25 15:04:32,296 [INFO] load_config in ConfigManager
+2024-10-25 15:04:32,298 [INFO] load_config in ConfigManager
+2024-10-25 15:04:32,299 [INFO] load_config in ConfigManager
+2024-10-25 15:04:32,299 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 15:04:32,405 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 15:04:33,066 [INFO] Bot started successfully
+2024-10-25 15:04:33,066 [INFO] Bot is running...
+2024-10-25 15:04:48,519 [INFO] start command in CommandHandler
+2024-10-25 15:04:48,636 [INFO] message_handler in MessageHandler
+2024-10-25 16:36:45,664 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 16:36:45,664 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 16:36:45,669 [INFO] Not disconnecting (already have no connection)
+2024-10-25 16:36:45,674 [INFO] Bot stopped by user
+2024-10-25 16:36:51,433 [INFO] load_config in ConfigManager
+2024-10-25 16:36:51,435 [INFO] load_config in ConfigManager
+2024-10-25 16:36:51,435 [INFO] load_config in ConfigManager
+2024-10-25 16:36:51,436 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 16:36:51,541 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 16:36:52,130 [ERROR] Error running bot: name 'detect_sessions' is not defined
+2024-10-25 16:36:52,131 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 16:36:52,131 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 16:37:17,076 [INFO] load_config in ConfigManager
+2024-10-25 16:37:17,078 [INFO] load_config in ConfigManager
+2024-10-25 16:37:17,078 [INFO] load_config in ConfigManager
+2024-10-25 16:37:17,078 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 16:37:17,184 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 16:37:17,801 [INFO] save_config in ConfigManager
+2024-10-25 16:37:17,801 [INFO] Detected sessions: ['bot2.session', '258833982548.session']
+2024-10-25 16:37:17,802 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 16:37:17,907 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 16:37:22,922 [ERROR] Error running bot: database is locked
+2024-10-25 16:37:22,923 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 16:37:22,924 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 16:48:57,488 [INFO] load_config in ConfigManager
+2024-10-25 16:48:57,533 [INFO] load_config in ConfigManager
+2024-10-25 16:48:57,533 [INFO] load_config in ConfigManager
+2024-10-25 16:48:57,533 [INFO] Connecting to 149.154.167.51:443/TcpFull...
+2024-10-25 16:48:59,161 [INFO] Connection to 149.154.167.51:443/TcpFull complete!
+2024-10-25 16:49:00,146 [INFO] Phone migrated to 1
+2024-10-25 16:49:00,146 [INFO] Reconnecting to new data center 1
+2024-10-25 16:49:00,287 [INFO] Disconnecting from 149.154.167.51:443/TcpFull...
+2024-10-25 16:49:00,288 [INFO] Disconnection from 149.154.167.51:443/TcpFull complete!
+2024-10-25 16:49:00,288 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 16:49:01,881 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 16:49:02,552 [INFO] save_config in ConfigManager
+2024-10-25 16:49:02,553 [INFO] Detected sessions: ['bot2.session', '258833982548.session']
+2024-10-25 16:49:02,554 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 16:49:02,658 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 16:49:07,672 [ERROR] Error running bot: database is locked
+2024-10-25 16:49:07,673 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 16:49:07,673 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 16:50:09,505 [INFO] load_config in ConfigManager
+2024-10-25 16:50:09,506 [INFO] load_config in ConfigManager
+2024-10-25 16:50:09,506 [INFO] load_config in ConfigManager
+2024-10-25 16:50:09,507 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 16:50:09,613 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 16:50:10,220 [INFO] save_config in ConfigManager
+2024-10-25 16:50:10,221 [INFO] Detected sessions: ['258833982548.session']
+2024-10-25 16:50:10,222 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 16:50:10,232 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 16:50:11,108 [INFO] Started client: 258833982548.session
+2024-10-25 16:50:11,108 [INFO] Bot started successfully
+2024-10-25 16:50:11,108 [INFO] Bot is running...
+2024-10-25 16:50:26,369 [INFO] start command in CommandHandler
+2024-10-25 16:50:26,484 [INFO] message_handler in MessageHandler
+2024-10-25 16:50:28,529 [INFO] callback_handler in CallbackHandler
+2024-10-25 16:50:28,529 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 16:50:28,529 [INFO] update_groups in AccountHandler
+2024-10-25 16:50:28,529 [INFO] No new sessions detected.
+2024-10-25 16:50:28,808 [ERROR] Error updating groups for 258833982548.session: 'Chat' object has no attribute 'broadcast'
+2024-10-25 16:50:28,808 [INFO] save_config in ConfigManager
+2024-10-25 16:50:29,195 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 16:50:34,095 [INFO] callback_handler in CallbackHandler
+2024-10-25 16:50:34,096 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 16:50:34,096 [INFO] update_groups in AccountHandler
+2024-10-25 16:50:34,096 [INFO] No new sessions detected.
+2024-10-25 16:50:34,347 [ERROR] Error updating groups for 258833982548.session: 'Chat' object has no attribute 'broadcast'
+2024-10-25 16:50:34,347 [INFO] save_config in ConfigManager
+2024-10-25 16:50:34,752 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 16:50:37,998 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 16:51:10,087 [INFO] callback_handler in CallbackHandler
+2024-10-25 16:51:10,087 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 16:51:10,087 [INFO] update_groups in AccountHandler
+2024-10-25 16:51:10,088 [INFO] No new sessions detected.
+2024-10-25 16:51:10,369 [ERROR] Error updating groups for 258833982548.session: 'Chat' object has no attribute 'broadcast'
+2024-10-25 16:51:10,369 [INFO] save_config in ConfigManager
+2024-10-25 16:51:10,770 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 16:51:10,796 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 16:51:10,846 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 16:51:10,881 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 16:51:28,409 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 16:51:37,032 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 16:51:40,556 [INFO] callback_handler in CallbackHandler
+2024-10-25 16:51:40,556 [INFO] show_accounts in callback_handler in CallbackHandler
+2024-10-25 16:51:40,556 [INFO] show_accounts in AccountHandler
+2024-10-25 16:51:40,556 [ERROR] Error in show_accounts: string indices must be integers, not 'str'
+2024-10-25 16:51:41,559 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 16:51:44,318 [INFO] callback_handler in CallbackHandler
+2024-10-25 16:51:44,318 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 16:51:44,318 [INFO] update_groups in AccountHandler
+2024-10-25 16:51:44,318 [INFO] No new sessions detected.
+2024-10-25 16:51:44,582 [ERROR] Error updating groups for 258833982548.session: 'Chat' object has no attribute 'broadcast'
+2024-10-25 16:51:44,582 [INFO] save_config in ConfigManager
+2024-10-25 16:51:44,986 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 16:51:46,737 [INFO] callback_handler in CallbackHandler
+2024-10-25 16:51:46,737 [INFO] show_accounts in callback_handler in CallbackHandler
+2024-10-25 16:51:46,737 [INFO] show_accounts in AccountHandler
+2024-10-25 16:51:46,737 [ERROR] Error in show_accounts: string indices must be integers, not 'str'
+2024-10-25 16:52:11,689 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 16:52:11,724 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 16:52:11,758 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 16:52:11,781 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 16:52:45,225 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 16:52:45,256 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 16:52:45,283 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 16:53:03,280 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 16:53:03,327 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 16:53:03,356 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 16:53:10,603 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 16:53:13,355 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 16:53:36,691 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 16:53:36,727 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 16:53:36,762 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 16:53:36,816 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 16:53:51,952 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 16:53:51,982 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 16:54:07,363 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 16:54:07,393 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 16:54:11,784 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 16:54:14,205 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 16:54:57,065 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 16:54:57,109 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 16:55:11,720 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 16:55:11,774 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 16:56:11,718 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 16:56:11,809 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 16:56:11,852 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 16:56:11,874 [INFO] Got difference for channel 1378628998 updates
+2024-10-25 16:57:02,221 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 16:57:02,269 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 16:57:02,303 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 16:57:02,331 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 16:57:02,373 [INFO] Got difference for channel 1378628998 updates
+2024-10-25 16:57:07,924 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 16:57:12,935 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 16:57:18,234 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 16:57:23,472 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 16:57:23,520 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 16:57:38,913 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 16:57:38,933 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 16:57:38,960 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 16:58:11,744 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 16:58:11,773 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 16:58:11,794 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 16:58:14,622 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 16:58:43,180 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 16:58:43,207 [INFO] Got difference for channel 2061929473 updates
+2024-10-25 16:58:43,233 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 16:58:43,256 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 16:58:43,288 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 16:59:11,740 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 16:59:11,787 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 16:59:11,816 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 16:59:11,842 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 16:59:58,492 [INFO] Got difference for channel 2061929473 updates
+2024-10-25 16:59:58,518 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 16:59:58,578 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 16:59:58,621 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:00:06,868 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:00:11,778 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:00:11,835 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:00:27,522 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:00:27,568 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:00:27,602 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:00:36,155 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:01:11,810 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:01:11,869 [INFO] Got difference for channel 2061929473 updates
+2024-10-25 17:01:11,922 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:01:11,967 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:02:11,831 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:02:11,917 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:02:22,117 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:02:22,191 [INFO] Got difference for channel 1114670721 updates
+2024-10-25 17:03:11,824 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:03:11,883 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 17:03:11,952 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:03:12,059 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:03:12,130 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:03:25,502 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:03:34,790 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:03:52,043 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:03:52,072 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:04:11,801 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:04:11,827 [INFO] Got difference for channel 1378628998 updates
+2024-10-25 17:04:11,855 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:05:11,205 [INFO] Got difference for account updates
+2024-10-25 17:05:11,308 [INFO] Got difference for channel 2061929473 updates
+2024-10-25 17:05:11,395 [INFO] Got difference for channel 1378628998 updates
+2024-10-25 17:05:11,494 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:05:11,582 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:05:11,687 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:05:11,768 [INFO] Got difference for channel 1784572641 updates
+2024-10-25 17:05:11,857 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:05:11,910 [INFO] Got difference for channel 1711702573 updates
+2024-10-25 17:05:11,982 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 17:05:20,741 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:05:20,764 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:05:41,428 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:05:41,458 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:05:46,575 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:05:52,142 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:05:59,240 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:06:11,826 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:06:22,916 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:07:11,849 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:07:11,877 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:07:11,944 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:07:11,998 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:07:17,628 [INFO] Got difference for account updates
+2024-10-25 17:07:59,176 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:07:59,246 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:07:59,299 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:07:59,359 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:08:04,326 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:08:11,833 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:08:58,423 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:08:58,456 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:08:58,481 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:09:11,270 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 17:09:11,322 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:09:16,402 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:09:21,766 [INFO] Got difference for channel 1114670721 updates
+2024-10-25 17:09:21,814 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:10:11,870 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:10:11,925 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:10:11,950 [INFO] Got difference for channel 1114670721 updates
+2024-10-25 17:10:12,020 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:10:12,068 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 17:10:25,692 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:10:25,712 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:11:11,867 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:11:11,912 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:11:11,952 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:11:27,131 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:11:27,163 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:12:11,876 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:12:11,906 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:12:11,971 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:12:12,001 [INFO] Got difference for channel 1114670721 updates
+2024-10-25 17:12:12,070 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:12:12,106 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 17:12:37,900 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:12:37,944 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:12:38,006 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:12:48,744 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:12:48,766 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:13:11,893 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:13:11,927 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:13:11,958 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:13:11,987 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:14:03,674 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:14:03,697 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:14:03,736 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:14:03,773 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:14:11,915 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:14:19,677 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:14:33,512 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:14:33,553 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 17:14:59,067 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:14:59,128 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:14:59,169 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:15:11,907 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:15:11,927 [INFO] Got difference for channel 1912337026 updates
+2024-10-25 17:15:11,971 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:15:42,237 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:15:42,314 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 17:16:11,951 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:16:12,061 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:16:12,096 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:16:12,152 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:17:11,961 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:17:11,991 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:17:12,060 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:17:35,161 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:17:35,192 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:17:42,953 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:17:49,345 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:17:54,683 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:18:12,012 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:18:12,052 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:18:12,093 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:18:54,430 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:18:54,466 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:18:54,496 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:19:07,636 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:19:11,973 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:19:33,570 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:19:33,591 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:19:33,622 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:19:33,653 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 17:19:44,684 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:19:44,711 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:19:44,741 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:20:11,899 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:20:12,000 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:20:12,580 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:20:15,582 [INFO] Got difference for channel 1261819760 updates
+2024-10-25 17:20:16,143 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:20:22,966 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:20:23,000 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:20:29,686 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:20:29,736 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:20:31,587 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:20:31,634 [INFO] Got difference for channel 1114670721 updates
+2024-10-25 17:20:40,513 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:20:40,538 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:21:12,012 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:21:12,062 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:21:39,948 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:21:39,988 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:21:40,060 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:21:40,133 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:21:40,214 [INFO] Got difference for channel 1784572641 updates
+2024-10-25 17:22:02,429 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:22:02,544 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:22:11,671 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:22:17,674 [INFO] Got difference for account updates
+2024-10-25 17:22:17,709 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:22:17,733 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:22:17,768 [WARNING] Telegram is having internal issues PersistentTimestampOutdatedError: Persistent timestamp outdated (caused by GetChannelDifferenceRequest)
+2024-10-25 17:22:19,805 [INFO] Got difference for channel 1711702573 updates
+2024-10-25 17:22:19,840 [INFO] Got difference for channel 2061929473 updates
+2024-10-25 17:22:36,458 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:22:36,509 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:22:36,540 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:22:36,564 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:23:04,295 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:23:04,332 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:23:04,363 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 17:23:12,077 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:23:12,116 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:23:18,130 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:23:18,173 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:23:51,968 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 17:23:51,969 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 17:23:51,975 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 17:23:51,975 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 17:23:51,984 [INFO] Not disconnecting (already have no connection)
+2024-10-25 17:23:51,991 [INFO] Bot stopped by user
+2024-10-25 17:23:57,724 [INFO] load_config in ConfigManager
+2024-10-25 17:23:57,726 [INFO] load_config in ConfigManager
+2024-10-25 17:23:57,726 [INFO] load_config in ConfigManager
+2024-10-25 17:23:57,726 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 17:23:57,828 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 17:23:58,398 [INFO] save_config in ConfigManager
+2024-10-25 17:23:58,398 [INFO] Detected sessions: ['258833982548.session']
+2024-10-25 17:23:58,399 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 17:23:58,406 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 17:23:58,475 [INFO] Started client: 258833982548.session
+2024-10-25 17:23:58,475 [INFO] Bot started successfully
+2024-10-25 17:23:58,475 [INFO] Bot is running...
+2024-10-25 17:24:51,278 [INFO] start command in CommandHandler
+2024-10-25 17:24:51,405 [INFO] message_handler in MessageHandler
+2024-10-25 17:24:55,170 [INFO] callback_handler in CallbackHandler
+2024-10-25 17:24:55,170 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 17:24:55,170 [INFO] update_groups in AccountHandler
+2024-10-25 17:24:55,170 [INFO] No new sessions detected.
+2024-10-25 17:24:55,409 [ERROR] Error updating groups for 258833982548.session: 'Chat' object has no attribute 'broadcast'
+2024-10-25 17:24:55,409 [INFO] save_config in ConfigManager
+2024-10-25 17:24:55,834 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:24:55,861 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:24:55,922 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 17:25:46,702 [INFO] callback_handler in CallbackHandler
+2024-10-25 17:25:46,702 [INFO] add_keyword in callback_handler in CallbackHandler
+2024-10-25 17:25:46,702 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 17:25:50,659 [INFO] message_handler in MessageHandler
+2024-10-25 17:25:50,660 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 17:25:50,660 [INFO] save_config in ConfigManager
+2024-10-25 17:25:59,197 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:25:59,305 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:25:59,410 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:26:16,367 [INFO] Got difference for channel 1261819760 updates
+2024-10-25 17:26:16,405 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:26:16,440 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:26:28,856 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:26:29,664 [INFO] callback_handler in CallbackHandler
+2024-10-25 17:26:32,163 [INFO] callback_handler in CallbackHandler
+2024-10-25 17:26:32,163 [INFO] remove_keyword in callback_handler in CallbackHandler
+2024-10-25 17:26:32,163 [INFO] remove_keyword_handler in KeywordHandler
+2024-10-25 17:26:33,205 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:26:35,365 [INFO] message_handler in MessageHandler
+2024-10-25 17:26:35,365 [INFO] remove_keyword_handler in KeywordHandler
+2024-10-25 17:26:38,925 [INFO] callback_handler in CallbackHandler
+2024-10-25 17:26:41,161 [INFO] callback_handler in CallbackHandler
+2024-10-25 17:26:41,161 [INFO] remove_keyword in callback_handler in CallbackHandler
+2024-10-25 17:26:41,161 [INFO] remove_keyword_handler in KeywordHandler
+2024-10-25 17:26:43,383 [INFO] message_handler in MessageHandler
+2024-10-25 17:26:43,383 [INFO] remove_keyword_handler in KeywordHandler
+2024-10-25 17:26:43,383 [INFO] save_config in ConfigManager
+2024-10-25 17:26:47,005 [INFO] callback_handler in CallbackHandler
+2024-10-25 17:26:47,005 [INFO] add_keyword in callback_handler in CallbackHandler
+2024-10-25 17:26:47,006 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 17:26:49,196 [INFO] message_handler in MessageHandler
+2024-10-25 17:26:49,197 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 17:26:49,197 [INFO] save_config in ConfigManager
+2024-10-25 17:26:58,161 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 17:26:58,162 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 17:26:58,169 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 17:26:58,169 [INFO] Bot stopped by user
+2024-10-25 17:34:18,207 [INFO] load_config in ConfigManager
+2024-10-25 17:34:18,207 [INFO] config file found!
+2024-10-25 17:34:18,209 [INFO] load_config in ConfigManager
+2024-10-25 17:34:18,209 [INFO] config file found!
+2024-10-25 17:34:18,209 [INFO] load_config in ConfigManager
+2024-10-25 17:34:18,209 [INFO] config file found!
+2024-10-25 17:34:18,210 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 17:34:18,315 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 17:34:18,920 [ERROR] Error running bot: ConfigManager.update_config() missing 2 required positional arguments: 'key' and 'value'
+2024-10-25 17:34:18,921 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 17:34:18,921 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 17:34:49,326 [INFO] load_config in ConfigManager
+2024-10-25 17:34:49,326 [INFO] config file found!
+2024-10-25 17:34:49,328 [INFO] load_config in ConfigManager
+2024-10-25 17:34:49,328 [INFO] config file found!
+2024-10-25 17:34:49,328 [INFO] load_config in ConfigManager
+2024-10-25 17:34:49,329 [INFO] config file found!
+2024-10-25 17:34:49,329 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 17:34:49,433 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 17:34:50,034 [INFO] save_config in ConfigManager
+2024-10-25 17:34:50,035 [INFO] json file opened
+2024-10-25 17:34:50,035 [INFO] Detected sessions: ['258833982548.session']
+2024-10-25 17:34:50,037 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 17:34:50,044 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 17:34:50,284 [INFO] Started client: 258833982548.session
+2024-10-25 17:34:50,284 [INFO] Bot started successfully
+2024-10-25 17:34:50,284 [INFO] Bot is running...
+2024-10-25 17:35:48,795 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 17:35:48,796 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 17:35:48,816 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 17:35:48,817 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 17:35:48,821 [INFO] Not disconnecting (already have no connection)
+2024-10-25 17:35:48,826 [INFO] Bot stopped by user
+2024-10-25 17:35:55,936 [INFO] load_config in ConfigManager
+2024-10-25 17:35:55,937 [INFO] config file found!
+2024-10-25 17:35:55,938 [INFO] load_config in ConfigManager
+2024-10-25 17:35:55,938 [INFO] config file found!
+2024-10-25 17:35:55,938 [INFO] load_config in ConfigManager
+2024-10-25 17:35:55,938 [INFO] config file found!
+2024-10-25 17:35:55,939 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 17:35:56,040 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 17:35:56,622 [INFO] save_config in ConfigManager
+2024-10-25 17:35:56,622 [INFO] json file opened
+2024-10-25 17:35:56,623 [INFO] Detected sessions: ['258833982548.session']
+2024-10-25 17:35:56,624 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 17:35:56,633 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 17:35:56,938 [INFO] Started client: 258833982548.session
+2024-10-25 17:35:56,938 [INFO] Bot started successfully
+2024-10-25 17:35:56,938 [INFO] Bot is running...
+2024-10-25 17:36:13,193 [INFO] callback_handler in CallbackHandler
+2024-10-25 17:36:13,193 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 17:36:13,193 [INFO] update_groups in AccountHandler
+2024-10-25 17:36:13,193 [INFO] No new sessions detected.
+2024-10-25 17:36:13,559 [ERROR] Error updating groups for 258833982548.session: 'Chat' object has no attribute 'broadcast'
+2024-10-25 17:36:13,559 [INFO] save_config in ConfigManager
+2024-10-25 17:36:13,560 [INFO] json file opened
+2024-10-25 17:36:28,292 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:36:28,326 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:36:28,870 [INFO] Got difference for channel 2061929473 updates
+2024-10-25 17:36:57,490 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:36:57,522 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:36:57,553 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:37:50,013 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:37:50,055 [INFO] Got difference for channel 2061929473 updates
+2024-10-25 17:37:50,123 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:37:50,154 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:37:50,183 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:37:51,783 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:37:51,802 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:37:57,509 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:37:57,541 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:38:09,552 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:38:09,645 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:38:15,693 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:38:15,750 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:38:20,987 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:38:21,131 [INFO] Got difference for channel 1378628998 updates
+2024-10-25 17:38:21,276 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:38:41,303 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:38:41,338 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:38:41,366 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:38:57,563 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:38:57,607 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:38:57,653 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:39:30,164 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:39:30,199 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:39:30,226 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:39:30,277 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:39:30,799 [INFO] Got difference for channel 1114670721 updates
+2024-10-25 17:39:57,528 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:39:57,552 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:39:57,580 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:39:57,620 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:40:57,543 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:40:57,596 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:40:57,626 [INFO] Got difference for channel 1114670721 updates
+2024-10-25 17:40:57,709 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:41:57,548 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:41:57,604 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:41:57,634 [INFO] Got difference for channel 1114670721 updates
+2024-10-25 17:41:57,667 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:41:57,707 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:42:12,311 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:42:12,367 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:42:57,552 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:42:57,626 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:42:57,689 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:43:19,098 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:43:19,128 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:43:19,153 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:43:19,191 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:43:30,379 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:43:57,669 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:43:57,774 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:43:57,843 [INFO] Got difference for channel 1114670721 updates
+2024-10-25 17:43:57,909 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:44:12,889 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:44:12,922 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 17:44:12,968 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:44:57,602 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 17:44:57,651 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:44:57,683 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:44:57,711 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:45:57,590 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:45:57,655 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:45:57,681 [INFO] Got difference for channel 1114670721 updates
+2024-10-25 17:45:57,727 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:45:57,783 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:46:57,593 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:46:57,619 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:46:57,667 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:46:57,701 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:46:57,733 [INFO] Got difference for channel 1114670721 updates
+2024-10-25 17:46:57,760 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 17:47:02,909 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:47:09,073 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:47:09,605 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:47:50,298 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:47:50,366 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:47:50,391 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 17:47:50,420 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:47:50,445 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:47:57,609 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 17:48:10,689 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:48:10,711 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:48:10,731 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:48:25,279 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:48:57,621 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:48:57,651 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:48:57,687 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:48:57,715 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:49:02,462 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:49:10,989 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:49:11,036 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:49:11,081 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:49:16,623 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:49:16,661 [INFO] Got difference for channel 1114670721 updates
+2024-10-25 17:49:22,719 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:49:27,880 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:49:33,890 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:49:37,632 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 17:49:39,466 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:49:40,802 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:49:41,738 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:49:48,202 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 17:49:48,203 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 17:49:48,209 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 17:49:48,210 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 17:49:48,221 [INFO] Not disconnecting (already have no connection)
+2024-10-25 17:49:48,227 [INFO] Bot stopped by user
+2024-10-25 17:49:50,867 [INFO] load_config in ConfigManager
+2024-10-25 17:49:50,867 [INFO] config file found!
+2024-10-25 17:49:50,869 [INFO] load_config in ConfigManager
+2024-10-25 17:49:50,869 [INFO] config file found!
+2024-10-25 17:49:50,869 [INFO] load_config in ConfigManager
+2024-10-25 17:49:50,869 [INFO] config file found!
+2024-10-25 17:49:50,870 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 17:49:50,971 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 17:49:51,547 [INFO] save_config in ConfigManager
+2024-10-25 17:49:51,547 [INFO] json file opened
+2024-10-25 17:49:51,548 [INFO] Detected sessions: ['258833982548.session']
+2024-10-25 17:49:51,549 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 17:49:51,556 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 17:49:51,642 [INFO] Started client: 258833982548.session
+2024-10-25 17:49:51,642 [INFO] Bot started successfully
+2024-10-25 17:49:51,642 [INFO] Bot is running...
+2024-10-25 17:50:02,279 [INFO] callback_handler in CallbackHandler
+2024-10-25 17:50:02,281 [INFO] show_accounts in callback_handler in CallbackHandler
+2024-10-25 17:50:02,281 [INFO] show_accounts in AccountHandler
+2024-10-25 17:50:02,281 [ERROR] Error in show_accounts: string indices must be integers, not 'str'
+2024-10-25 17:50:04,412 [INFO] callback_handler in CallbackHandler
+2024-10-25 17:50:04,412 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 17:50:04,412 [INFO] update_groups in AccountHandler
+2024-10-25 17:50:04,412 [INFO] No new sessions detected.
+2024-10-25 17:50:04,797 [ERROR] Error updating groups for 258833982548.session: 'Chat' object has no attribute 'broadcast'
+2024-10-25 17:50:04,798 [INFO] save_config in ConfigManager
+2024-10-25 17:50:04,798 [INFO] json file opened
+2024-10-25 17:50:17,103 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:50:17,131 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:50:29,833 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:50:29,859 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:50:52,262 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:50:52,308 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:51:31,497 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:51:31,541 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:51:31,599 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:51:52,216 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:51:52,262 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:52:21,864 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:52:21,896 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:52:24,512 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 17:52:41,963 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:52:41,991 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:52:52,210 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:52:52,246 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:52:52,296 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:52:59,561 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 17:53:44,921 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:53:44,946 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 17:53:44,984 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:54:26,175 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:54:26,209 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:54:26,254 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:54:26,349 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 17:54:52,231 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:54:52,261 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:54:52,294 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:54:52,322 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:54:52,348 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 17:54:54,712 [INFO] Got difference for channel 1784572641 updates
+2024-10-25 17:54:54,737 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:55:01,091 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:55:01,115 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:55:04,156 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:55:09,758 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:55:13,516 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:55:14,895 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:55:19,353 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:55:21,590 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:55:29,817 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:55:52,231 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:55:52,248 [INFO] Got difference for channel 1912337026 updates
+2024-10-25 17:55:52,280 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:55:52,309 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:55:52,333 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:56:24,606 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:56:24,629 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:56:24,658 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 17:56:24,726 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:56:24,763 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:56:30,846 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:56:36,371 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:56:52,276 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:57:29,004 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:57:29,136 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:57:29,241 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 17:57:29,367 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:57:42,194 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:57:51,224 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:57:51,265 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:57:51,797 [INFO] Got difference for channel 1378628998 updates
+2024-10-25 17:57:59,412 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:57:59,433 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:58:07,122 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:58:15,863 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 17:58:22,132 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:58:25,710 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 17:58:25,765 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:58:30,966 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 17:58:44,231 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:58:44,254 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:58:44,274 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:58:52,333 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:58:52,424 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:58:56,150 [INFO] Got difference for channel 1261819760 updates
+2024-10-25 17:58:56,723 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:59:05,610 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 17:59:08,959 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:59:09,016 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:59:21,780 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:59:21,833 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:59:21,894 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 17:59:27,024 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 17:59:30,412 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:59:36,120 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 17:59:52,269 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 17:59:52,315 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 17:59:52,342 [INFO] Got difference for channel 1114670721 updates
+2024-10-25 17:59:52,371 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:00:34,795 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:00:34,874 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:00:34,904 [INFO] Got difference for channel 1378628998 updates
+2024-10-25 18:00:34,944 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:00:34,969 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 18:00:41,092 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 18:00:41,118 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:00:42,387 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 18:00:42,388 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 18:00:42,394 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 18:00:42,395 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 18:00:42,403 [INFO] Not disconnecting (already have no connection)
+2024-10-25 18:00:42,409 [INFO] Bot stopped by user
+2024-10-25 18:00:43,942 [INFO] load_config in ConfigManager
+2024-10-25 18:00:43,943 [INFO] Config file found!
+2024-10-25 18:00:43,945 [INFO] load_config in ConfigManager
+2024-10-25 18:00:43,945 [INFO] Config file found!
+2024-10-25 18:00:43,945 [INFO] load_config in ConfigManager
+2024-10-25 18:00:43,945 [INFO] Config file found!
+2024-10-25 18:00:43,946 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 18:00:44,047 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 18:00:44,635 [INFO] save_config in ConfigManager
+2024-10-25 18:00:44,635 [INFO] JSON file saved successfully
+2024-10-25 18:00:44,635 [INFO] Detected sessions: ['258833982548.session']
+2024-10-25 18:00:44,637 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 18:00:44,647 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 18:00:44,874 [INFO] Started client: 258833982548.session
+2024-10-25 18:00:44,874 [INFO] Bot started successfully
+2024-10-25 18:00:44,874 [INFO] Bot is running...
+2024-10-25 18:00:52,951 [INFO] callback_handler in CallbackHandler
+2024-10-25 18:00:52,951 [INFO] add_keyword in callback_handler in CallbackHandler
+2024-10-25 18:00:52,951 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 18:00:55,978 [INFO] message_handler in MessageHandler
+2024-10-25 18:00:55,978 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 18:00:55,978 [INFO] save_config in ConfigManager
+2024-10-25 18:00:55,979 [INFO] JSON file saved successfully
+2024-10-25 18:01:51,231 [INFO] Got difference for channel 1261819760 updates
+2024-10-25 18:04:28,533 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 18:04:28,534 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 18:04:28,540 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 18:04:28,541 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 18:04:28,547 [INFO] Not disconnecting (already have no connection)
+2024-10-25 18:04:28,555 [INFO] Bot stopped by user
+2024-10-25 18:05:07,934 [INFO] load_config in ConfigManager
+2024-10-25 18:05:07,934 [INFO] Config file found!
+2024-10-25 18:05:07,936 [INFO] load_config in ConfigManager
+2024-10-25 18:05:07,936 [INFO] Config file found!
+2024-10-25 18:05:07,936 [INFO] load_config in ConfigManager
+2024-10-25 18:05:07,936 [WARNING] Config file config.json does not exist. Creating a new one.
+2024-10-25 18:05:07,936 [INFO] save_config in ConfigManager
+2024-10-25 18:05:07,936 [ERROR] Error saving config to config.json: 'ConfigManager' object has no attribute 'config'
+2024-10-25 18:05:07,937 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 18:05:08,042 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 18:05:08,702 [INFO] save_config in ConfigManager
+2024-10-25 18:05:08,702 [INFO] JSON file saved successfully
+2024-10-25 18:05:08,702 [INFO] Detected sessions: ['258833982548.session']
+2024-10-25 18:05:08,704 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 18:05:08,712 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 18:05:08,789 [INFO] Started client: 258833982548.session
+2024-10-25 18:05:08,789 [INFO] Bot started successfully
+2024-10-25 18:05:08,789 [INFO] Bot is running...
+2024-10-25 18:06:23,980 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 18:06:23,981 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 18:06:23,989 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 18:06:23,989 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 18:06:23,997 [INFO] Not disconnecting (already have no connection)
+2024-10-25 18:06:24,004 [INFO] Bot stopped by user
+2024-10-25 18:06:26,412 [INFO] load_config in ConfigManager
+2024-10-25 18:06:26,412 [INFO] Config file found!
+2024-10-25 18:06:26,414 [INFO] load_config in ConfigManager
+2024-10-25 18:06:26,414 [INFO] Config file found!
+2024-10-25 18:06:26,414 [INFO] load_config in ConfigManager
+2024-10-25 18:06:26,414 [WARNING] Config file config.json does not exist. Creating a new one.
+2024-10-25 18:06:26,414 [INFO] save_config in ConfigManager
+2024-10-25 18:06:26,415 [ERROR] Error saving config to config.json: 'ConfigManager' object has no attribute 'config'
+2024-10-25 18:06:26,415 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 18:06:26,519 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 18:06:27,108 [INFO] save_config in ConfigManager
+2024-10-25 18:06:27,108 [INFO] JSON file saved successfully
+2024-10-25 18:06:27,109 [INFO] Detected sessions: ['258833982548.session']
+2024-10-25 18:06:27,110 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 18:06:27,120 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 18:06:27,201 [INFO] Started client: 258833982548.session
+2024-10-25 18:06:27,201 [INFO] Bot started successfully
+2024-10-25 18:06:27,202 [INFO] Bot is running...
+2024-10-25 18:06:38,169 [INFO] callback_handler in CallbackHandler
+2024-10-25 18:06:38,170 [INFO] add_keyword in callback_handler in CallbackHandler
+2024-10-25 18:06:38,170 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 18:06:40,845 [INFO] message_handler in MessageHandler
+2024-10-25 18:06:40,846 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 18:06:40,846 [INFO] save_config in ConfigManager
+2024-10-25 18:06:40,846 [INFO] JSON file saved successfully
+2024-10-25 18:07:06,594 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 18:07:06,594 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 18:07:06,619 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 18:07:06,620 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 18:07:06,628 [INFO] Not disconnecting (already have no connection)
+2024-10-25 18:07:06,634 [INFO] Bot stopped by user
+2024-10-25 18:07:58,826 [INFO] load_config in ConfigManager
+2024-10-25 18:07:58,827 [INFO] Config file found!
+2024-10-25 18:07:58,828 [INFO] load_config in ConfigManager
+2024-10-25 18:07:58,828 [INFO] Config file found!
+2024-10-25 18:07:58,828 [INFO] load_config in ConfigManager
+2024-10-25 18:07:58,828 [WARNING] Config file config.json does not exist. Creating a new one.
+2024-10-25 18:07:58,828 [INFO] save_config in ConfigManager
+2024-10-25 18:07:58,829 [ERROR] Error saving config to config.json: 'ConfigManager' object has no attribute 'config'
+2024-10-25 18:07:58,829 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 18:07:58,932 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 18:07:59,534 [INFO] save_config in ConfigManager
+2024-10-25 18:07:59,534 [INFO] JSON file saved successfully
+2024-10-25 18:07:59,534 [INFO] Detected sessions: ['258833982548.session']
+2024-10-25 18:07:59,535 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 18:07:59,542 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 18:07:59,611 [INFO] Started client: 258833982548.session
+2024-10-25 18:07:59,611 [INFO] Bot started successfully
+2024-10-25 18:07:59,611 [INFO] Bot is running...
+2024-10-25 18:08:08,007 [INFO] start command in CommandHandler
+2024-10-25 18:08:08,124 [INFO] message_handler in MessageHandler
+2024-10-25 18:08:10,919 [INFO] callback_handler in CallbackHandler
+2024-10-25 18:08:10,920 [INFO] add_keyword in callback_handler in CallbackHandler
+2024-10-25 18:08:10,920 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 18:08:13,133 [INFO] message_handler in MessageHandler
+2024-10-25 18:08:13,134 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 18:08:13,134 [INFO] save_config in ConfigManager
+2024-10-25 18:08:13,134 [INFO] JSON file saved successfully
+2024-10-25 18:08:26,107 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 18:08:26,108 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 18:08:26,118 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 18:08:26,118 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 18:08:26,126 [INFO] Not disconnecting (already have no connection)
+2024-10-25 18:08:26,133 [INFO] Bot stopped by user
+2024-10-25 18:10:59,265 [INFO] load_config in ConfigManager
+2024-10-25 18:10:59,265 [INFO] Config file found!
+2024-10-25 18:10:59,268 [INFO] load_config in ConfigManager
+2024-10-25 18:10:59,268 [INFO] Config file found!
+2024-10-25 18:10:59,268 [INFO] load_config in ConfigManager
+2024-10-25 18:10:59,268 [INFO] Config file found!
+2024-10-25 18:10:59,269 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 18:10:59,373 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 18:11:00,022 [INFO] save_config in ConfigManager
+2024-10-25 18:11:00,023 [INFO] JSON file saved successfully
+2024-10-25 18:11:00,023 [INFO] Detected sessions: ['258833982548.session']
+2024-10-25 18:11:00,025 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 18:11:00,037 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 18:11:00,139 [INFO] Started client: 258833982548.session
+2024-10-25 18:11:00,140 [INFO] Bot started successfully
+2024-10-25 18:11:00,140 [INFO] Bot is running...
+2024-10-25 18:11:04,731 [INFO] start command in CommandHandler
+2024-10-25 18:11:04,850 [INFO] message_handler in MessageHandler
+2024-10-25 18:11:07,441 [INFO] callback_handler in CallbackHandler
+2024-10-25 18:11:07,442 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 18:11:07,442 [INFO] update_groups in AccountHandler
+2024-10-25 18:11:07,442 [INFO] No new sessions detected.
+2024-10-25 18:11:07,754 [ERROR] Error updating groups for 258833982548.session: 'Chat' object has no attribute 'broadcast'
+2024-10-25 18:11:07,755 [INFO] save_config in ConfigManager
+2024-10-25 18:11:07,755 [INFO] JSON file saved successfully
+2024-10-25 18:11:13,541 [INFO] callback_handler in CallbackHandler
+2024-10-25 18:11:13,541 [INFO] add_keyword in callback_handler in CallbackHandler
+2024-10-25 18:11:13,541 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 18:11:16,090 [INFO] message_handler in MessageHandler
+2024-10-25 18:11:16,090 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 18:11:16,090 [INFO] save_config in ConfigManager
+2024-10-25 18:11:16,090 [INFO] JSON file saved successfully
+2024-10-25 18:11:38,334 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:11:38,367 [INFO] Got difference for channel 1114670721 updates
+2024-10-25 18:11:38,406 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:11:44,652 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 18:11:44,688 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:12:00,692 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:12:00,724 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:12:11,151 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:12:11,269 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:12:26,370 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:13:00,722 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:13:00,753 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:13:00,778 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:13:00,799 [INFO] Got difference for channel 2061929473 updates
+2024-10-25 18:13:34,313 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:13:34,351 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:13:39,432 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 18:13:49,582 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:13:54,976 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:14:00,443 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 18:14:00,519 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:14:05,582 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:14:55,649 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:14:55,682 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 18:14:55,705 [INFO] Got difference for channel 1114670721 updates
+2024-10-25 18:14:55,741 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:14:55,785 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 18:14:55,821 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:15:00,751 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:15:00,786 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:15:05,791 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:15:13,767 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:15:33,798 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 18:15:33,798 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 18:15:33,804 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 18:15:33,805 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 18:15:33,812 [INFO] Not disconnecting (already have no connection)
+2024-10-25 18:15:33,817 [INFO] Bot stopped by user
+2024-10-25 18:15:35,260 [INFO] load_config in ConfigManager
+2024-10-25 18:15:35,260 [INFO] Config file found!
+2024-10-25 18:15:35,261 [INFO] load_config in ConfigManager
+2024-10-25 18:15:35,262 [INFO] Config file found!
+2024-10-25 18:15:35,262 [INFO] load_config in ConfigManager
+2024-10-25 18:15:35,262 [INFO] Config file found!
+2024-10-25 18:15:35,262 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 18:15:35,363 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 18:15:36,018 [INFO] save_config in ConfigManager
+2024-10-25 18:15:36,018 [INFO] JSON file saved successfully
+2024-10-25 18:15:36,018 [INFO] Detected sessions: ['258833982548.session']
+2024-10-25 18:15:36,019 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 18:15:36,028 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 18:15:36,185 [INFO] Started client: 258833982548.session
+2024-10-25 18:15:36,185 [INFO] Bot started successfully
+2024-10-25 18:15:36,185 [INFO] Bot is running...
+2024-10-25 18:15:51,387 [INFO] start command in CommandHandler
+2024-10-25 18:15:51,501 [INFO] message_handler in MessageHandler
+2024-10-25 18:15:56,021 [INFO] callback_handler in CallbackHandler
+2024-10-25 18:15:56,021 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 18:15:56,021 [INFO] update_groups in AccountHandler
+2024-10-25 18:15:56,021 [INFO] No new sessions detected.
+2024-10-25 18:15:56,485 [ERROR] Error updating groups for 258833982548.session: 'Chat' object has no attribute 'broadcast'
+2024-10-25 18:15:56,485 [INFO] save_config in ConfigManager
+2024-10-25 18:15:56,485 [INFO] JSON file saved successfully
+2024-10-25 18:16:03,250 [INFO] start command in CommandHandler
+2024-10-25 18:16:03,407 [INFO] message_handler in MessageHandler
+2024-10-25 18:16:08,054 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:16:08,098 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:16:08,363 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 18:16:08,364 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 18:16:08,370 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 18:16:08,370 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 18:16:08,378 [INFO] Not disconnecting (already have no connection)
+2024-10-25 18:16:08,386 [INFO] Bot stopped by user
+2024-10-25 18:16:10,971 [INFO] load_config in ConfigManager
+2024-10-25 18:16:10,972 [INFO] Config file found!
+2024-10-25 18:16:10,974 [INFO] load_config in ConfigManager
+2024-10-25 18:16:10,974 [INFO] Config file found!
+2024-10-25 18:16:10,974 [INFO] load_config in ConfigManager
+2024-10-25 18:16:10,974 [INFO] Config file found!
+2024-10-25 18:16:10,975 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 18:16:11,078 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 18:16:11,656 [INFO] save_config in ConfigManager
+2024-10-25 18:16:11,657 [INFO] JSON file saved successfully
+2024-10-25 18:16:11,657 [INFO] Detected sessions: ['258833982548.session']
+2024-10-25 18:16:11,658 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 18:16:11,667 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 18:16:11,758 [INFO] Started client: 258833982548.session
+2024-10-25 18:16:11,758 [INFO] Bot started successfully
+2024-10-25 18:16:11,758 [INFO] Bot is running...
+2024-10-25 18:16:17,238 [INFO] callback_handler in CallbackHandler
+2024-10-25 18:16:17,239 [INFO] add_keyword in callback_handler in CallbackHandler
+2024-10-25 18:16:17,239 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 18:16:20,173 [INFO] message_handler in MessageHandler
+2024-10-25 18:16:20,173 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 18:16:20,173 [INFO] save_config in ConfigManager
+2024-10-25 18:16:20,174 [INFO] JSON file saved successfully
+2024-10-25 18:18:56,306 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 18:18:56,306 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 18:18:56,311 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 18:18:56,312 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 18:18:56,317 [INFO] Not disconnecting (already have no connection)
+2024-10-25 18:18:56,322 [INFO] Bot stopped by user
+2024-10-25 18:18:58,024 [INFO] load_config in ConfigManager
+2024-10-25 18:18:58,024 [INFO] Config file found!
+2024-10-25 18:18:58,026 [INFO] load_config in ConfigManager
+2024-10-25 18:18:58,026 [INFO] Config file found!
+2024-10-25 18:18:58,026 [INFO] load_config in ConfigManager
+2024-10-25 18:18:58,026 [INFO] Config file found!
+2024-10-25 18:18:58,026 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 18:18:58,128 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 18:18:58,711 [INFO] save_config in ConfigManager
+2024-10-25 18:18:58,711 [INFO] JSON file saved successfully
+2024-10-25 18:18:58,712 [INFO] Detected sessions: ['258833982548.session']
+2024-10-25 18:18:58,713 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 18:18:58,721 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 18:18:59,303 [INFO] Started client: 258833982548.session
+2024-10-25 18:18:59,304 [INFO] Bot started successfully
+2024-10-25 18:18:59,304 [INFO] Bot is running...
+2024-10-25 18:19:08,672 [INFO] callback_handler in CallbackHandler
+2024-10-25 18:19:08,672 [INFO] add_keyword in callback_handler in CallbackHandler
+2024-10-25 18:19:08,672 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 18:19:11,442 [INFO] message_handler in MessageHandler
+2024-10-25 18:19:11,443 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 18:19:11,443 [INFO] save_config in ConfigManager
+2024-10-25 18:19:11,443 [INFO] JSON file saved successfully
+2024-10-25 18:21:30,242 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 18:21:30,243 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 18:21:30,248 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 18:21:30,248 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 18:21:30,254 [INFO] Not disconnecting (already have no connection)
+2024-10-25 18:21:30,260 [INFO] Bot stopped by user
+2024-10-25 18:21:31,912 [INFO] load_config in ConfigManager
+2024-10-25 18:21:31,912 [INFO] Config file found!
+2024-10-25 18:21:31,914 [INFO] load_config in ConfigManager
+2024-10-25 18:21:31,914 [INFO] Config file found!
+2024-10-25 18:21:31,914 [INFO] load_config in ConfigManager
+2024-10-25 18:21:31,914 [INFO] Config file found!
+2024-10-25 18:21:31,915 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 18:21:32,025 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 18:21:32,652 [INFO] save_config in ConfigManager
+2024-10-25 18:21:32,652 [INFO] JSON file saved successfully
+2024-10-25 18:21:32,653 [INFO] Detected sessions: ['258833982548.session']
+2024-10-25 18:21:32,654 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 18:21:32,662 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 18:21:32,732 [INFO] Started client: 258833982548.session
+2024-10-25 18:21:32,732 [INFO] Bot started successfully
+2024-10-25 18:21:32,732 [INFO] Bot is running...
+2024-10-25 18:21:37,185 [INFO] callback_handler in CallbackHandler
+2024-10-25 18:21:37,185 [INFO] add_keyword in callback_handler in CallbackHandler
+2024-10-25 18:21:37,185 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 18:21:41,700 [INFO] message_handler in MessageHandler
+2024-10-25 18:21:41,700 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 18:21:41,700 [INFO] save_config in ConfigManager
+2024-10-25 18:21:41,701 [INFO] JSON file saved successfully
+2024-10-25 18:21:55,530 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 18:21:55,531 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 18:21:55,536 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 18:21:55,536 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 18:21:55,541 [INFO] Not disconnecting (already have no connection)
+2024-10-25 18:21:55,547 [INFO] Bot stopped by user
+2024-10-25 18:21:57,191 [INFO] load_config in ConfigManager
+2024-10-25 18:21:57,192 [INFO] Config file found!
+2024-10-25 18:21:57,193 [INFO] load_config in ConfigManager
+2024-10-25 18:21:57,193 [INFO] Config file found!
+2024-10-25 18:21:57,193 [INFO] load_config in ConfigManager
+2024-10-25 18:21:57,193 [INFO] Config file found!
+2024-10-25 18:21:57,194 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 18:21:57,299 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 18:21:57,894 [INFO] save_config in ConfigManager
+2024-10-25 18:21:57,895 [INFO] JSON file saved successfully
+2024-10-25 18:21:57,895 [INFO] Detected sessions: ['258833982548.session']
+2024-10-25 18:21:57,896 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 18:21:57,906 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 18:21:57,986 [INFO] Started client: 258833982548.session
+2024-10-25 18:21:57,987 [INFO] Bot started successfully
+2024-10-25 18:21:57,987 [INFO] Bot is running...
+2024-10-25 18:21:59,207 [INFO] callback_handler in CallbackHandler
+2024-10-25 18:21:59,208 [INFO] add_keyword in callback_handler in CallbackHandler
+2024-10-25 18:21:59,208 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 18:22:01,433 [INFO] message_handler in MessageHandler
+2024-10-25 18:22:01,434 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 18:22:01,434 [INFO] save_config in ConfigManager
+2024-10-25 18:22:01,434 [INFO] JSON file saved successfully
+2024-10-25 18:22:12,394 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 18:22:12,394 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 18:22:12,400 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 18:22:12,400 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 18:22:12,405 [INFO] Not disconnecting (already have no connection)
+2024-10-25 18:22:12,411 [INFO] Bot stopped by user
+2024-10-25 18:22:53,903 [INFO] load_config in ConfigManager
+2024-10-25 18:22:53,903 [INFO] Config file found!
+2024-10-25 18:22:53,904 [INFO] load_config in ConfigManager
+2024-10-25 18:22:53,905 [INFO] Config file found!
+2024-10-25 18:22:53,905 [INFO] load_config in ConfigManager
+2024-10-25 18:22:53,905 [INFO] Config file found!
+2024-10-25 18:22:53,906 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 18:22:54,013 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 18:22:54,613 [INFO] save_config in ConfigManager
+2024-10-25 18:22:54,614 [INFO] JSON file saved successfully
+2024-10-25 18:22:54,614 [INFO] Detected sessions: ['258833982548.session']
+2024-10-25 18:22:54,615 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 18:22:54,625 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 18:22:55,064 [INFO] Started client: 258833982548.session
+2024-10-25 18:22:55,064 [INFO] Bot started successfully
+2024-10-25 18:22:55,064 [INFO] Bot is running...
+2024-10-25 18:22:59,165 [INFO] start command in CommandHandler
+2024-10-25 18:22:59,284 [INFO] message_handler in MessageHandler
+2024-10-25 18:23:01,097 [INFO] callback_handler in CallbackHandler
+2024-10-25 18:23:01,097 [INFO] add_keyword in callback_handler in CallbackHandler
+2024-10-25 18:23:01,097 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 18:23:03,668 [INFO] message_handler in MessageHandler
+2024-10-25 18:23:03,668 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 18:23:03,668 [INFO] save_config in ConfigManager
+2024-10-25 18:23:03,669 [INFO] JSON file saved successfully
+2024-10-25 18:23:16,106 [INFO] callback_handler in CallbackHandler
+2024-10-25 18:23:16,106 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 18:23:16,106 [INFO] update_groups in AccountHandler
+2024-10-25 18:23:16,107 [INFO] No new sessions detected.
+2024-10-25 18:23:16,421 [ERROR] Error updating groups for 258833982548.session: 'Chat' object has no attribute 'broadcast'
+2024-10-25 18:23:16,421 [INFO] save_config in ConfigManager
+2024-10-25 18:23:16,421 [INFO] JSON file saved successfully
+2024-10-25 18:23:55,616 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:23:55,642 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 18:23:55,673 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:23:55,701 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:24:55,628 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:24:55,665 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 18:24:55,700 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:24:55,748 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:25:29,912 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:25:29,943 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:25:29,981 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 18:25:30,043 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 18:25:35,115 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:25:37,073 [INFO] Got difference for channel 1225660675 updates
+2024-10-25 18:25:37,720 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:25:40,197 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:25:47,798 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:25:52,096 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:25:53,877 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:25:55,624 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 18:26:55,655 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:26:55,723 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 18:26:55,760 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:26:55,785 [INFO] Got difference for channel 1784572641 updates
+2024-10-25 18:27:07,668 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:27:07,731 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:27:26,452 [INFO] Got difference for channel 1225660675 updates
+2024-10-25 18:27:28,670 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:27:31,119 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:27:38,150 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:27:48,501 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:28:38,746 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:28:38,777 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 18:28:38,811 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 18:28:38,846 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:28:38,884 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:29:55,680 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 18:29:55,746 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:29:55,791 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:29:55,834 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:29:55,883 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 18:30:54,821 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:30:54,914 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:30:54,950 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 18:31:04,483 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:31:04,526 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:31:05,971 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 18:31:17,604 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:31:21,138 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 18:31:21,165 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:31:23,780 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:31:27,342 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:31:33,820 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 18:31:33,841 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:31:33,863 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:31:55,733 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:32:55,697 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:32:55,726 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 18:32:55,768 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 18:32:55,814 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:32:55,854 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:33:06,754 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 18:33:27,882 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:33:27,910 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:33:27,942 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:33:27,969 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 18:33:39,922 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:33:39,950 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:33:55,702 [INFO] Got difference for channel 1378628998 updates
+2024-10-25 18:33:55,731 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:34:10,711 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 18:34:10,741 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:34:12,159 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:34:12,744 [INFO] Got difference for channel 1378628998 updates
+2024-10-25 18:34:55,722 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:34:55,778 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:34:55,849 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:35:09,332 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:35:09,415 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:35:09,473 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 18:35:13,435 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 18:35:13,537 [INFO] Got difference for channel 1378628998 updates
+2024-10-25 18:35:17,730 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:35:20,479 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:35:25,229 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:35:38,326 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:35:38,358 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:35:55,719 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:35:55,755 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:36:16,484 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:36:16,541 [INFO] Got difference for channel 1912337026 updates
+2024-10-25 18:36:16,611 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 18:36:20,604 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:36:23,767 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:36:26,993 [INFO] Got difference for channel 1378628998 updates
+2024-10-25 18:36:35,799 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:36:35,911 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:36:48,033 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:36:48,125 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 18:36:52,093 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:36:55,769 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:37:46,399 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:37:46,434 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:37:46,498 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:37:55,113 [INFO] Got difference for account updates
+2024-10-25 18:37:55,167 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:37:55,212 [INFO] Got difference for channel 1711702573 updates
+2024-10-25 18:37:55,243 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:37:55,281 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:38:09,280 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:38:09,353 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:38:09,394 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 18:38:09,434 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 18:38:16,332 [INFO] Got difference for channel 1925493861 updates
+2024-10-25 18:38:26,150 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 18:38:26,228 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:38:38,648 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:38:38,698 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:38:43,613 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:38:55,796 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:38:55,850 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:39:11,925 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 18:39:25,668 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 18:39:25,692 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:39:55,771 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 18:39:55,794 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:39:55,820 [INFO] Got difference for channel 1784572641 updates
+2024-10-25 18:39:55,844 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:40:32,814 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:40:32,880 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 18:40:32,919 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:40:32,960 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 18:40:55,798 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:41:08,875 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:41:47,064 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:41:47,106 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:41:55,831 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:42:04,918 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:42:15,933 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 18:42:18,550 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:42:21,966 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:42:28,622 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:42:31,076 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:42:35,595 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:42:50,969 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:43:55,908 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:43:56,006 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:43:56,100 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 18:43:56,217 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:43:56,354 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 18:44:30,992 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 18:44:30,992 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 18:44:30,998 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 18:44:30,998 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 18:44:31,007 [INFO] Not disconnecting (already have no connection)
+2024-10-25 18:44:31,013 [INFO] Bot stopped by user
+2024-10-25 18:44:38,177 [INFO] load_config in ConfigManager
+2024-10-25 18:44:38,177 [INFO] Config file found!
+2024-10-25 18:44:38,179 [INFO] load_config in ConfigManager
+2024-10-25 18:44:38,179 [INFO] Config file found!
+2024-10-25 18:44:38,179 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 18:44:38,290 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 18:44:39,047 [INFO] save_config in ConfigManager
+2024-10-25 18:44:39,047 [INFO] Merging new configuration with existing configuration
+2024-10-25 18:44:39,048 [INFO] JSON file saved successfully
+2024-10-25 18:44:39,048 [INFO] Detected sessions: ['258833982548.session']
+2024-10-25 18:44:39,049 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 18:44:39,060 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 18:44:39,378 [INFO] Started client: 258833982548.session
+2024-10-25 18:44:39,379 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 18:44:39,385 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 18:44:44,398 [ERROR] Error running bot: database is locked
+2024-10-25 18:44:44,399 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 18:44:44,399 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 18:44:44,405 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 18:44:44,405 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 18:53:38,946 [INFO] load_config in ConfigManager
+2024-10-25 18:53:38,946 [INFO] Config file found!
+2024-10-25 18:53:38,948 [INFO] load_config in ConfigManager
+2024-10-25 18:53:38,948 [INFO] Config file found!
+2024-10-25 18:53:38,949 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 18:53:39,057 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 18:53:39,646 [INFO] save_config in ConfigManager
+2024-10-25 18:53:39,647 [INFO] Merging new configuration with existing configuration
+2024-10-25 18:53:39,647 [INFO] JSON file saved successfully
+2024-10-25 18:53:39,647 [INFO] Detected sessions: ['258833982548.session']
+2024-10-25 18:53:39,649 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 18:53:39,658 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 18:53:39,818 [INFO] Started client: 258833982548.session
+2024-10-25 18:53:39,818 [INFO] Bot started successfully
+2024-10-25 18:53:39,818 [INFO] Bot is running...
+2024-10-25 18:53:45,994 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 18:53:45,995 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 18:53:46,002 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 18:53:46,003 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 18:53:46,009 [INFO] Not disconnecting (already have no connection)
+2024-10-25 18:53:46,014 [INFO] Bot stopped by user
+2024-10-25 18:53:48,439 [INFO] load_config in ConfigManager
+2024-10-25 18:53:48,439 [INFO] Config file found!
+2024-10-25 18:53:48,441 [INFO] load_config in ConfigManager
+2024-10-25 18:53:48,441 [INFO] Config file found!
+2024-10-25 18:53:48,441 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 18:53:48,544 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 18:53:49,119 [INFO] No new sessions detected.
+2024-10-25 18:53:49,120 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 18:53:49,130 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 18:53:49,216 [INFO] Started client: 258833982548.session
+2024-10-25 18:53:49,216 [INFO] Bot started successfully
+2024-10-25 18:53:49,216 [INFO] Bot is running...
+2024-10-25 18:53:53,945 [INFO] start command in CommandHandler
+2024-10-25 18:53:54,076 [INFO] message_handler in MessageHandler
+2024-10-25 18:53:56,762 [INFO] callback_handler in CallbackHandler
+2024-10-25 18:53:56,762 [INFO] add_keyword in callback_handler in CallbackHandler
+2024-10-25 18:53:56,762 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 18:53:59,601 [INFO] message_handler in MessageHandler
+2024-10-25 18:53:59,601 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 18:53:59,602 [INFO] save_config in ConfigManager
+2024-10-25 18:53:59,602 [INFO] JSON file saved successfully
+2024-10-25 18:54:21,145 [INFO] callback_handler in CallbackHandler
+2024-10-25 18:54:21,146 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 18:54:21,146 [INFO] update_groups in AccountHandler
+2024-10-25 18:54:21,146 [INFO] No new sessions detected.
+2024-10-25 18:54:21,416 [ERROR] Error updating groups for 258833982548.session: 'Chat' object has no attribute 'broadcast'
+2024-10-25 18:54:21,417 [INFO] save_config in ConfigManager
+2024-10-25 18:54:21,417 [INFO] JSON file saved successfully
+2024-10-25 18:54:21,828 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 18:54:21,871 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:54:26,894 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:54:35,605 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:54:35,649 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:54:35,675 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:54:43,517 [INFO] callback_handler in CallbackHandler
+2024-10-25 18:54:43,517 [INFO] show_accounts in callback_handler in CallbackHandler
+2024-10-25 18:54:43,517 [INFO] show_accounts in AccountHandler
+2024-10-25 18:54:43,518 [ERROR] Error in show_accounts: string indices must be integers, not 'str'
+2024-10-25 18:54:45,812 [INFO] callback_handler in CallbackHandler
+2024-10-25 18:54:45,813 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 18:54:45,813 [INFO] update_groups in AccountHandler
+2024-10-25 18:54:45,813 [INFO] No new sessions detected.
+2024-10-25 18:54:46,130 [ERROR] Error updating groups for 258833982548.session: 'Chat' object has no attribute 'broadcast'
+2024-10-25 18:54:46,130 [INFO] save_config in ConfigManager
+2024-10-25 18:54:46,131 [INFO] JSON file saved successfully
+2024-10-25 18:54:46,470 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 18:54:46,499 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:54:46,564 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:55:11,170 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:55:11,198 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:55:14,241 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 18:55:14,242 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 18:55:14,246 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 18:55:14,246 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 18:55:14,254 [INFO] Not disconnecting (already have no connection)
+2024-10-25 18:55:14,259 [INFO] Bot stopped by user
+2024-10-25 18:55:15,641 [INFO] load_config in ConfigManager
+2024-10-25 18:55:15,641 [INFO] Config file found!
+2024-10-25 18:55:15,642 [INFO] load_config in ConfigManager
+2024-10-25 18:55:15,643 [INFO] Config file found!
+2024-10-25 18:55:15,643 [INFO] load_config in ConfigManager
+2024-10-25 18:55:15,643 [INFO] Config file found!
+2024-10-25 18:55:15,643 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 18:55:15,750 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 18:55:16,393 [INFO] No new sessions detected.
+2024-10-25 18:55:16,394 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 18:55:16,401 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 18:55:16,648 [INFO] Started client: 258833982548.session
+2024-10-25 18:55:16,649 [INFO] Bot started successfully
+2024-10-25 18:55:16,649 [INFO] Bot is running...
+2024-10-25 18:55:34,235 [INFO] callback_handler in CallbackHandler
+2024-10-25 18:55:34,235 [INFO] add_keyword in callback_handler in CallbackHandler
+2024-10-25 18:55:34,235 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 18:55:36,023 [INFO] message_handler in MessageHandler
+2024-10-25 18:55:36,024 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 18:55:36,024 [INFO] save_config in ConfigManager
+2024-10-25 18:55:36,024 [INFO] JSON file saved successfully
+2024-10-25 18:56:16,057 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 18:56:16,057 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 18:56:16,063 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 18:56:16,063 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 18:56:16,069 [INFO] Not disconnecting (already have no connection)
+2024-10-25 18:56:16,075 [INFO] Bot stopped by user
+2024-10-25 18:56:17,781 [INFO] load_config in ConfigManager
+2024-10-25 18:56:17,782 [INFO] Config file found!
+2024-10-25 18:56:17,783 [INFO] load_config in ConfigManager
+2024-10-25 18:56:17,783 [INFO] Config file found!
+2024-10-25 18:56:17,784 [CRITICAL] Critical error in main: ConfigManager.__init__() takes from 1 to 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/main.py", line 8, in main
+    bot = TelegramBot()
+          ^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/src/bot.py", line 25, in __init__
+    self.client_manager = ClientManager(self.config, self.active_clients, API_ID, API_HASH)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/src/clients/client_manager.py", line 14, in __init__
+    self.config_manager = ConfigManager("clients.json", self.config)  # اضافه کردن ConfigManager
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: ConfigManager.__init__() takes from 1 to 2 positional arguments but 3 were given
+2024-10-25 18:57:02,225 [INFO] load_config in ConfigManager
+2024-10-25 18:57:02,225 [INFO] Config file found!
+2024-10-25 18:57:02,227 [INFO] load_config in ConfigManager
+2024-10-25 18:57:02,227 [INFO] Config file found!
+2024-10-25 18:57:02,228 [CRITICAL] Critical error in main: ConfigManager.__init__() takes from 1 to 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/src/main.py", line 8, in main
+    bot = TelegramBot()
+          ^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/src/bot.py", line 25, in __init__
+    self.client_manager = ClientManager(self.config, self.active_clients, API_ID, API_HASH)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/src/clients/client_manager.py", line 14, in __init__
+    self.config_manager = ConfigManager("clients.json", self.config)  # اضافه کردن ConfigManager
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: ConfigManager.__init__() takes from 1 to 2 positional arguments but 3 were given
+2024-10-25 18:57:10,770 [INFO] load_config in ConfigManager
+2024-10-25 18:57:10,783 [INFO] Config file found!
+2024-10-25 18:57:10,785 [INFO] load_config in ConfigManager
+2024-10-25 18:57:10,786 [INFO] Config file found!
+2024-10-25 18:57:10,786 [INFO] load_config in ConfigManager
+2024-10-25 18:57:10,786 [INFO] Config file found!
+2024-10-25 18:57:10,787 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-10-25 18:57:10,891 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-10-25 18:57:11,706 [INFO] No new sessions detected.
+2024-10-25 18:57:11,708 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-10-25 18:57:11,720 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-25 18:57:11,800 [INFO] Started client: 258833982548.session
+2024-10-25 18:57:11,800 [INFO] Bot started successfully
+2024-10-25 18:57:11,800 [INFO] Bot is running...
+2024-10-25 18:57:21,768 [INFO] callback_handler in CallbackHandler
+2024-10-25 18:57:21,769 [INFO] add_keyword in callback_handler in CallbackHandler
+2024-10-25 18:57:21,769 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 18:57:24,133 [INFO] message_handler in MessageHandler
+2024-10-25 18:57:24,133 [INFO] add_keyword_handler in KeywordHandler
+2024-10-25 18:57:24,133 [INFO] save_config in ConfigManager
+2024-10-25 18:57:24,133 [INFO] JSON file saved successfully
+2024-10-25 18:57:50,252 [INFO] callback_handler in CallbackHandler
+2024-10-25 18:57:50,253 [INFO] update_groups in callback_handler in CallbackHandler
+2024-10-25 18:57:50,253 [INFO] update_groups in AccountHandler
+2024-10-25 18:57:50,253 [INFO] No new sessions detected.
+2024-10-25 18:57:50,539 [ERROR] Error updating groups for 258833982548.session: 'Chat' object has no attribute 'broadcast'
+2024-10-25 18:57:50,539 [INFO] save_config in ConfigManager
+2024-10-25 18:57:50,540 [INFO] JSON file saved successfully
+2024-10-25 18:57:50,957 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:57:50,987 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:57:51,053 [INFO] Got difference for channel 1852212594 updates
+2024-10-25 18:58:05,304 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:58:05,557 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 18:58:05,714 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:58:05,869 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:58:12,345 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:58:12,370 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:59:07,138 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:59:07,173 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 18:59:07,208 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 18:59:07,279 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 18:59:07,320 [INFO] Got difference for channel 2061929473 updates
+2024-10-25 18:59:07,353 [INFO] Got difference for channel 1784572641 updates
+2024-10-25 18:59:12,351 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 18:59:29,848 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 18:59:29,954 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:00:12,421 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:00:12,486 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 19:00:12,516 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:00:12,558 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:00:26,080 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:00:26,165 [INFO] Got difference for channel 1784572641 updates
+2024-10-25 19:00:26,192 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:01:12,395 [INFO] Got difference for channel 1466338154 updates
+2024-10-25 19:01:12,429 [INFO] Got difference for channel 2052604189 updates
+2024-10-25 19:01:12,468 [INFO] Got difference for channel 1621473486 updates
+2024-10-25 19:01:28,563 [INFO] Got difference for channel 1795281612 updates
+2024-10-25 19:01:38,960 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-10-25 19:01:38,960 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-10-25 19:01:38,967 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-25 19:01:38,968 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-25 19:01:38,973 [INFO] Not disconnecting (already have no connection)
+2024-10-25 19:01:38,977 [INFO] Bot stopped by user
