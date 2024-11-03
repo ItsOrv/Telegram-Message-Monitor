@@ -16696,3 +16696,569 @@ sqlite3.OperationalError: database is locked
 2024-11-03 10:53:40,632 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
 2024-11-03 10:53:40,646 [INFO] Not disconnecting (already have no connection)
 2024-11-03 10:53:40,654 [INFO] Bot stopped by user
+2024-11-03 11:01:22,687 [INFO] Loading config from clients.json
+2024-11-03 11:01:22,687 [INFO] Config file loaded successfully
+2024-11-03 11:01:22,689 [INFO] Loading config from clients.json
+2024-11-03 11:01:22,689 [INFO] Config file loaded successfully
+2024-11-03 11:01:22,689 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-11-03 11:01:22,826 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-11-03 11:01:23,420 [INFO] No new sessions detected.
+2024-11-03 11:01:23,421 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-11-03 11:01:23,430 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-11-03 11:01:23,876 [INFO] Started client: 258833982548.session
+2024-11-03 11:01:23,876 [INFO] Bot started successfully
+2024-11-03 11:01:23,876 [INFO] Bot is running...
+2024-11-03 11:01:23,876 [ERROR] Error running bot: 'AccountHandler' object has no attribute 'process_messages_for_client'
+2024-11-03 11:01:23,876 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-11-03 11:01:23,877 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-11-03 11:01:23,883 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-11-03 11:01:23,884 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-11-03 11:01:37,501 [INFO] Loading config from clients.json
+2024-11-03 11:01:37,501 [INFO] Config file loaded successfully
+2024-11-03 11:01:37,503 [INFO] Loading config from clients.json
+2024-11-03 11:01:37,503 [INFO] Config file loaded successfully
+2024-11-03 11:01:37,504 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-11-03 11:01:37,662 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-11-03 11:01:38,295 [INFO] No new sessions detected.
+2024-11-03 11:01:38,296 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-11-03 11:01:38,307 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-11-03 11:01:38,387 [INFO] Started client: 258833982548.session
+2024-11-03 11:01:38,387 [INFO] Bot started successfully
+2024-11-03 11:01:38,387 [INFO] Bot is running...
+2024-11-03 11:02:38,553 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-03 11:02:38,554 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-03 11:02:38,554 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-03 11:02:38,555 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-03 11:02:38,555 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-03 11:02:38,556 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-03 11:02:38,556 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-03 11:02:38,556 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-03 11:02:38,557 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-03 11:02:38,557 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-03 11:02:38,558 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-03 11:02:38,558 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-03 11:02:38,559 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-03 11:02:38,559 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-03 11:02:38,560 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-03 11:02:38,560 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-03 11:02:38,947 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 11:02:38,976 [INFO] Got difference for channel 1795281612 updates
+2024-11-03 11:02:39,009 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 11:02:39,046 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 11:03:09,645 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-03 11:03:09,646 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-03 11:03:09,647 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-03 11:03:09,647 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-03 11:03:09,648 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-03 11:03:09,649 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-03 11:03:10,138 [INFO] Got difference for channel 1912337026 updates
+2024-11-03 11:03:10,176 [INFO] Got difference for channel 1378628998 updates
+2024-11-03 11:03:38,949 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 11:03:38,982 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 11:04:16,902 [INFO] Got difference for channel 1784572641 updates
+2024-11-03 11:04:16,993 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 11:04:17,128 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 11:04:17,266 [INFO] Got difference for channel 1795281612 updates
+2024-11-03 11:04:38,953 [INFO] Got difference for channel 1784572641 updates
+2024-11-03 11:04:38,982 [INFO] Got difference for channel 1795281612 updates
+2024-11-03 11:04:39,043 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 11:04:39,092 [INFO] Got difference for channel 1852212594 updates
+2024-11-03 11:05:10,179 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 11:05:38,983 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 11:05:39,012 [INFO] Got difference for channel 1795281612 updates
+2024-11-03 11:06:38,985 [INFO] Got difference for channel 1852212594 updates
+2024-11-03 11:06:39,044 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 11:06:39,064 [INFO] Got difference for channel 1378628998 updates
+2024-11-03 11:07:39,098 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 11:07:39,207 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 11:07:39,296 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 11:07:39,347 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 11:08:39,038 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 11:09:39,058 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 11:09:39,085 [INFO] Got difference for channel 1378628998 updates
+2024-11-03 11:09:39,113 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 11:09:39,140 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 11:10:39,118 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 11:10:39,238 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 11:10:39,348 [INFO] Got difference for channel 1225660675 updates
+2024-11-03 11:10:39,427 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 11:10:39,485 [INFO] Got difference for channel 1795281612 updates
+2024-11-03 11:11:39,153 [INFO] Got difference for channel 1784572641 updates
+2024-11-03 11:11:39,209 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 11:11:39,248 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 11:11:39,285 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 11:11:55,648 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 11:11:55,680 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 11:12:04,144 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 11:12:04,672 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 11:12:39,107 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 11:12:39,146 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 11:13:39,196 [INFO] Got difference for channel 1784572641 updates
+2024-11-03 11:13:39,245 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 11:13:39,270 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 11:13:46,238 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 11:13:51,105 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 11:13:55,469 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 11:13:57,873 [INFO] Got difference for channel 1852212594 updates
+2024-11-03 11:14:00,404 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 11:14:02,897 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 11:14:10,381 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 11:14:39,201 [INFO] Got difference for channel 2061929473 updates
+2024-11-03 11:14:39,229 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 11:14:39,263 [INFO] Got difference for channel 1795281612 updates
+2024-11-03 11:14:39,290 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 11:15:39,250 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 11:15:39,278 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 11:15:39,307 [INFO] Got difference for channel 1795281612 updates
+2024-11-03 11:15:39,343 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 11:15:54,018 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-11-03 11:15:54,019 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-11-03 11:15:54,030 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-11-03 11:15:54,031 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-11-03 11:15:54,042 [INFO] Not disconnecting (already have no connection)
+2024-11-03 11:15:54,061 [INFO] Bot stopped by user
+2024-11-03 13:16:43,805 [INFO] Loading config from clients.json
+2024-11-03 13:16:43,805 [INFO] Config file loaded successfully
+2024-11-03 13:16:43,807 [INFO] Loading config from clients.json
+2024-11-03 13:16:43,808 [INFO] Config file loaded successfully
+2024-11-03 13:16:43,808 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-11-03 13:16:43,947 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-11-03 13:16:44,522 [INFO] No new sessions detected.
+2024-11-03 13:16:44,523 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-11-03 13:16:44,530 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-11-03 13:16:44,592 [INFO] Started client: 258833982548.session
+2024-11-03 13:16:44,592 [INFO] Bot started successfully
+2024-11-03 13:16:44,592 [INFO] Bot is running...
+2024-11-03 13:17:02,680 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:17:02,702 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:17:02,724 [INFO] Got difference for channel 1852212594 updates
+2024-11-03 13:17:13,253 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:17:26,264 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:17:40,351 [INFO] start command in CommandHandler
+2024-11-03 13:17:40,468 [INFO] message_handler in MessageHandler
+2024-11-03 13:18:24,088 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:18:24,120 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:18:24,150 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:18:24,173 [INFO] Got difference for channel 1378628998 updates
+2024-11-03 13:18:37,945 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:18:50,620 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:19:02,436 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:19:02,457 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:19:26,187 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:19:26,215 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:19:45,173 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:19:45,198 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:20:30,734 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:20:30,786 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:20:30,866 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:20:37,481 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:20:37,521 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:20:37,559 [INFO] Got difference for channel 1852212594 updates
+2024-11-03 13:21:02,188 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:21:02,228 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:21:11,242 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:21:21,868 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:21:21,901 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:22:05,387 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:22:05,413 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:22:05,432 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:22:05,457 [INFO] Got difference for channel 1852212594 updates
+2024-11-03 13:22:45,194 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:22:45,252 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:22:45,276 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:22:45,297 [INFO] Got difference for channel 1795281612 updates
+2024-11-03 13:22:45,322 [INFO] Got difference for channel 1852212594 updates
+2024-11-03 13:23:45,213 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:23:45,241 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:23:45,285 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:23:45,320 [INFO] Got difference for channel 1852212594 updates
+2024-11-03 13:23:59,911 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:23:59,944 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:23:59,968 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:24:39,940 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:24:39,984 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:24:40,040 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:24:40,067 [INFO] Got difference for channel 1378628998 updates
+2024-11-03 13:24:45,214 [INFO] Got difference for channel 1852212594 updates
+2024-11-03 13:25:25,372 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:25:25,472 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:25:25,518 [INFO] Got difference for channel 1795281612 updates
+2024-11-03 13:25:25,562 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:25:45,237 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:25:45,265 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:26:45,285 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:26:45,313 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:26:45,364 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:27:45,490 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:27:45,573 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:27:45,631 [INFO] Got difference for channel 1852212594 updates
+2024-11-03 13:27:45,663 [INFO] Got difference for channel 1225660675 updates
+2024-11-03 13:27:45,701 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:28:45,385 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:28:45,416 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:28:45,444 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:28:45,464 [INFO] Got difference for channel 2061929473 updates
+2024-11-03 13:29:45,607 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:29:45,757 [INFO] Got difference for channel 1852212594 updates
+2024-11-03 13:29:45,853 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:29:45,913 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:30:21,013 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:30:21,074 [INFO] Got difference for channel 1852212594 updates
+2024-11-03 13:30:21,176 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:30:45,490 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:31:44,645 [INFO] Got difference for account updates
+2024-11-03 13:31:44,673 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:31:44,706 [INFO] Got difference for channel 1852212594 updates
+2024-11-03 13:31:44,741 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:31:44,784 [INFO] Got difference for channel 1711702573 updates
+2024-11-03 13:31:44,857 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:31:47,676 [INFO] Got difference for channel 1114670721 updates
+2024-11-03 13:32:45,550 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:32:45,583 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:32:45,619 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:32:45,642 [INFO] Got difference for channel 1852212594 updates
+2024-11-03 13:33:45,676 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:33:45,727 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:33:45,760 [INFO] Got difference for channel 1795281612 updates
+2024-11-03 13:33:45,787 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:34:45,719 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:34:45,749 [INFO] Got difference for channel 1114670721 updates
+2024-11-03 13:34:45,781 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:35:45,787 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:35:45,813 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:35:45,858 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:36:45,826 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:36:45,849 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:36:45,886 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:37:45,952 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:37:45,995 [INFO] Got difference for channel 1114670721 updates
+2024-11-03 13:37:46,044 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:37:46,080 [INFO] Got difference for channel 1852212594 updates
+2024-11-03 13:38:45,965 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:38:45,992 [INFO] Got difference for channel 1114670721 updates
+2024-11-03 13:38:46,067 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:38:46,100 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:39:40,214 [INFO] Got difference for channel 1378628998 updates
+2024-11-03 13:39:40,764 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:39:40,830 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:39:40,928 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:40:46,020 [INFO] Got difference for channel 1795281612 updates
+2024-11-03 13:40:46,068 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:40:46,134 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:40:46,189 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:41:46,077 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:41:46,108 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:41:46,160 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:41:46,184 [INFO] Got difference for channel 1795281612 updates
+2024-11-03 13:42:46,122 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:42:46,157 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:42:46,184 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:43:46,057 [INFO] Got difference for channel 1114670721 updates
+2024-11-03 13:43:46,085 [INFO] Got difference for channel 1795281612 updates
+2024-11-03 13:43:46,119 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:43:46,154 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:43:46,197 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:44:46,153 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:44:46,182 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:44:46,213 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:44:46,247 [INFO] Got difference for channel 1114670721 updates
+2024-11-03 13:44:46,266 [INFO] Got difference for channel 1784572641 updates
+2024-11-03 13:45:46,204 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:45:46,236 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:45:46,333 [INFO] Got difference for channel 1114670721 updates
+2024-11-03 13:45:46,394 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:45:46,435 [INFO] Got difference for channel 1852212594 updates
+2024-11-03 13:45:46,470 [INFO] Got difference for channel 1795281612 updates
+2024-11-03 13:46:44,712 [INFO] Got difference for account updates
+2024-11-03 13:46:44,760 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:46:44,776 [INFO] Got difference for account updates
+2024-11-03 13:46:44,797 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:46:44,861 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:46:44,885 [INFO] Got difference for channel 1711702573 updates
+2024-11-03 13:46:44,912 [INFO] Got difference for channel 1852212594 updates
+2024-11-03 13:46:48,434 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:47:46,269 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:47:46,299 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:47:46,336 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:48:01,312 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-11-03 13:48:01,312 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-11-03 13:48:01,319 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-11-03 13:48:01,320 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-11-03 13:48:01,335 [INFO] Not disconnecting (already have no connection)
+2024-11-03 13:48:01,343 [INFO] Bot stopped by user
+2024-11-03 13:48:04,408 [INFO] Loading config from clients.json
+2024-11-03 13:48:04,409 [INFO] Config file loaded successfully
+2024-11-03 13:48:04,411 [INFO] Loading config from clients.json
+2024-11-03 13:48:04,411 [INFO] Config file loaded successfully
+2024-11-03 13:48:04,412 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-11-03 13:48:04,517 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-11-03 13:48:05,135 [INFO] No new sessions detected.
+2024-11-03 13:48:05,137 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-11-03 13:48:05,146 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-11-03 13:48:05,253 [INFO] Started client: 258833982548.session
+2024-11-03 13:48:05,253 [INFO] Bot started successfully
+2024-11-03 13:48:05,253 [INFO] Bot is running...
+2024-11-03 13:48:05,987 [INFO] start command in CommandHandler
+2024-11-03 13:48:06,106 [INFO] message_handler in MessageHandler
+2024-11-03 13:48:22,449 [INFO] callback_handler in CallbackHandler
+2024-11-03 13:48:22,449 [INFO] update_groups in callback_handler in CallbackHandler
+2024-11-03 13:48:22,449 [INFO] update_groups in AccountHandler
+2024-11-03 13:48:22,450 [INFO] No new sessions detected.
+2024-11-03 13:48:22,567 [INFO] Processing client: 258833982548.session
+2024-11-03 13:48:22,626 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-03 13:48:22,626 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-03 13:48:22,627 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-03 13:48:22,630 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-03 13:48:22,630 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-03 13:48:22,631 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-03 13:48:22,631 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-03 13:48:22,635 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-03 13:48:22,669 [INFO] Found 19 groups for 258833982548.session
+2024-11-03 13:48:23,149 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:48:23,221 [INFO] Got difference for channel 1795281612 updates
+2024-11-03 13:48:25,792 [INFO] Saved data for 1 clients
+2024-11-03 13:48:54,200 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:48:54,228 [INFO] Got difference for channel 1852212594 updates
+2024-11-03 13:48:54,257 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:49:05,810 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:49:05,832 [INFO] Got difference for channel 1795281612 updates
+2024-11-03 13:50:05,866 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:50:05,937 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:50:05,997 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:50:06,086 [INFO] Got difference for channel 1852212594 updates
+2024-11-03 13:50:06,188 [INFO] Got difference for channel 1795281612 updates
+2024-11-03 13:50:39,416 [INFO] callback_handler in CallbackHandler
+2024-11-03 13:50:39,416 [ERROR] Error in callback_handler: 'CallbackHandler' object has no attribute 'ignore_user'
+2024-11-03 13:50:40,125 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 13:50:40,165 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 13:50:40,197 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 13:50:57,518 [INFO] callback_handler in CallbackHandler
+2024-11-03 13:50:57,518 [INFO] show_accounts in callback_handler in CallbackHandler
+2024-11-03 13:50:57,518 [INFO] show_accounts in AccountHandler
+2024-11-03 13:50:59,160 [INFO] callback_handler in CallbackHandler
+2024-11-03 13:50:59,160 [INFO] toggle_ in callback_handler in CallbackHandler
+2024-11-03 13:50:59,160 [INFO] toggle_client in AccountHandler
+2024-11-03 13:50:59,160 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-11-03 13:50:59,161 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-11-03 13:50:59,303 [INFO] Saving config to file
+2024-11-03 13:50:59,304 [INFO] Config saved successfully
+2024-11-03 13:51:03,531 [INFO] start command in CommandHandler
+2024-11-03 13:51:03,646 [INFO] message_handler in MessageHandler
+2024-11-03 14:27:10,001 [INFO] callback_handler in CallbackHandler
+2024-11-03 14:27:10,001 [INFO] update_groups in callback_handler in CallbackHandler
+2024-11-03 14:27:10,002 [INFO] update_groups in AccountHandler
+2024-11-03 14:27:10,002 [INFO] No new sessions detected.
+2024-11-03 14:27:10,123 [INFO] Saved data for 0 clients
+2024-11-03 14:27:10,124 [ERROR] Error in update_groups: cannot access local variable 'group_ids' where it is not associated with a value
+2024-11-03 14:27:14,293 [INFO] callback_handler in CallbackHandler
+2024-11-03 14:27:14,293 [INFO] update_groups in callback_handler in CallbackHandler
+2024-11-03 14:27:14,294 [INFO] update_groups in AccountHandler
+2024-11-03 14:27:14,294 [INFO] No new sessions detected.
+2024-11-03 14:27:14,444 [INFO] Saved data for 0 clients
+2024-11-03 14:27:14,445 [ERROR] Error in update_groups: cannot access local variable 'group_ids' where it is not associated with a value
+2024-11-03 14:27:24,226 [INFO] start command in CommandHandler
+2024-11-03 14:27:24,343 [INFO] message_handler in MessageHandler
+2024-11-03 14:27:29,446 [INFO] callback_handler in CallbackHandler
+2024-11-03 14:27:29,446 [INFO] show_accounts in callback_handler in CallbackHandler
+2024-11-03 14:27:29,446 [INFO] show_accounts in AccountHandler
+2024-11-03 14:27:30,973 [INFO] callback_handler in CallbackHandler
+2024-11-03 14:27:30,973 [INFO] toggle_ in callback_handler in CallbackHandler
+2024-11-03 14:27:30,973 [INFO] toggle_client in AccountHandler
+2024-11-03 14:27:30,974 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-11-03 14:27:30,985 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-11-03 14:27:31,327 [INFO] Saving config to file
+2024-11-03 14:27:31,327 [INFO] Config saved successfully
+2024-11-03 14:27:33,326 [INFO] callback_handler in CallbackHandler
+2024-11-03 14:27:33,327 [INFO] update_groups in callback_handler in CallbackHandler
+2024-11-03 14:27:33,327 [INFO] update_groups in AccountHandler
+2024-11-03 14:27:33,327 [INFO] No new sessions detected.
+2024-11-03 14:27:33,456 [INFO] Processing client: 258833982548.session
+2024-11-03 14:27:33,786 [INFO] Found 19 groups for 258833982548.session
+2024-11-03 14:27:36,935 [INFO] Saved data for 1 clients
+2024-11-03 14:27:50,705 [INFO] callback_handler in CallbackHandler
+2024-11-03 14:27:50,706 [INFO] show_stats in callback_handler in CallbackHandler
+2024-11-03 14:27:50,706 [INFO] show_stats in StatsHandler
+2024-11-03 14:27:53,846 [INFO] start command in CommandHandler
+2024-11-03 14:27:53,966 [INFO] message_handler in MessageHandler
+2024-11-03 14:27:55,917 [INFO] callback_handler in CallbackHandler
+2024-11-03 14:27:55,918 [INFO] show_accounts in callback_handler in CallbackHandler
+2024-11-03 14:27:55,918 [INFO] show_accounts in AccountHandler
+2024-11-03 14:27:58,620 [INFO] start command in CommandHandler
+2024-11-03 14:27:58,739 [INFO] message_handler in MessageHandler
+2024-11-03 14:28:08,626 [INFO] callback_handler in CallbackHandler
+2024-11-03 14:28:08,627 [ERROR] Error in callback_handler: 'CallbackHandler' object has no attribute 'ignore_user'
+2024-11-03 14:28:09,320 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 14:28:31,725 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 14:28:31,750 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 14:28:31,792 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 14:28:57,826 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-11-03 14:28:57,827 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-11-03 14:28:57,833 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-11-03 14:28:57,833 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-11-03 14:28:57,845 [INFO] Not disconnecting (already have no connection)
+2024-11-03 14:28:57,854 [INFO] Bot stopped by user
+2024-11-03 14:28:59,459 [INFO] Loading config from clients.json
+2024-11-03 14:28:59,459 [INFO] Config file loaded successfully
+2024-11-03 14:28:59,461 [INFO] Loading config from clients.json
+2024-11-03 14:28:59,462 [INFO] Config file loaded successfully
+2024-11-03 14:28:59,462 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-11-03 14:28:59,566 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-11-03 14:29:00,150 [INFO] No new sessions detected.
+2024-11-03 14:29:00,151 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-11-03 14:29:00,162 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-11-03 14:29:00,314 [INFO] Started client: 258833982548.session
+2024-11-03 14:29:00,315 [INFO] Bot started successfully
+2024-11-03 14:29:00,315 [INFO] Bot is running...
+2024-11-03 14:29:03,270 [INFO] callback_handler in CallbackHandler
+2024-11-03 14:29:03,270 [INFO] ignore_user in KeywordHandler
+2024-11-03 14:29:03,270 [INFO] Saving config to file
+2024-11-03 14:29:03,270 [INFO] Merging new configuration
+2024-11-03 14:29:03,271 [INFO] Config saved successfully
+2024-11-03 14:29:37,345 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 14:30:00,871 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 14:30:00,943 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 14:30:36,591 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-11-03 14:30:36,592 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-11-03 14:30:36,605 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-11-03 14:30:36,606 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-11-03 14:30:36,622 [INFO] Not disconnecting (already have no connection)
+2024-11-03 14:30:36,633 [INFO] Bot stopped by user
+2024-11-03 14:30:38,378 [INFO] Loading config from clients.json
+2024-11-03 14:30:38,378 [INFO] Config file loaded successfully
+2024-11-03 14:30:38,380 [INFO] Loading config from clients.json
+2024-11-03 14:30:38,380 [INFO] Config file loaded successfully
+2024-11-03 14:30:38,380 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-11-03 14:30:38,477 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-11-03 14:30:39,024 [INFO] No new sessions detected.
+2024-11-03 14:30:39,025 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-11-03 14:30:39,035 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-11-03 14:30:39,132 [INFO] Started client: 258833982548.session
+2024-11-03 14:30:39,133 [INFO] Bot started successfully
+2024-11-03 14:30:39,133 [INFO] Bot is running...
+2024-11-03 14:30:47,069 [INFO] callback_handler in CallbackHandler
+2024-11-03 14:30:47,069 [INFO] ignore_user in KeywordHandler
+2024-11-03 14:30:51,818 [INFO] callback_handler in CallbackHandler
+2024-11-03 14:30:51,818 [INFO] ignore_user in KeywordHandler
+2024-11-03 14:30:51,818 [INFO] Saving config to file
+2024-11-03 14:30:51,818 [INFO] Merging new configuration
+2024-11-03 14:30:51,819 [INFO] Config saved successfully
+2024-11-03 14:30:52,522 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 14:30:57,120 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-11-03 14:30:57,120 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-11-03 14:30:57,140 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-11-03 14:30:57,140 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-11-03 14:30:57,170 [INFO] Not disconnecting (already have no connection)
+2024-11-03 14:30:57,177 [INFO] Bot stopped by user
+2024-11-03 14:30:58,925 [INFO] Loading config from clients.json
+2024-11-03 14:30:58,926 [INFO] Config file loaded successfully
+2024-11-03 14:30:58,928 [INFO] Loading config from clients.json
+2024-11-03 14:30:58,928 [INFO] Config file loaded successfully
+2024-11-03 14:30:58,929 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-11-03 14:30:59,050 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-11-03 14:30:59,731 [INFO] No new sessions detected.
+2024-11-03 14:30:59,733 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-11-03 14:30:59,740 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-11-03 14:30:59,872 [INFO] Started client: 258833982548.session
+2024-11-03 14:30:59,872 [INFO] Bot started successfully
+2024-11-03 14:30:59,872 [INFO] Bot is running...
+2024-11-03 14:31:00,718 [INFO] callback_handler in CallbackHandler
+2024-11-03 14:31:00,719 [INFO] ignore_user in KeywordHandler
+2024-11-03 14:31:03,748 [INFO] callback_handler in CallbackHandler
+2024-11-03 14:31:03,749 [INFO] ignore_user in KeywordHandler
+2024-11-03 14:31:06,269 [INFO] callback_handler in CallbackHandler
+2024-11-03 14:31:06,269 [INFO] ignore_user in KeywordHandler
+2024-11-03 14:31:06,269 [INFO] Saving config to file
+2024-11-03 14:31:06,269 [INFO] Merging new configuration
+2024-11-03 14:31:06,270 [INFO] Config saved successfully
+2024-11-03 14:32:00,417 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 14:32:24,966 [INFO] callback_handler in CallbackHandler
+2024-11-03 14:32:24,966 [INFO] ignore_user in KeywordHandler
+2024-11-03 14:32:24,966 [INFO] Saving config to file
+2024-11-03 14:32:24,966 [INFO] Merging new configuration
+2024-11-03 14:32:24,967 [INFO] Config saved successfully
+2024-11-03 14:32:24,967 [INFO] callback_handler in CallbackHandler
+2024-11-03 14:32:24,968 [INFO] ignore_user in KeywordHandler
+2024-11-03 14:32:25,100 [ERROR] Task exception was never retrieved
+future: <Task finished name='Task-104' coro=<CallbackQuery.Event.answer() done, defined at /root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/events/callbackquery.py:219> exception=QueryIdInvalidError('The query ID is invalid (caused by SetBotCallbackAnswerRequest)')>
+Traceback (most recent call last):
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/events/callbackquery.py", line 245, in answer
+    return await self._client(
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 30, in __call__
+    return await self._call(self._sender, request, ordered=ordered)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Telegram-Message-Monitor/myenv/lib/python3.12/site-packages/telethon/client/users.py", line 87, in _call
+    result = await future
+             ^^^^^^^^^^^^
+telethon.errors.rpcerrorlist.QueryIdInvalidError: The query ID is invalid (caused by SetBotCallbackAnswerRequest)
+2024-11-03 14:32:25,119 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 14:32:25,244 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 14:32:25,781 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 14:32:36,423 [INFO] callback_handler in CallbackHandler
+2024-11-03 14:32:36,423 [INFO] ignore_user in KeywordHandler
+2024-11-03 14:32:37,168 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 14:32:48,396 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 14:32:48,907 [INFO] Got difference for channel 2173772355 updates
+2024-11-03 14:32:48,907 [INFO] message_handler in MessageHandler
+2024-11-03 14:33:00,468 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 14:33:00,515 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 14:34:00,481 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 14:34:00,554 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 14:34:00,639 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 14:34:00,725 [INFO] Got difference for channel 1852212594 updates
+2024-11-03 14:34:25,347 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 14:34:25,384 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 14:35:00,459 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 14:35:00,486 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 14:35:00,516 [INFO] Got difference for channel 1852212594 updates
+2024-11-03 14:35:00,543 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 14:35:18,328 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 14:35:35,777 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 14:35:35,865 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 14:36:00,065 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 14:36:00,099 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 14:36:49,927 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 14:36:49,970 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 14:36:50,005 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 14:37:04,289 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 14:37:04,313 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 14:37:40,737 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 14:37:40,788 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 14:39:00,573 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 14:39:00,605 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 14:39:00,629 [INFO] Got difference for channel 1795281612 updates
+2024-11-03 14:39:00,700 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 14:39:06,753 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 14:39:15,041 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 14:39:31,585 [INFO] Got difference for channel 1795281612 updates
+2024-11-03 14:39:31,610 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 14:39:53,048 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 14:39:53,082 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 14:39:53,107 [INFO] Got difference for channel 1114670721 updates
+2024-11-03 14:39:53,145 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 14:41:00,554 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 14:41:00,584 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 14:41:00,606 [INFO] Got difference for channel 1795281612 updates
+2024-11-03 14:41:00,639 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 14:42:00,193 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 14:42:00,286 [INFO] Got difference for channel 1114670721 updates
+2024-11-03 14:42:00,396 [INFO] Got difference for channel 1852212594 updates
+2024-11-03 14:42:00,446 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 14:42:00,490 [INFO] Got difference for channel 1795281612 updates
+2024-11-03 14:42:00,541 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 14:43:00,601 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 14:43:00,636 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 14:43:00,670 [INFO] Got difference for channel 1852212594 updates
+2024-11-03 14:43:00,703 [INFO] Got difference for channel 1795281612 updates
+2024-11-03 14:43:00,736 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 14:43:50,566 [INFO] Got difference for channel 1795281612 updates
+2024-11-03 14:43:50,584 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 14:43:50,606 [INFO] Got difference for channel 1852212594 updates
+2024-11-03 14:43:50,631 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 14:43:50,667 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 14:44:34,989 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-11-03 14:44:34,989 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-11-03 14:44:34,996 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-11-03 14:44:34,996 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-11-03 14:44:35,009 [INFO] Not disconnecting (already have no connection)
+2024-11-03 14:44:35,014 [INFO] Bot stopped by user
