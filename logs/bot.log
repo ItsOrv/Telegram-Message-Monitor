@@ -16583,3 +16583,116 @@ sqlite3.OperationalError: database is locked
 2024-11-03 10:41:09,590 [ERROR] Error running bot: database is locked
 2024-11-03 10:41:09,590 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
 2024-11-03 10:41:09,592 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-11-03 10:44:36,960 [INFO] Loading config from clients.json
+2024-11-03 10:44:36,962 [INFO] Config file loaded successfully
+2024-11-03 10:44:36,969 [INFO] Loading config from clients.json
+2024-11-03 10:44:36,970 [INFO] Config file loaded successfully
+2024-11-03 10:44:36,971 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-11-03 10:44:37,094 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-11-03 10:44:37,894 [INFO] No new sessions detected.
+2024-11-03 10:44:37,900 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-11-03 10:44:37,914 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-11-03 10:44:38,035 [INFO] Started client: 258833982548.session
+2024-11-03 10:44:38,035 [INFO] Bot started successfully
+2024-11-03 10:44:38,036 [INFO] Bot is running...
+2024-11-03 10:44:42,628 [INFO] start command in CommandHandler
+2024-11-03 10:44:42,773 [INFO] message_handler in MessageHandler
+2024-11-03 10:44:43,886 [INFO] callback_handler in CallbackHandler
+2024-11-03 10:44:43,886 [INFO] update_groups in callback_handler in CallbackHandler
+2024-11-03 10:44:43,886 [INFO] update_groups in AccountHandler
+2024-11-03 10:44:43,886 [INFO] No new sessions detected.
+2024-11-03 10:44:44,015 [INFO] Processing client: 258833982548.session
+2024-11-03 10:44:44,234 [INFO] Found 19 groups for 258833982548.session
+2024-11-03 10:44:47,370 [INFO] Saved data for 1 clients
+2024-11-03 10:44:52,989 [INFO] callback_handler in CallbackHandler
+2024-11-03 10:44:52,990 [INFO] show_accounts in callback_handler in CallbackHandler
+2024-11-03 10:44:52,990 [INFO] show_accounts in AccountHandler
+2024-11-03 10:45:38,646 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 10:46:38,605 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 10:46:38,627 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 10:46:38,692 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 10:47:38,623 [INFO] Got difference for channel 1621473486 updates
+2024-11-03 10:47:38,654 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 10:47:38,689 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 10:47:38,721 [INFO] Got difference for channel 1852212594 updates
+2024-11-03 10:47:41,882 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-11-03 10:47:41,882 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-11-03 10:47:41,889 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-11-03 10:47:41,890 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-11-03 10:47:41,900 [INFO] Not disconnecting (already have no connection)
+2024-11-03 10:47:41,907 [INFO] Bot stopped by user
+2024-11-03 10:47:43,912 [INFO] Loading config from clients.json
+2024-11-03 10:47:43,913 [INFO] Config file loaded successfully
+2024-11-03 10:47:43,914 [INFO] Loading config from clients.json
+2024-11-03 10:47:43,914 [INFO] Config file loaded successfully
+2024-11-03 10:47:43,915 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-11-03 10:47:44,056 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-11-03 10:47:44,594 [INFO] No new sessions detected.
+2024-11-03 10:47:44,595 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-11-03 10:47:44,605 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-11-03 10:47:44,680 [INFO] Started client: 258833982548.session
+2024-11-03 10:47:44,680 [INFO] Bot started successfully
+2024-11-03 10:47:44,681 [INFO] Bot is running...
+2024-11-03 10:47:50,901 [INFO] start command in CommandHandler
+2024-11-03 10:47:51,030 [INFO] message_handler in MessageHandler
+2024-11-03 10:47:52,349 [INFO] callback_handler in CallbackHandler
+2024-11-03 10:47:52,350 [INFO] update_groups in callback_handler in CallbackHandler
+2024-11-03 10:47:52,350 [INFO] update_groups in AccountHandler
+2024-11-03 10:47:52,350 [INFO] No new sessions detected.
+2024-11-03 10:47:52,461 [INFO] Processing client: 258833982548.session
+2024-11-03 10:47:52,735 [INFO] Found 19 groups for 258833982548.session
+2024-11-03 10:47:55,863 [INFO] Saved data for 1 clients
+2024-11-03 10:47:57,483 [INFO] callback_handler in CallbackHandler
+2024-11-03 10:47:57,484 [INFO] show_accounts in callback_handler in CallbackHandler
+2024-11-03 10:47:57,484 [INFO] show_accounts in AccountHandler
+2024-11-03 10:48:03,530 [INFO] callback_handler in CallbackHandler
+2024-11-03 10:48:03,531 [INFO] toggle_ in callback_handler in CallbackHandler
+2024-11-03 10:48:03,531 [INFO] toggle_client in AccountHandler
+2024-11-03 10:48:03,531 [ERROR] Error toggling client 258833982548.session: string indices must be integers, not 'str'
+2024-11-03 10:48:45,241 [INFO] Got difference for channel 1466338154 updates
+2024-11-03 10:48:45,267 [INFO] Got difference for channel 1784572641 updates
+2024-11-03 10:48:45,297 [INFO] Got difference for channel 2052604189 updates
+2024-11-03 10:49:25,149 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-11-03 10:49:25,150 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-11-03 10:49:25,155 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-11-03 10:49:25,156 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-11-03 10:49:25,164 [INFO] Not disconnecting (already have no connection)
+2024-11-03 10:49:25,170 [INFO] Bot stopped by user
+2024-11-03 10:49:26,867 [INFO] Loading config from clients.json
+2024-11-03 10:49:26,868 [INFO] Config file loaded successfully
+2024-11-03 10:49:26,869 [INFO] Loading config from clients.json
+2024-11-03 10:49:26,869 [INFO] Config file loaded successfully
+2024-11-03 10:49:26,870 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-11-03 10:49:26,990 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-11-03 10:49:27,644 [INFO] No new sessions detected.
+2024-11-03 10:49:27,645 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-11-03 10:49:27,652 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-11-03 10:49:27,709 [INFO] Started client: 258833982548.session
+2024-11-03 10:49:27,710 [INFO] Bot started successfully
+2024-11-03 10:49:27,710 [INFO] Bot is running...
+2024-11-03 10:49:28,529 [INFO] start command in CommandHandler
+2024-11-03 10:49:28,660 [INFO] message_handler in MessageHandler
+2024-11-03 10:49:33,040 [INFO] callback_handler in CallbackHandler
+2024-11-03 10:49:33,041 [INFO] update_groups in callback_handler in CallbackHandler
+2024-11-03 10:49:33,041 [INFO] update_groups in AccountHandler
+2024-11-03 10:49:33,041 [INFO] No new sessions detected.
+2024-11-03 10:49:33,170 [INFO] Processing client: 258833982548.session
+2024-11-03 10:49:33,329 [INFO] Found 19 groups for 258833982548.session
+2024-11-03 10:49:36,481 [INFO] Saved data for 1 clients
+2024-11-03 10:49:38,877 [INFO] callback_handler in CallbackHandler
+2024-11-03 10:49:38,877 [INFO] show_accounts in callback_handler in CallbackHandler
+2024-11-03 10:49:38,877 [INFO] show_accounts in AccountHandler
+2024-11-03 10:49:40,900 [INFO] callback_handler in CallbackHandler
+2024-11-03 10:49:40,900 [INFO] toggle_ in callback_handler in CallbackHandler
+2024-11-03 10:49:40,900 [INFO] toggle_client in AccountHandler
+2024-11-03 10:49:40,901 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-11-03 10:49:40,901 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-11-03 10:49:41,058 [INFO] Saving config to file
+2024-11-03 10:49:41,059 [INFO] Config saved successfully
+2024-11-03 10:49:53,738 [INFO] callback_handler in CallbackHandler
+2024-11-03 10:49:53,739 [INFO] show_accounts in callback_handler in CallbackHandler
+2024-11-03 10:49:53,739 [INFO] show_accounts in AccountHandler
+2024-11-03 10:53:40,632 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-11-03 10:53:40,632 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-11-03 10:53:40,646 [INFO] Not disconnecting (already have no connection)
+2024-11-03 10:53:40,654 [INFO] Bot stopped by user
