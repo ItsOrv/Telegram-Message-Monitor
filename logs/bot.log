@@ -17262,3 +17262,176 @@ telethon.errors.rpcerrorlist.QueryIdInvalidError: The query ID is invalid (cause
 2024-11-03 14:44:34,996 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
 2024-11-03 14:44:35,009 [INFO] Not disconnecting (already have no connection)
 2024-11-03 14:44:35,014 [INFO] Bot stopped by user
+2024-11-04 07:13:49,319 [INFO] Loading config from clients.json
+2024-11-04 07:13:49,319 [INFO] Config file loaded successfully
+2024-11-04 07:13:49,320 [INFO] Loading config from clients.json
+2024-11-04 07:13:49,320 [INFO] Config file loaded successfully
+2024-11-04 07:13:49,321 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-11-04 07:13:49,454 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-11-04 07:13:50,092 [INFO] No new sessions detected.
+2024-11-04 07:13:50,093 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-11-04 07:13:50,103 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-11-04 07:13:50,169 [INFO] Started client: 258833982548.session
+2024-11-04 07:13:50,169 [INFO] Bot started successfully
+2024-11-04 07:13:50,169 [INFO] Bot is running...
+2024-11-04 07:13:51,353 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-11-04 07:13:51,354 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-11-04 07:13:51,359 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-11-04 07:13:51,359 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-11-04 07:13:51,364 [INFO] Not disconnecting (already have no connection)
+2024-11-04 07:13:51,369 [INFO] Bot stopped by user
+2024-11-04 07:14:23,531 [INFO] Loading config from clients.json
+2024-11-04 07:14:23,531 [INFO] Config file loaded successfully
+2024-11-04 07:14:23,533 [INFO] Loading config from clients.json
+2024-11-04 07:14:23,533 [INFO] Config file loaded successfully
+2024-11-04 07:14:23,533 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-11-04 07:14:23,636 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-11-04 07:14:24,206 [INFO] No new sessions detected.
+2024-11-04 07:14:24,207 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-11-04 07:14:24,215 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-11-04 07:14:24,290 [INFO] Started client: 258833982548.session
+2024-11-04 07:14:24,291 [ERROR] Error running bot: 'ClientManager' object has no attribute 'account_handler'
+2024-11-04 07:14:24,291 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-11-04 07:14:24,291 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-11-04 07:14:24,297 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-11-04 07:14:24,297 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-11-04 07:18:21,081 [INFO] Loading config from clients.json
+2024-11-04 07:18:21,082 [INFO] Config file loaded successfully
+2024-11-04 07:18:21,083 [INFO] Loading config from clients.json
+2024-11-04 07:18:21,083 [INFO] Config file loaded successfully
+2024-11-04 07:18:21,083 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-11-04 07:18:21,181 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-11-04 07:18:21,721 [INFO] No new sessions detected.
+2024-11-04 07:18:21,722 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-11-04 07:18:21,731 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-11-04 07:18:21,851 [INFO] Started client: 258833982548.session
+2024-11-04 07:18:21,852 [ERROR] Error running bot: name 'asyncio' is not defined
+2024-11-04 07:18:21,852 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-11-04 07:18:21,852 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-11-04 07:18:21,858 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-11-04 07:18:21,859 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-11-04 07:18:39,414 [INFO] Loading config from clients.json
+2024-11-04 07:18:39,414 [INFO] Config file loaded successfully
+2024-11-04 07:18:39,416 [INFO] Loading config from clients.json
+2024-11-04 07:18:39,416 [INFO] Config file loaded successfully
+2024-11-04 07:18:39,416 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-11-04 07:18:39,538 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-11-04 07:18:40,183 [INFO] No new sessions detected.
+2024-11-04 07:18:40,184 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-11-04 07:18:40,193 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-11-04 07:18:40,255 [INFO] Started client: 258833982548.session
+2024-11-04 07:18:40,255 [ERROR] Error running bot: name 'asyncio' is not defined
+2024-11-04 07:18:40,256 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-11-04 07:18:40,256 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-11-04 07:18:40,260 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-11-04 07:18:40,261 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-11-04 07:18:58,160 [INFO] Loading config from clients.json
+2024-11-04 07:18:58,161 [INFO] Config file loaded successfully
+2024-11-04 07:18:58,162 [INFO] Loading config from clients.json
+2024-11-04 07:18:58,163 [INFO] Config file loaded successfully
+2024-11-04 07:18:58,163 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-11-04 07:18:58,266 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-11-04 07:18:58,833 [INFO] No new sessions detected.
+2024-11-04 07:18:58,834 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-11-04 07:18:58,841 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-11-04 07:18:58,913 [INFO] Started client: 258833982548.session
+2024-11-04 07:18:59,914 [INFO] Bot started successfully
+2024-11-04 07:18:59,915 [INFO] Bot is running...
+2024-11-04 07:19:59,142 [INFO] Sleeping for 30s (0:00:30) on GetDialogsRequest flood wait
+2024-11-04 07:19:59,142 [INFO] Sleeping for 30s (0:00:30) on GetDialogsRequest flood wait
+2024-11-04 07:19:59,142 [INFO] Sleeping for 30s (0:00:30) on GetDialogsRequest flood wait
+2024-11-04 07:19:59,143 [INFO] Sleeping for 30s (0:00:30) on GetDialogsRequest flood wait
+2024-11-04 07:19:59,143 [INFO] Sleeping for 30s (0:00:30) on GetDialogsRequest flood wait
+2024-11-04 07:19:59,143 [INFO] Sleeping for 30s (0:00:30) on GetDialogsRequest flood wait
+2024-11-04 07:19:59,144 [INFO] Sleeping for 30s (0:00:30) on GetDialogsRequest flood wait
+2024-11-04 07:19:59,144 [INFO] Sleeping for 30s (0:00:30) on GetDialogsRequest flood wait
+2024-11-04 07:19:59,445 [INFO] Got difference for channel 2052604189 updates
+2024-11-04 07:20:59,444 [INFO] Got difference for channel 1795281612 updates
+2024-11-04 07:20:59,470 [INFO] Got difference for channel 2052604189 updates
+2024-11-04 07:21:59,451 [INFO] Got difference for channel 1795281612 updates
+2024-11-04 07:21:59,473 [INFO] Got difference for channel 2052604189 updates
+2024-11-04 07:22:59,459 [INFO] Got difference for channel 2052604189 updates
+2024-11-04 07:22:59,483 [INFO] Got difference for channel 1466338154 updates
+2024-11-04 07:23:59,613 [INFO] Got difference for channel 1466338154 updates
+2024-11-04 07:23:59,680 [INFO] Got difference for channel 2052604189 updates
+2024-11-04 07:24:59,592 [INFO] Got difference for channel 2052604189 updates
+2024-11-04 07:24:59,615 [INFO] Got difference for channel 1466338154 updates
+2024-11-04 07:26:28,814 [INFO] Got difference for channel 1795281612 updates
+2024-11-04 07:26:28,834 [INFO] Got difference for channel 1852212594 updates
+2024-11-04 07:26:28,864 [INFO] Got difference for channel 1466338154 updates
+2024-11-04 07:27:07,588 [INFO] callback_handler in CallbackHandler
+2024-11-04 07:27:07,589 [INFO] ignore_user in KeywordHandler
+2024-11-04 07:27:07,589 [INFO] Saving config to file
+2024-11-04 07:27:07,589 [INFO] Merging new configuration
+2024-11-04 07:27:07,589 [INFO] Config saved successfully
+2024-11-04 07:27:59,675 [INFO] Got difference for channel 1784572641 updates
+2024-11-04 07:27:59,713 [INFO] Got difference for channel 1466338154 updates
+2024-11-04 07:27:59,737 [INFO] Got difference for channel 2052604189 updates
+2024-11-04 07:28:20,243 [INFO] Got difference for channel 1225660675 updates
+2024-11-04 07:28:39,490 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-11-04 07:28:39,491 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-11-04 07:28:39,499 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-11-04 07:28:39,500 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-11-04 07:28:39,509 [INFO] Not disconnecting (already have no connection)
+2024-11-04 07:28:39,517 [INFO] Bot stopped by user
+2024-11-04 07:28:41,159 [INFO] Loading config from clients.json
+2024-11-04 07:28:41,159 [INFO] Config file loaded successfully
+2024-11-04 07:28:41,161 [INFO] Loading config from clients.json
+2024-11-04 07:28:41,161 [INFO] Config file loaded successfully
+2024-11-04 07:28:41,162 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-11-04 07:28:41,283 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-11-04 07:28:41,961 [INFO] No new sessions detected.
+2024-11-04 07:28:41,962 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-11-04 07:28:41,970 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-11-04 07:28:42,074 [INFO] Started client: 258833982548.session
+2024-11-04 07:28:43,076 [INFO] Bot started successfully
+2024-11-04 07:28:43,076 [INFO] Bot is running...
+2024-11-04 07:29:28,660 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-04 07:29:28,661 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-04 07:29:28,662 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-04 07:29:28,662 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-04 07:29:28,663 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-04 07:29:28,664 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-04 07:29:28,812 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-04 07:29:28,813 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-04 07:29:28,813 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-04 07:29:28,814 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-04 07:29:28,815 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-04 07:29:28,847 [INFO] Sleeping early for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-04 07:29:59,874 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-04 07:29:59,906 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-04 07:30:02,275 [INFO] Sleeping early for 29s (0:00:29) on GetDialogsRequest flood wait
+2024-11-04 07:30:31,450 [INFO] Got difference for channel 1466338154 updates
+2024-11-04 07:30:31,499 [INFO] Got difference for channel 2052604189 updates
+2024-11-04 07:30:42,617 [INFO] Got difference for channel 1466338154 updates
+2024-11-04 07:30:49,735 [INFO] callback_handler in CallbackHandler
+2024-11-04 07:30:49,735 [INFO] ignore_user in KeywordHandler
+2024-11-04 07:30:49,735 [INFO] Saving config to file
+2024-11-04 07:30:49,735 [INFO] Merging new configuration
+2024-11-04 07:30:49,736 [INFO] Config saved successfully
+2024-11-04 07:31:04,742 [INFO] start command in CommandHandler
+2024-11-04 07:31:04,873 [INFO] message_handler in MessageHandler
+2024-11-04 07:31:06,010 [INFO] callback_handler in CallbackHandler
+2024-11-04 07:31:06,011 [INFO] remove_keyword in callback_handler in CallbackHandler
+2024-11-04 07:31:06,011 [INFO] remove_keyword_handler in KeywordHandler
+2024-11-04 07:31:09,906 [INFO] start command in CommandHandler
+2024-11-04 07:31:10,037 [INFO] message_handler in MessageHandler
+2024-11-04 07:31:10,038 [INFO] remove_keyword_handler in KeywordHandler
+2024-11-04 07:31:11,371 [INFO] callback_handler in CallbackHandler
+2024-11-04 07:31:11,371 [INFO] remove_ignore_user in callback_handler in CallbackHandler
+2024-11-04 07:31:11,372 [INFO] delete_ignore_user_handler in KeywordHandler
+2024-11-04 07:31:14,151 [INFO] message_handler in MessageHandler
+2024-11-04 07:31:14,152 [INFO] delete_ignore_user_handler in KeywordHandler
+2024-11-04 07:31:14,152 [INFO] Saving config to file
+2024-11-04 07:31:14,152 [INFO] Merging new configuration
+2024-11-04 07:31:14,152 [INFO] Config saved successfully
+2024-11-04 07:31:42,631 [INFO] Got difference for channel 2052604189 updates
+2024-11-04 07:31:42,658 [INFO] Got difference for channel 1466338154 updates
+2024-11-04 07:32:42,638 [INFO] Got difference for channel 1466338154 updates
+2024-11-04 07:32:42,686 [INFO] Got difference for channel 1784572641 updates
+2024-11-04 07:32:42,870 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-11-04 07:32:42,871 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-11-04 07:32:42,877 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-11-04 07:32:42,877 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-11-04 07:32:42,887 [INFO] Not disconnecting (already have no connection)
+2024-11-04 07:32:42,892 [INFO] Bot stopped by user
