@@ -17435,3 +17435,21 @@ telethon.errors.rpcerrorlist.QueryIdInvalidError: The query ID is invalid (cause
 2024-11-04 07:32:42,877 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
 2024-11-04 07:32:42,887 [INFO] Not disconnecting (already have no connection)
 2024-11-04 07:32:42,892 [INFO] Bot stopped by user
+2024-11-04 08:51:54,658 [INFO] Loading config from clients.json
+2024-11-04 08:51:54,659 [INFO] Config file loaded successfully
+2024-11-04 08:51:54,660 [INFO] Loading config from clients.json
+2024-11-04 08:51:54,660 [INFO] Config file loaded successfully
+2024-11-04 08:51:54,661 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-11-04 08:51:54,782 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-11-04 08:51:55,580 [INFO] No new sessions detected.
+2024-11-04 08:51:55,581 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-11-04 08:51:55,589 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-11-04 08:51:55,666 [INFO] Started client: 258833982548.session
+2024-11-04 08:51:56,668 [INFO] Bot started successfully
+2024-11-04 08:51:56,668 [INFO] Bot is running...
+2024-11-04 08:52:00,519 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-11-04 08:52:00,519 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-11-04 08:52:00,525 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-11-04 08:52:00,526 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-11-04 08:52:00,534 [INFO] Not disconnecting (already have no connection)
+2024-11-04 08:52:00,539 [INFO] Bot stopped by user
