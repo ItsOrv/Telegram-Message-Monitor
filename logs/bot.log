@@ -17453,3 +17453,59 @@ telethon.errors.rpcerrorlist.QueryIdInvalidError: The query ID is invalid (cause
 2024-11-04 08:52:00,526 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
 2024-11-04 08:52:00,534 [INFO] Not disconnecting (already have no connection)
 2024-11-04 08:52:00,539 [INFO] Bot stopped by user
+2024-11-04 09:04:18,977 [INFO] Loading config from clients.json
+2024-11-04 09:04:18,978 [INFO] Config file loaded successfully
+2024-11-04 09:04:18,979 [INFO] Loading config from clients.json
+2024-11-04 09:04:18,979 [INFO] Config file loaded successfully
+2024-11-04 09:04:18,980 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-11-04 09:04:19,122 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-11-04 09:04:19,663 [INFO] No new sessions detected.
+2024-11-04 09:04:19,664 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-11-04 09:04:19,673 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-11-04 09:04:19,760 [INFO] Started client: 258833982548.session
+2024-11-04 09:04:20,762 [INFO] Bot started successfully
+2024-11-04 09:04:20,762 [INFO] Bot is running...
+2024-11-04 09:04:24,502 [INFO] start command in CommandHandler
+2024-11-04 09:04:24,615 [INFO] message_handler in MessageHandler
+2024-11-04 09:04:35,813 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-11-04 09:04:35,814 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-11-04 09:04:35,842 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-11-04 09:04:35,843 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-11-04 09:04:35,849 [INFO] Not disconnecting (already have no connection)
+2024-11-04 09:04:35,854 [INFO] Bot stopped by user
+2024-11-04 09:04:37,721 [INFO] Loading config from clients.json
+2024-11-04 09:04:37,722 [INFO] Config file loaded successfully
+2024-11-04 09:04:37,723 [INFO] Loading config from clients.json
+2024-11-04 09:04:37,723 [INFO] Config file loaded successfully
+2024-11-04 09:04:37,724 [INFO] Connecting to 149.154.175.53:443/TcpFull...
+2024-11-04 09:04:37,820 [INFO] Connection to 149.154.175.53:443/TcpFull complete!
+2024-11-04 09:04:38,405 [INFO] No new sessions detected.
+2024-11-04 09:04:38,406 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2024-11-04 09:04:38,415 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2024-11-04 09:04:38,572 [INFO] Started client: 258833982548.session
+2024-11-04 09:04:39,573 [INFO] Bot started successfully
+2024-11-04 09:04:39,573 [INFO] Bot is running...
+2024-11-04 09:04:40,061 [INFO] start command in CommandHandler
+2024-11-04 09:04:40,167 [INFO] message_handler in MessageHandler
+2024-11-04 09:05:30,781 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-04 09:05:30,782 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-04 09:05:30,791 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-04 09:05:30,791 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-04 09:05:30,791 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-04 09:05:30,792 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-04 09:05:30,792 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-04 09:05:30,793 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-04 09:05:30,793 [INFO] Sleeping for 31s (0:00:31) on GetDialogsRequest flood wait
+2024-11-04 09:05:31,147 [INFO] Got difference for channel 1466338154 updates
+2024-11-04 09:06:02,374 [INFO] Got difference for channel 1852212594 updates
+2024-11-04 09:06:39,120 [INFO] Got difference for channel 1852212594 updates
+2024-11-04 09:06:39,141 [INFO] Got difference for channel 1378628998 updates
+2024-11-04 09:06:54,435 [INFO] Got difference for channel 1852212594 updates
+2024-11-04 09:07:02,339 [INFO] Got difference for channel 2052604189 updates
+2024-11-04 09:07:39,173 [INFO] Got difference for channel 2052604189 updates
+2024-11-04 09:08:01,752 [INFO] Disconnecting from 149.154.175.53:443/TcpFull...
+2024-11-04 09:08:01,754 [INFO] Disconnection from 149.154.175.53:443/TcpFull complete!
+2024-11-04 09:08:01,767 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2024-11-04 09:08:01,768 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-11-04 09:08:01,788 [INFO] Not disconnecting (already have no connection)
+2024-11-04 09:08:01,805 [INFO] Bot stopped by user
