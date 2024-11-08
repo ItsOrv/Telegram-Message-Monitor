@@ -1,10 +1,8 @@
-# src/handlers/message_handler.py
+# src/monitor/monitor.py
 
-class MessageHandler:
-    def __init__(self):
-        self.handlers = {}
-
-
+class Monitor:
+    def __init__(self, keywords):
+        self.keywords = keywords
 
     async def process_messages_for_client(self, client):
         """

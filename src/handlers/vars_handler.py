@@ -3,7 +3,7 @@ import logging
 
 logger = logging.getLogger(__name__)
 
-class KeywordHandler:
+class VarsHandler:
     def __init__(self, bot):
         self.bot = bot
 

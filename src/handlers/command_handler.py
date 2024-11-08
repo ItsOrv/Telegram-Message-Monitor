@@ -1,12 +1,9 @@
-from telethon import events, Button
-import logging
-from handlers.account_handler import AccountHandler
-
-logger = logging.getLogger(__name__)
+# src/handlers/command_handler.py
 
 class CommandHandler:
-    def __init__(self, bot):
-        self.bot = bot
+    def __init__(self):
+        self.commands = {}
+
 
     async def start_command(self, event):
         """Handle /start command"""
@@ -35,3 +32,21 @@ class CommandHandler:
         except Exception as e:
             logger.error(f"Error in start_command: {e}")
             await event.respond("Error showing menu. Please try again.")
+
+
+
+
+
+
+
+
+
+    async def add_command(self, command, handler):
+        self.commands[command] = handler
+
+    async def handle_command(self, command, *args):
+        if command in self.commands:
+            handler = self.commands[command]
+            handler(*args)
+        else:
+            print("Unknown command")

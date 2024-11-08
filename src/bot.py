@@ -1,56 +1,70 @@
-import logging
-from telethon import TelegramClient, events, Button
-from config import API_ID, API_HASH, BOT_TOKEN
-import asyncio
-from utils.config_manager import ConfigManager
-from utils.logging_setup import setup_logging
-from handlers.message_handler import MessageHandler
-from handlers.callback_handler import CallbackHandler
-from handlers.command_handler import CommandHandler
-from handlers.account_handler import AccountHandler
-from handlers.keyword_handler import KeywordHandler
-from handlers.stats_handler import StatsHandler
-from clients.client_manager import ClientManager
+# bot.py
+import time
+from telethon import TelegramClient, events
+from src.utils.logger import log_info
+from src.handlers.callback_handler import CallbackHandler
+from src.handlers.vars_handler import VarsHandler
+from src.handlers.command_handler import CommandHandler
+from src.handlers.message_handler import MessageHandler
+from src.monitor.monitor import Monitor
+from src.client_manager.client_manager import ClientManager
+from src.utils.config import API_ID, API_HASH, BOT_TOKEN, CHANNEL_ID, ADMIN_ID
 
-logger = logging.getLogger(__name__)
+class Bot:
+    def __init__(self, client_manager, monitor, command_handler, message_handler, api_id, api_hash, bot_token):
+        self.client_manager = client_manager
+        self.monitor = monitor
+        self.command_handler = command_handler
+        self.message_handler = message_handler
 
-class TelegramBot:
-    def __init__(self):
-        self.config_manager = ConfigManager('clients.json')
-        self.bot = TelegramClient('bot2', API_ID, API_HASH)
-        self.active_clients = {}
-        self.config = self.config_manager.load_config()
-        self.handlers = {}
-        self._conversations = {}
-        self.client_manager = ClientManager(self.config, self.active_clients, API_ID, API_HASH)
-        self.account_handler = AccountHandler(self)
+        # تنظیمات ربات تلگرام
+        self.api_id = api_id
+        self.api_hash = api_hash
+        self.bot_token = bot_token
+        self.channel_id = CHANNEL_ID
+        self.admin_id = ADMIN_ID
 
-    async def start(self):
-        """Start the bot and initialize all components"""
-        await self.bot.start(bot_token=BOT_TOKEN)
-        await self.init_handlers()
-        await self.client_manager.start_saved_clients()
-        logger.info("Bot started successfully")
+        self.client = TelegramClient("bot_session", self.api_id, self.api_hash)
 
-    async def init_handlers(self):
-        """Initialize all event handlers"""
-        self.bot.add_event_handler(CommandHandler(self).start_command, events.NewMessage(pattern='/start'))
-        self.bot.add_event_handler(CallbackHandler(self).callback_handler, events.CallbackQuery())
-        self.bot.add_event_handler(MessageHandler(self).message_handler, events.NewMessage())
+    def start(self):
+        """راه‌اندازی ربات و ورود به حساب تلگرام"""
+        log_info("Bot is starting...")
+        self.client.start(bot_token=self.bot_token)
+        log_info("Logged in successfully!")
 
+    def stop(self):
+        """متوقف کردن ربات"""
+        log_info("Stopping bot...")
+        self.client.disconnect()
 
-    async def run(self):
-        """Run the bot"""
-        try:
-            await self.start()
-            logger.info("Bot is running...")
+    def process_message(self, message):
+        """پردازش پیام‌ها و ارسال پاسخ‌ها"""
+        log_info(f"Received message: {message.text}")
 
-            tasks = [self.account_handler.process_messages_for_client(client) for client in self.active_clients.values()]
-            await asyncio.gather(*tasks)
+        # بررسی کلمات کلیدی برای مانیتورینگ
+        self.monitor.monitor_message(message.text)
 
-            await self.bot.run_until_disconnected()
-        except Exception as e:
-            logger.error(f"Error running bot: {e}")
-        finally:
-            await self.client_manager.disconnect_all_clients()
-            await self.bot.disconnect()
+        # پردازش دستورات
+        self.message_handler.handle_message(message)
+
+    def add_handler(self, handler):
+        """اضافه کردن هندلر جدید به ربات"""
+        self.client.add_event_handler(handler)
+
+    def run(self):
+        """اجرای ربات و دریافت پیام‌ها"""
+        self.start()
+
+        # تعریف هندلر پیام
+        @self.client.on(events.NewMessage)
+        async def on_new_message(event):
+            self.process_message(event.message)
+
+        # اجرای ربات
+        log_info("Bot is running...")
+        self.client.run_until_disconnected()
+
+    def send_message(self, chat_id, text):
+        """ارسال پیام به یک چت خاص"""
+        self.client.send_message(chat_id, text)
+        log_info(f"Message sent to {chat_id}: {text}")

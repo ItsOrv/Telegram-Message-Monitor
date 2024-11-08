@@ -59,5 +59,3 @@ class CallbackHandler:
         except Exception as e:
             logger.error(f"Error in callback_handler: {e}")
             await event.respond("Error processing request. Please try again.")
-
-
