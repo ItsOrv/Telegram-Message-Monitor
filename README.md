@@ -1,3 +1,4 @@
+# IT'S NOT READY, DON'T USE
 # Telegram Panel
 
 Telegram Panel is a comprehensive tool designed to manage multiple Telegram accounts, monitor groups or channels, and automate messaging operations based on predefined rules. This project provides a robust bot that can monitor specific groups or channels for messages containing keywords, automatically forward them to designated channels, exclude specific users, and manage various messaging automation features. 
