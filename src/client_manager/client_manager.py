@@ -2,7 +2,7 @@ import os
 import asyncio
 import logging
 from telethon import TelegramClient
-from utils.config_manager import ConfigManager
+from src.utils.config import ConfigManager
 
 logger = logging.getLogger(__name__)
 
